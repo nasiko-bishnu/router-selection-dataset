@@ -22,7 +22,7 @@
 | `pr-296-lexical` | 317 | 67.0% |
 | `laya-english-finetuned` | 237 | 63.5% |
 
-- Most questions an author would call MID or HIGH are solved by today's LOW models (see `../tier_measure/RESULTS.md`). A model trained to copy the authored labels sends them up a tier or two.
+- Most questions an author would call MID or HIGH are solved by today's LOW models. A model trained to copy the authored labels sends them up a tier or two.
 - For d3-flash, fine-tuning **lowers** balanced accuracy (48.3% → 43.6%). For CLM it raises balanced accuracy (38.9% → 41.6%), but plain accuracy falls from 51.3% to 32.5%.
 
 **3. The retrained PR classifiers sit near chance (35.0–37.9%).** They see only the question text, so they can only copy the authored labels' surface patterns.
@@ -539,26 +539,26 @@ Every model that gives tier probabilities is thresholded: all runs except Nasiko
 |---|---|---|
 | **d3-flash-zeroshot** | d3-flash asked low / mid / high, top option | vllm-sr/d3-flash on the Mac GPU (PyTorch path, no ROCm kernels), Jev's LEVEL_QUESTION; latency includes the 9B backbone. |
 | **jev-direct** | Jev (jev-1.13.0) asked low / mid / high, top option | TypeSafe API, LEVEL_QUESTION, 4 parallel requests; latency is the API round trip. Total cost $0.0131. |
-| **d3-flash-finetuned** | d3-flash (backbone frozen), readout rows for the 3 tier codes fine-tuned on eval_600 | D3Readout from ../d3_flash/run_d3.py, warm start from the model's own readout; p50 latency is the readout only (add the backbone time of d3-flash-zeroshot). Train 0.6 s. |
-| **clm-finetuned** | CLM (Qwen3-8B frozen), projection heads fine-tuned on eval_600 for the 3 tier options | ClmTierHead from ../clm/run_clm.py, warm start from CLM_v0.1-8B; latency includes the encoder call. Train 65.5 s. |
+| **d3-flash-finetuned** | d3-flash (backbone frozen), readout rows for the 3 tier codes fine-tuned on eval_600 | Readout training warm-starts from the model's own readout; p50 latency is the readout only (add the backbone time of d3-flash-zeroshot). Train 0.6 s. |
+| **clm-finetuned** | CLM (Qwen3-8B frozen), projection heads fine-tuned on eval_600 for the 3 tier options | Heads warm-started from CLM_v0.1-8B; latency includes the encoder call. Train 65.5 s. |
 | **clm-zeroshot** | CLM asked low / mid / high, top option | CLM_v0.1-8B heads; Qwen3-8B encoder in PyTorch on the Mac GPU (stand-in for vLLM, same last-token pooling); latency includes the encoder. |
-| **laya-typed-decisions-finetuned** | Laya typed-decisions fine-tuned on eval_600 (options low / mid / high) | LayaTier from ../laya600: plain cross-entropy, AdamW, top 8 encoder layers, up to 20 epochs, best epoch by loss on 10% of eval_600 held out. Chosen epoch: 6. Train 841.3 s. |
-| **pr-292** | all-MiniLM-L6-v2 fine-tuned (last 2 layers + tier head), 3-class | Model and recipe as in ../retrain3/pr_292.py (16 epochs, best epoch on a 20% hold-out of eval_600). Train 32.1 s. |
-| **laya-english-finetuned** | Laya english fine-tuned on eval_600 (options low / mid / high) | LayaTier from ../laya600: plain cross-entropy, AdamW, top 8 encoder layers, up to 20 epochs, best epoch by loss on 10% of eval_600 held out. Chosen epoch: 6. Train 839.1 s. |
-| **pr-296-semantic** | bge-small-en-v1.5 (fastembed) + shape features + LR (C=4), 3-class | Model as in ../retrain3/pr_296_semantic.py, trained on eval_600. Train 1.8 s. |
-| **pr-296-lexical** | word 1-2 grams + char 3-5 grams + shape features + LR (C=20), 3-class | Model as in ../retrain3/pr_296_lexical.py, trained on eval_600. Train 0.2 s. |
+| **laya-typed-decisions-finetuned** | Laya typed-decisions fine-tuned on eval_600 (options low / mid / high) | Plain cross-entropy, AdamW, top 8 encoder layers, up to 20 epochs, best epoch by loss on 10% of eval_600 held out. Chosen epoch: 6. Train 841.3 s. |
+| **pr-292** | all-MiniLM-L6-v2 fine-tuned (last 2 layers + tier head), 3-class | PR #292's model and recipe (16 epochs, best epoch on a 20% hold-out of eval_600). Train 32.1 s. |
+| **laya-english-finetuned** | Laya english fine-tuned on eval_600 (options low / mid / high) | Plain cross-entropy, AdamW, top 8 encoder layers, up to 20 epochs, best epoch by loss on 10% of eval_600 held out. Chosen epoch: 6. Train 839.1 s. |
+| **pr-296-semantic** | bge-small-en-v1.5 (fastembed) + shape features + LR (C=4), 3-class | PR #296's semantic model, trained on eval_600. Train 1.8 s. |
+| **pr-296-lexical** | word 1-2 grams + char 3-5 grams + shape features + LR (C=20), 3-class | PR #296's lexical model, trained on eval_600. Train 0.2 s. |
 | **nasiko-main-online** | regex request type + Thompson-sampled tier, after each pick the chosen cell learns from the measured label (1 if the tier is at or above it): best-case instant feedback | main's own routing::classify (Rust, commit c6ebd4b3 2026-10-07), seed 0 shown. Seeds 0-4: balanced 33.7% (sd 0.8), accuracy 28.6% (sd 3.2). No difficulty signal: the tier depends only on the request type and the sampled priors. |
 | **nasiko-main-cold** | regex request type + Thompson-sampled tier, no learned cells, cold-start priors only (a fresh deployment) | main's own routing::classify (Rust, commit c6ebd4b3 2026-10-07), seed 0 shown. Seeds 0-4: balanced 32.7% (sd 1.0), accuracy 41.6% (sd 1.1). No difficulty signal: the tier depends only on the request type and the sampled priors. |
 | **laya-english-zeroshot** | Laya english asked low / mid / high, top option | The base model as published, no training. |
-| **laya-multilingual-finetuned** | Laya multilingual fine-tuned on eval_600 (options low / mid / high) | LayaTier from ../laya600: plain cross-entropy, AdamW, top 8 encoder layers, up to 20 epochs, best epoch by loss on 10% of eval_600 held out. Chosen epoch: 2. Train 367.9 s. |
+| **laya-multilingual-finetuned** | Laya multilingual fine-tuned on eval_600 (options low / mid / high) | Plain cross-entropy, AdamW, top 8 encoder layers, up to 20 epochs, best epoch by loss on 10% of eval_600 held out. Chosen epoch: 2. Train 367.9 s. |
 | **laya-typed-decisions-zeroshot** | Laya typed-decisions asked low / mid / high, top option | The base model as published, no training. |
 | **laya-multilingual-zeroshot** | Laya multilingual asked low / mid / high, top option | The base model as published, no training. |
 
 ## 🧪 How it was tested
 
-- **Test set:** `data/llm_tier_selection_600_measured.jsonl`, 600 questions. Each label is the cheapest tier whose models all answered correctly (LOW: `gpt-4.1-nano` + `Qwen3.5 9B`; MID: `gpt-4.1` + `Gemma 4 26B-A4B`; HIGH: `gpt-5.4`), graded by a blind judge. The 11 questions no tier solved are labelled HIGH. See `../tier_measure/RESULTS.md`.
-- **Fine-tuned models** are trained on `../data/eval_600.json` (authored labels, 200 per tier), the same training data as in `TIER_SELECTION_RESULTS.md`, and tested once here. The two sets share no questions.
-- **Zero-shot decision models** (Jev, d3-flash, CLM, Laya) are asked Jev's low / mid / high question (`jev/run_jev.py` `LEVEL_QUESTION`), and their top option is the pick.
+- **Test set:** `data/llm_tier_selection_600_measured.jsonl`, 600 questions. Each label is the cheapest tier whose models all answered correctly (LOW: `gpt-4.1-nano` + `Qwen3.5 9B`; MID: `gpt-4.1` + `Gemma 4 26B-A4B`; HIGH: `gpt-5.4`), graded by a blind judge. The 11 questions no tier solved are labelled HIGH.
+- **Fine-tuned models** are trained on `eval_600` (authored labels, 200 per tier; not included here) and tested once here. The two sets share no questions.
+- **Zero-shot decision models** (Jev, d3-flash, CLM, Laya) are asked Jev's low / mid / high question (`LEVEL_QUESTION`), and their top option is the pick.
 - **Balanced accuracy** = mean of the three recalls. **Too small** = picked a cheaper tier than measured (answer at risk); **too big** = picked a dearer tier (money wasted).
 - **Latency:** one question at a time on this Mac (M5 Pro), or the API round trip for Jev.
 - **Files:** `results/<model>.json` (metrics), `results/predictions/<model>.jsonl` (every pick), `results/logs/` (console log of every run).
@@ -595,7 +595,7 @@ Every model that gives tier probabilities is thresholded: all runs except Nasiko
 | Term | Meaning |
 |---|---|
 | **Decision model** | A model built to answer structured questions about a text, such as Jev, d3-flash, CLM and Laya. It is given the question plus the low / mid / high instructions and scores the three options |
-| **`LEVEL_QUESTION`** | The exact instructions and tier descriptions every decision model is asked, from `jev/run_jev.py`: "Select the lowest model tier that is sufficient…" |
+| **`LEVEL_QUESTION`** | The exact instructions and tier descriptions every decision model is asked: "Select the lowest model tier that is sufficient…" |
 | **Zero-shot** | The model as published, with **no training on our data**; it judges from the instructions alone |
 | **Fine-tuned** | The model after training part of it on `eval_600`'s questions and labels, so its picks match those examples |
 | **Readout (d3-flash)** | d3-flash's last small layer that turns its internal state into scores for the options. Fine-tuning retrains only this; the 9B model stays frozen |
