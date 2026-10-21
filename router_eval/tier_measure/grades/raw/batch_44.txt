@@ -1,0 +1,50 @@
+{"item_id": "68fe1db336", "pass": true, "score": 0.85, "reason": "Thorough, well-organized treatment of how justice differs across traditions, the effect on cross-cultural disputes, and global-system obstacles; some generalizations but sound."}
+{"item_id": "c5e4fd6cb5", "pass": false, "score": 0.45, "reason": "Covers the requested topics generically but wrongly implies Steamboat Willie's copyright has been extended multiple times without noting that it entered the public domain in 2024; the Disney/Sonny Bono link is shallow."}
+{"item_id": "6ac2e348b0", "pass": true, "score": 0.95, "reason": "Correct plain reason: cold slows the chemical reactions in the battery."}
+{"item_id": "0690616788", "pass": true, "score": 0.85, "reason": "Covers bank failures, money supply contraction, Smoot-Hawley, policy errors and confidence; minor oversimplifications."}
+{"item_id": "6ae1cf54fc", "pass": true, "score": 0.85, "reason": "Gives two valid effects (trade disruption, push for sea routes); the common textbook framing is a bit simplified but acceptable."}
+{"item_id": "5696b0f929", "pass": true, "score": 0.85, "reason": "Covers climate, vegetation, wildlife and human settlements accurately with minor figure variations."}
+{"item_id": "ed4f8a8c91", "pass": false, "score": 0.45, "reason": "Does not give actual median and mean; offers only an unsupported ballpark estimate and defers to methodology."}
+{"item_id": "a16c6d997d", "pass": true, "score": 0.85, "reason": "Comprehensive, balanced framework with allocations, governance, trading and phasing that addresses all three stakeholders."}
+{"item_id": "9c478b1e68", "pass": true, "score": 0.8, "reason": "Reasonable comparison with a clear recommendation of a local-capable web API and mention of a hybrid approach."}
+{"item_id": "49d58fc812", "pass": true, "score": 0.9, "reason": "Well-structured persuasive essay with clear arguments and a rebuttal of counterarguments."}
+{"item_id": "9294e262d2", "pass": false, "score": 0.5, "reason": "Haiku has the right 5-7-5 form (arguably) but doesn't rhyme, and the user asked for a rhyming haiku."}
+{"item_id": "4bc8534a50", "pass": false, "score": 0.4, "reason": "The final conclusion (25% off is better: 2.25P vs 2.5P) is correct, but the answer opens with the false claim that they are exactly the same, which makes it self-contradictory."}
+{"item_id": "bbc761f3f9", "pass": false, "score": 0.2, "reason": "Not really Planescape (no planes traversal, invented 'Plane of Eternity', Void), levels skip 13-14, nonsensical items (Rod of the Vecna, Potion of Wishes), Tier 1 gives Ring of Invisibility, and the chapter 3 'mid-boss' label is wrong."}
+{"item_id": "9a96b0a96b", "pass": true, "score": 0.85, "reason": "Accurate definition and location of neural pathways in brain, spinal cord and periphery."}
+{"item_id": "6d108df5ba", "pass": true, "score": 0.85, "reason": "Correctly explains that a password prevents unauthorized access, bandwidth theft and eavesdropping."}
+{"item_id": "8edb4f0d4d", "pass": true, "score": 0.9, "reason": "Accurate explanation of IndexOutOfBoundsException with causes, fixes and an example."}
+{"item_id": "f4874deb85", "pass": false, "score": 0.35, "reason": "Eq. 1 and 2 correct, but eq. 3 only claims a root near 0.2 without finding it; the actual root is ~0.37 and no accurate solution was given."}
+{"item_id": "71aeef9a16", "pass": true, "score": 0.95, "reason": "Pizza by 4 over pasta matches the reference."}
+{"item_id": "92554369c5", "pass": true, "score": 0.8, "reason": "Feasible recipe that uses only the listed ingredients and the stove; ignores the toaster oven but it is not required."}
+{"item_id": "46339a73d5", "pass": true, "score": 0.8, "reason": "Provides a structured Java interview with conceptual and coding questions covering varied topics."}
+{"item_id": "6985fc9dc5", "pass": true, "score": 0.9, "reason": "Comprehensive list of hidden costs and risks with sensible recommendations."}
+{"item_id": "2c53787b44", "pass": true, "score": 0.95, "reason": "Correct: 3 tablets."}
+{"item_id": "1a5758ef0f", "pass": false, "score": 0.35, "reason": "Misses the most likely cause (Adam/momentum or optimizer state, or loss-averaging/logging artifacts); the BN reasoning is shaky and the suggestions are partly nonsensical."}
+{"item_id": "b27eca28f0", "pass": false, "score": 0.45, "reason": "Grimm-style but the crow doesn't really fall in love; it becomes a platonic prince friendship, partly missing the premise."}
+{"item_id": "3fe06326a6", "pass": true, "score": 0.7, "reason": "Correctly says they look almost the same size; though 'Moon's orbit more elliptical' is a minor shaky claim, and the answer hedges on which is larger."}
+{"item_id": "2f4af9c1ae", "pass": true, "score": 0.9, "reason": "Fun, in-character 18th-century pirate response to the request."}
+{"item_id": "6c4bcc7869", "pass": true, "score": 0.85, "reason": "Clear, reasonable recommendation of a weather app with justification."}
+{"item_id": "448571402f", "pass": false, "score": 0.5, "reason": "Mostly good but contains errors: the Goliath birdeater is not the world's largest insect (it's a spider), and the 'Amazon river dolphin' is listed redundantly; the area figure and 'second continent' claim are shaky."}
+{"item_id": "d8331e15d5", "pass": true, "score": 0.9, "reason": "Thorough and accurate coverage of principles, Gantt, agile, risk management and EVM."}
+{"item_id": "2086d28406", "pass": false, "score": 0.5, "reason": "Works for simple cases, but mixes UTC (toISOString) with local-time setDate, which can skip or duplicate days across DST or in non-UTC timezones."}
+{"item_id": "fbfa0eead9", "pass": true, "score": 0.75, "reason": "Reasonable list of approaches with implementation strategies, though somewhat generic."}
+{"item_id": "70bdb5a3c9", "pass": true, "score": 0.95, "reason": "15 liters matches the reference."}
+{"item_id": "5b27d09957", "pass": true, "score": 0.85, "reason": "Appropriately sets up the task and invites the user's description."}
+{"item_id": "966b4c803b", "pass": false, "score": 0.3, "reason": "Wrongly identifies 願 as clock+heart (it is 原 + 頁), and the mnemonic is built on a wrong decomposition; the intended kanji is likely 念/思-type, so the identification is incorrect."}
+{"item_id": "29b029f3d7", "pass": true, "score": 0.9, "reason": "Complete, working starter with frontend and backend that sends text to an SD API."}
+{"item_id": "2b9bc30d15", "pass": true, "score": 0.95, "reason": "Clear explanation with one everyday example each."}
+{"item_id": "fa73fb2f6c", "pass": false, "score": 0.4, "reason": "Lacks Fredric Brown's concise twist-ending style; the logic is muddled (repeated sentence, incoherent conversion) and it is overlong."}
+{"item_id": "aec36a7faa", "pass": true, "score": 0.95, "reason": "Correct formula (√3/4)s² with a correct example."}
+{"item_id": "cbad7332c2", "pass": false, "score": 0.3, "reason": "The premise is inconsistent, but the correct answer is based on f''(x)=12x-10 giving x>5/6, which matches none of the options (E); the answer picked C wrongly."}
+{"item_id": "cb5f0fd0b2", "pass": true, "score": 0.9, "reason": "Correct macOS screenshot shortcuts, though the Touch Bar shortcut is outdated for Ventura, a minor slip."}
+{"item_id": "af91f175bd", "pass": false, "score": 0.4, "reason": "Reaches a sensible 'no' but invents/guesses the identity of Prince Miklós (Károlyi) and states details about him with unwarranted confidence."}
+{"item_id": "836e06f68c", "pass": true, "score": 0.9, "reason": "Accurate explanation of は, を, の with correct examples."}
+{"item_id": "99769e3315", "pass": true, "score": 0.95, "reason": "Accurate explanation of contextlib.closing and correctly notes ZipFile supports with directly."}
+{"item_id": "2ff374f276", "pass": true, "score": 0.95, "reason": "Correct: Canberra, in Australia."}
+{"item_id": "bb9b58bf97", "pass": false, "score": 0.5, "reason": "Defenses are sound, but contains dubious claims (doorbell 2FA bypass unlocking, 'blocks 90%', quiet-hours schedule as a defense) and some inaccuracies."}
+{"item_id": "db21a19c71", "pass": true, "score": 0.95, "reason": "Correct: Mike."}
+{"item_id": "2cd62847c1", "pass": true, "score": 0.95, "reason": "Correct: 4.8 ha legumes, 3.6 ha each wheat and maize."}
+{"item_id": "13cccb4d9a", "pass": false, "score": 0.2, "reason": "Violates the explicit constraint by saying 'I stand by the factual accuracy', and adds claims about the sender's intent that weren't supplied."}
+{"item_id": "af37da16e7", "pass": true, "score": 0.95, "reason": "One clear, child-friendly sentence defining an ecosystem."}
+{"item_id": "682665b253", "pass": true, "score": 0.85, "reason": "Accurate concise summary of orbitals, quantum numbers and filling rules suited to a 5-minute read."}

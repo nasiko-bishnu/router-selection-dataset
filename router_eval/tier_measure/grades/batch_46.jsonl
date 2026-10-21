@@ -1,0 +1,50 @@
+{"item_id": "7cceb91611", "pass": true, "score": 0.9, "reason": "Clear five-minute structure with timings, one funny story, a sincere message, and a template."}
+{"item_id": "ed611cad70", "pass": true, "score": 0.7, "reason": "Sound differential and a tiered test progression; minor slips such as calling gabapentin an anti-inflammatory and mentioning gout."}
+{"item_id": "3a402aefd8", "pass": true, "score": 0.8, "reason": "Valid vegan, no-refined-sugar banana cake recipe with complete ingredients and steps."}
+{"item_id": "3f647faaf1", "pass": false, "score": 0.3, "reason": "The first example, 'Juan está médico', is not natural Spanish and its explanation is muddled and wrong; only the second pair works."}
+{"item_id": "ec4e92032b", "pass": true, "score": 0.7, "reason": "Mostly accurate nearby art sites; Medici Chapels are listed twice and the Mercato Centrale art claim is weak, but the list is useful."}
+{"item_id": "bf25eee167", "pass": true, "score": 0.85, "reason": "The area scaling is correct (11-inch round ≈ 1.5×) and the 9x13 alternative with baking adjustments is sensible."}
+{"item_id": "3e680ded19", "pass": true, "score": 0.8, "reason": "Three practical, age-appropriate practice ideas, including low-pressure quizzing that addresses nervousness."}
+{"item_id": "3aba0ea4d6", "pass": true, "score": 0.95, "reason": "Diameters and ranking are correct."}
+{"item_id": "020fa80be9", "pass": true, "score": 0.95, "reason": "Correct XOR plus popcount solution that matches both examples, with an older-Python fallback."}
+{"item_id": "8df58d79d9", "pass": true, "score": 0.9, "reason": "Correct distinction with a realistic use case for each."}
+{"item_id": "5fcd40410a", "pass": true, "score": 0.85, "reason": "Covers income, expense, tax payment, and bank records with reasons, including self-employment tax."}
+{"item_id": "a7cf06a9cc", "pass": true, "score": 0.85, "reason": "Relevant, well-categorized recommendations that fit the stated reading list."}
+{"item_id": "6af10b2faa", "pass": false, "score": 0.3, "reason": "The claimed backing lyric looks generic or fabricated, with a dubious attribution to McCreary's own vocals; I cannot verify it."}
+{"item_id": "64a833fa53", "pass": false, "score": 0.45, "reason": "Covers every requested area and flags guesses, but is generic and non-committal, with no specific tax and no real analysis."}
+{"item_id": "3a5f461cb6", "pass": true, "score": 0.6, "reason": "Reasonable diagnosis and a Platt/isotonic recalibration on a held-out calibration set; some sloppy points such as the 'saturation' scenario and calling isotonic overfitting 'leakage'."}
+{"item_id": "c0ce756f97", "pass": true, "score": 0.9, "reason": "Accurate contrast of purpose, methods, and outcomes."}
+{"item_id": "e20d8011dd", "pass": true, "score": 0.85, "reason": "Covers probabilistic event attribution, counterfactual ensembles, observational constraints, and uncertainty."}
+{"item_id": "a7b80cfe45", "pass": false, "score": 0.1, "reason": "The 15-year payment should be about $2,531.57, not $2,539.40, so its interest figure is also wrong; the 30-year section is messy and self-contradicting."}
+{"item_id": "14c702bef9", "pass": true, "score": 0.85, "reason": "Clear, simple screenshot steps for Android, with a follow-up offer."}
+{"item_id": "5a104f020a", "pass": false, "score": 0.0, "reason": "The count of 49 is wrong (the message has about 103 letters), the breakdown omits words, and its own sum does not give 49."}
+{"item_id": "7515d7ec87", "pass": true, "score": 0.85, "reason": "Under-proofing, insufficient kneading, and too much flour are well-chosen likely causes."}
+{"item_id": "8c179d18aa", "pass": true, "score": 0.95, "reason": "Correct: '+' denotes check."}
+{"item_id": "d7807a208d", "pass": true, "score": 0.85, "reason": "Evidence-based non-medication options with appropriate caveats."}
+{"item_id": "04b0a33c1d", "pass": true, "score": 0.85, "reason": "Correctly says the curriculum cannot claim credit without addressing confounding and selection, and proposes DiD and regression."}
+{"item_id": "196b376732", "pass": true, "score": 1.0, "reason": "Correct derivative 3/x − 2x e^{x²}."}
+{"item_id": "c8d8414b41", "pass": true, "score": 0.75, "reason": "Three reasonable practice ideas, including mock tests to reduce anxiety."}
+{"item_id": "ac79c4caf0", "pass": false, "score": 0.05, "reason": "Wrongly refuses a feasible task and invents non-existent commands (zfs unlock, keyfile property) instead of using zenity with zfs load-key."}
+{"item_id": "3ee6bb588c", "pass": true, "score": 1.0, "reason": "15 liters, matching the reference."}
+{"item_id": "17da6f09a1", "pass": true, "score": 0.95, "reason": "Complete ingredient list with quantities and clear steps."}
+{"item_id": "b34ab0c6de", "pass": true, "score": 0.6, "reason": "Sensible set of alternatives to A/B testing (replay, simulation, review, canary), though thin on statistical methods for rare events."}
+{"item_id": "9627e530ab", "pass": true, "score": 0.75, "reason": "Covers probabilistic attribution, counterfactual ensembles, model consistency, and uncertainty; the fingerprint example is weak and there are minor typos."}
+{"item_id": "b488b8d767", "pass": true, "score": 0.9, "reason": "Correctly explains SUTVA/interference violation and proposes cluster-level design, buffers, and exposure mapping."}
+{"item_id": "440d2c4f30", "pass": true, "score": 0.6, "reason": "Names Strategy with sound reasoning, though it hedges with Abstract Factory and the framing of the payment/shipping link is loose."}
+{"item_id": "17b13fbee4", "pass": true, "score": 1.0, "reason": "Correct: $2,400 out of pocket."}
+{"item_id": "7ef42094c1", "pass": true, "score": 0.8, "reason": "Plausible sources given (Borges, Korzybski, Wolfram's computational irreducibility) with an honest assessment of originality."}
+{"item_id": "2d905b0043", "pass": true, "score": 0.9, "reason": "Six described species and a random pick, as requested."}
+{"item_id": "f9c0193b98", "pass": false, "score": 0.4, "reason": "Largely generic and vague, and does not clearly show how the budget holds while closing the gap; some muddled advice."}
+{"item_id": "a3a7012649", "pass": false, "score": 0.45, "reason": "Treats gravity as a Newtonian displacement offset rather than a metric/geodesic warp, and the UE5 guidance is shallow."}
+{"item_id": "d5508d114d", "pass": true, "score": 0.85, "reason": "Clear, accurate explanation pitched at the child's level."}
+{"item_id": "3a7a104a64", "pass": true, "score": 0.85, "reason": "Comprehensive, actionable resume advice."}
+{"item_id": "fdf9c78558", "pass": true, "score": 0.85, "reason": "Covers valid login, wrong passwords, and locked account with preconditions, steps, and expected results."}
+{"item_id": "f1a3e5e755", "pass": false, "score": 0.4, "reason": "Core idea of redirecting raises is sound, but the answer proposes giving raises by gender (men 1%, women 5%), which is legally problematic and not a defensible approach, and it ignores pay-band mechanics (compa-ratio, band placement, like-for-like role comparison) that the question asked about; the example's averaging also holds only if groups have equal payroll."}
+{"item_id": "fb7aadd4ec", "pass": false, "score": 0.3, "reason": "Overblown claim that this common sardonic joke is gaslighting and plainly offensive; it ignores context-dependent humor."}
+{"item_id": "9ec7768af4", "pass": true, "score": 0.65, "reason": "Covers battery degradation, component aging, and thermal paste; partly assumes the laptop is running and has a typo."}
+{"item_id": "3ad9e614a8", "pass": true, "score": 0.6, "reason": "Reasonable framework weighing rate, tax, liquidity, and horizon; annuity figures are wrong and a mortgage is mislabeled an illiquid asset."}
+{"item_id": "53aa95ab33", "pass": true, "score": 0.9, "reason": "Two valid reasons: inelastic late demand and revenue management."}
+{"item_id": "b868f8ee1d", "pass": true, "score": 0.9, "reason": "Accurate high-level comparison, including the hybrid use."}
+{"item_id": "7b37a32118", "pass": true, "score": 0.85, "reason": "Covers the main causes with a check and fix for each."}
+{"item_id": "f435f87860", "pass": true, "score": 0.7, "reason": "Balanced overview of capabilities and challenges; Fi and Whistle are dog-oriented products, a minor slip."}
+{"item_id": "6651c9832a", "pass": true, "score": 0.85, "reason": "Three appropriate leg stretches with clear instructions and hold times."}

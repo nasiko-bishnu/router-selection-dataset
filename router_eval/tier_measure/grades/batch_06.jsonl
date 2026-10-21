@@ -1,0 +1,50 @@
+{"item_id": "8b8257d88e", "pass": true, "score": 0.9, "reason": "In-character 18th-century pirate voice that handles the anachronistic Pringles request humorously and ends by accepting the offer."}
+{"item_id": "be25a43a9f", "pass": true, "score": 0.9, "reason": "Accurate, clear comparison of survey and excavation; only stray formatting typos."}
+{"item_id": "9002e15734", "pass": true, "score": 1.0, "reason": "Pattern is +3, missing numbers are 32 and 35, option B is correct."}
+{"item_id": "22b831f07e", "pass": true, "score": 0.85, "reason": "Thorough packing list plus sensible storm-safety advice such as a turn-around time and avoiding ridges."}
+{"item_id": "ef883b64f6", "pass": true, "score": 1.0, "reason": "Correct fix to \"They're\" with a clear explanation of they're, their and there."}
+{"item_id": "9685e404d6", "pass": false, "score": 0.1, "reason": "The message has 103 letters, not 98, and the answer miscounted \"If that is the case\" as 14 letters instead of 15."}
+{"item_id": "7f53378349", "pass": true, "score": 0.7, "reason": "Gives a broad set of conceptual and coding questions covering the main Java topics, though it is a question list rather than an interactive interview."}
+{"item_id": "21fc286ce5", "pass": true, "score": 0.85, "reason": "Correctly finds two real roots (0 and about -0.8767) and correctly says no general root formula exists, though some reasoning is sloppy."}
+{"item_id": "d526e914f9", "pass": false, "score": 0.5, "reason": "Toast runs roughly 3 minutes rather than the requested five, and the funny story is generic; marginal."}
+{"item_id": "b4d683d805", "pass": true, "score": 1.0, "reason": "Solid, liquid, gas are correct."}
+{"item_id": "9cafa46cde", "pass": true, "score": 1.0, "reason": "4.8 ha legumes and 3.6 ha each of wheat and maize are correct."}
+{"item_id": "0054bd9f9a", "pass": true, "score": 0.65, "reason": "Correctly explains why calibration can drift while ranking holds and gives a leakage-aware recalibration on post-policy data, though generic."}
+{"item_id": "c0f88a5288", "pass": true, "score": 0.95, "reason": "Planet diameters and relative sizes are accurate and well ordered."}
+{"item_id": "c348da1374", "pass": true, "score": 0.8, "reason": "Correct sort-and-dedupe approach with a tie-break and an SQL alternative, though NaT rows would sort last and be kept as latest."}
+{"item_id": "ae44ed0d8c", "pass": true, "score": 0.9, "reason": "Sound, practical potty-training guidance covering readiness, routine, reinforcement and accidents."}
+{"item_id": "b30edfb8f7", "pass": true, "score": 0.95, "reason": "Accurate summary of the book's content, themes and impact."}
+{"item_id": "ba16b5c3c6", "pass": true, "score": 0.6, "reason": "Main prevention advice (maternal vaccine, nirsevimab, hygiene) is correct, but the intro is outdated and self-contradictory about vaccines and the headings are muddled."}
+{"item_id": "fe52f2efe6", "pass": true, "score": 0.9, "reason": "Accurate list of toxic foods with a useful what-to-do section."}
+{"item_id": "6b164a1860", "pass": true, "score": 0.85, "reason": "Correctly identifies primary hyperthyroidism, likely Graves', and gives appropriate follow-up tests."}
+{"item_id": "09b063e3a0", "pass": true, "score": 1.0, "reason": "Median is 10."}
+{"item_id": "65697bc1df", "pass": true, "score": 0.65, "reason": "Reasonable framework with expected-value and scenario analysis, though generic."}
+{"item_id": "2116018391", "pass": true, "score": 1.0, "reason": "Clear rewrite with the same meaning."}
+{"item_id": "3ef85dfbc4", "pass": true, "score": 0.8, "reason": "Well-justified recommendation of a convection oven for a family of five baking weekly."}
+{"item_id": "f0d2a401ae", "pass": true, "score": 0.95, "reason": "Accurate account of intestinal CYP3A4 inhibition, OATP effects, P-gp and why only some drugs are affected."}
+{"item_id": "b6065b585d", "pass": true, "score": 0.85, "reason": "Clear, correct explanation of diversification for index funds, with no guarantee implied."}
+{"item_id": "f0a2862918", "pass": true, "score": 0.8, "reason": "Covers the care options with plausible costs and a practical process for deciding together."}
+{"item_id": "b32596857a", "pass": true, "score": 0.95, "reason": "Correctly recommends paracetamol over ibuprofen and gives sensible cautions and red flags."}
+{"item_id": "a7d8aa2759", "pass": true, "score": 0.6, "reason": "Reasonable conclusion favouring driving, but it contains odd advice such as putting people on top of luggage and a made-up '80% of cases' figure."}
+{"item_id": "bd00439d20", "pass": true, "score": 0.95, "reason": "Accurate distinction between covariance, correlation and R², including the point that R² is not a test."}
+{"item_id": "6ceafe0005", "pass": true, "score": 0.6, "reason": "Core overbooking economics and optimisation are right, but the US compensation figures are outdated and some dynamic-adjustment claims are dubious."}
+{"item_id": "6b83c146bf", "pass": true, "score": 0.9, "reason": "Accurate cold versus flu comparison with appropriate warning signs for seeing a doctor."}
+{"item_id": "002ae2c3ac", "pass": true, "score": 0.95, "reason": "Clear, accurate and intuitive explanation of CNN concepts."}
+{"item_id": "931a385e1e", "pass": false, "score": 0.3, "reason": "Several entries (Godather, Matri, Fute, Blad Runner) are not sensible English, and one item was a failed repeat."}
+{"item_id": "c51206795b", "pass": true, "score": 0.65, "reason": "Mostly useful and relevant, but wrongly places Museo del Novecento near the Duomo when it sits right by the station."}
+{"item_id": "1c438e0328", "pass": true, "score": 0.9, "reason": "Thorough, correct causes for the mismatch plus a sound reconciliation procedure."}
+{"item_id": "fffe171d2e", "pass": true, "score": 0.7, "reason": "Two weeks of simple lunches with side salads of vegetables and toppings, meeting the constraints."}
+{"item_id": "ae1c0fb120", "pass": true, "score": 0.85, "reason": "Accurate explanation of covariance, Pearson r and R², with a good summary table."}
+{"item_id": "cf4d8a513f", "pass": false, "score": 0.45, "reason": "Contains dubious or fabricated claims (3D-printed parametric tree design, 'Copenhagenize index' tied to stormwater, a '50% watering' statistic) and misses the Miyawaki method by name."}
+{"item_id": "493cb86dca", "pass": true, "score": 0.85, "reason": "Article covers every point in the summary, including the community sources and the forum idea."}
+{"item_id": "9e80807f9e", "pass": false, "score": 0.2, "reason": "Fails to confirm that escape is not a crime in some countries such as Germany, and wrongly says outright legality is uncommon everywhere."}
+{"item_id": "d0d4fb721c", "pass": true, "score": 0.7, "reason": "Structured comparison with expected-value and scenario analysis and practical tips."}
+{"item_id": "a4fd030057", "pass": true, "score": 0.95, "reason": "Accurate, complete coverage of the causes, effects and ecosystem impacts."}
+{"item_id": "430f60ead4", "pass": false, "score": 0.35, "reason": "Does not explain how kids get to sports when the partner has the car all day, and invents sports days instead of solving the sharing problem."}
+{"item_id": "2e0d20bd84", "pass": true, "score": 0.95, "reason": "Correct explanation of cache speed benefits, stale-content problems and mitigations."}
+{"item_id": "74b643c657", "pass": false, "score": 0.45, "reason": "Correctly identifies control contamination, but wrongly presents staggered DiD as a spillover fix and gives a muddled buffer-zone design."}
+{"item_id": "27287b95da", "pass": false, "score": 0.45, "reason": "Rewrite is vague and unquantified, so it does not really show impact."}
+{"item_id": "256c7ba045", "pass": true, "score": 0.6, "reason": "Covers DNS, CDN and peering with sensible diagnostic steps, though generic and not focused on the evening-peak pattern."}
+{"item_id": "2366f739b6", "pass": true, "score": 0.9, "reason": "Gives six species with descriptions and picks one as requested."}
+{"item_id": "76e9421a63", "pass": true, "score": 0.55, "reason": "Reasonably asks for the missing stop data and outlines balanced-route approaches, though one method is internally inconsistent."}
+{"item_id": "9701d0a5be", "pass": true, "score": 1.0, "reason": "Correct, simple explanation of deduction versus credit with examples."}

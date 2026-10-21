@@ -1,0 +1,50 @@
+{"item_id": "89a261358a", "pass": false, "score": 0.4, "reason": "Generic checklist that never prioritizes against the 3-month runway or gives concrete tactics for the late payer, the concentration risk or the vague fixed-price ask."}
+{"item_id": "0044424176", "pass": true, "score": 1.0, "reason": "1.5 kW × 4 h × 30 days × $0.20 = $36, correctly shown, with the 31-day variant noted."}
+{"item_id": "19b3a8dea0", "pass": true, "score": 0.8, "reason": "Gives two plausible causes (network, frontend rendering), each with concrete checks."}
+{"item_id": "af7c682767", "pass": true, "score": 0.7, "reason": "Prioritized, concrete plan covering the late payer, the vague fixed-price project, diversification and costs, with reasoning; some tactics are aggressive."}
+{"item_id": "b69618c017", "pass": true, "score": 0.9, "reason": "Accurate explanation of signing and verification, with common applications."}
+{"item_id": "2353ee2482", "pass": false, "score": 0.45, "reason": "The parse explanation is muddled and the closing reinterpretation is shaky; the explanation of why it is a garden-path sentence is not convincing."}
+{"item_id": "650962af69", "pass": true, "score": 0.75, "reason": "Final answer 4 matches the reference and the 1000! answer of 2 is also correct, though the recurrence is only loosely justified."}
+{"item_id": "b59f8b3e37", "pass": true, "score": 0.95, "reason": "Correct, clear answer."}
+{"item_id": "c94170e650", "pass": true, "score": 0.85, "reason": "Correctly explains the short-run trade-off, the vertical long-run curve and the Friedman/Phelps expectations debate."}
+{"item_id": "ae32804a1f", "pass": false, "score": 0.3, "reason": "Errors and gaps: says to apply at the Indian High Commission for a Pakistani visa, calls a flight to Central Asia an overland alternative, cites Karakoram passes that are not on the route, and ignores India–Pakistan border closure and Balochistan travel restrictions."}
+{"item_id": "87d4d765af", "pass": true, "score": 0.95, "reason": "Accurate and complete comparison with examples."}
+{"item_id": "cd011e05fb", "pass": true, "score": 0.9, "reason": "Thorough, accurate and well-tailored skill-gap analysis for a quant researcher role."}
+{"item_id": "9a6433ab24", "pass": false, "score": 0.1, "reason": "Misidentifies the incident: the 2012 Mount Salak SSJ100 demo crash is not named, 'Flight 3519 (2019)' is fabricated, and the answer drifts to the Tu-144."}
+{"item_id": "5b7a247063", "pass": false, "score": 0.45, "reason": "Only a loose template with no real recipes or steps, and it relies on non-market items such as balsamic glaze, olive oil and ice cream despite the 'only farmers' market' constraint."}
+{"item_id": "f8429f5c4f", "pass": true, "score": 0.85, "reason": "Asks relevant, well-organized questions and outlines how the estimate will be built."}
+{"item_id": "fdda5e0523", "pass": true, "score": 0.9, "reason": "Thorough, accurate analysis of clause conflicts and their interactions, with a practical checklist."}
+{"item_id": "6548871085", "pass": true, "score": 0.9, "reason": "Correct explanation via hydrogen-bonded open lattice, with accurate densities and ~9% expansion."}
+{"item_id": "433e264c09", "pass": true, "score": 0.9, "reason": "Correct, simple instructions with alternatives."}
+{"item_id": "7e05c54476", "pass": true, "score": 0.8, "reason": "Practical plan with times and meeting-specific tactics; the 7-cup total vs the 8-cup goal is a minor inconsistency that is noted."}
+{"item_id": "648f442e64", "pass": true, "score": 0.95, "reason": "Fixes all the errors (rub→rubbed, wished to→asked, return him back→to) properly."}
+{"item_id": "311a32f28a", "pass": true, "score": 1.0, "reason": "Correctly identifies the trick: a man with a widow is dead."}
+{"item_id": "80202c6b11", "pass": true, "score": 0.8, "reason": "Fulfills the scene including the villain winning the argument; a few name typos."}
+{"item_id": "80b21719cb", "pass": true, "score": 0.6, "reason": "Adequate intuitive explanation and an abstraction-based link to math, though it omits mathematical Platonism and is somewhat generic."}
+{"item_id": "6b9a02c061", "pass": true, "score": 0.95, "reason": "Clear, correct explanation of probation purposes for both sides."}
+{"item_id": "3b0ca76d0f", "pass": true, "score": 0.85, "reason": "Short, polite two-sentence thank-you that references yesterday."}
+{"item_id": "47013b94cb", "pass": true, "score": 0.6, "reason": "The idxmax alternative is correct, but groupby.last() can mix rows when nulls exist and edge cases like ties and bad timestamps are not handled."}
+{"item_id": "f5730431d9", "pass": true, "score": 0.9, "reason": "Well-structured, persuasive essay covering environmental, economic and social benefits."}
+{"item_id": "33c80d5a3e", "pass": true, "score": 0.9, "reason": "Comprehensive, accurate overview of Solidity with a balanced comparison to other languages."}
+{"item_id": "d30f6ed7b6", "pass": false, "score": 0.45, "reason": "Advice to find the Sun as the brightest star is wrong, and the '1/3 of the way out' position is also wrong, though the Orion Spur between the Sagittarius and Perseus arms is right."}
+{"item_id": "2efd6c0676", "pass": true, "score": 0.85, "reason": "Sound first-aid steps with pressure, elevation and clear criteria for emergency care."}
+{"item_id": "2692cf3348", "pass": true, "score": 0.85, "reason": "Plausible mechanisms (GC, contention, fan-out, cache) with concrete checks and next steps."}
+{"item_id": "23954ce3e2", "pass": true, "score": 0.65, "reason": "Reasonable layered liability analysis with a disclaimer, though some legal framing is loose."}
+{"item_id": "05853146e7", "pass": true, "score": 0.85, "reason": "Accurate, adequate definition of creativity in marketing."}
+{"item_id": "748d81250d", "pass": false, "score": 0.45, "reason": "Generic marketing steps with no BGG-specific tactics for achieving a top-100 rank and no recognition of how difficult that is."}
+{"item_id": "cc603f97ec", "pass": true, "score": 0.9, "reason": "Balanced and accurate tradeoffs for all three approaches, with a sensible recommendation."}
+{"item_id": "be617d57ed", "pass": true, "score": 0.9, "reason": "Complete Grimm-style story with a coherent arc and moral."}
+{"item_id": "c5c87084f8", "pass": true, "score": 0.9, "reason": "Accurately covers transmission and eclipse spectroscopy and the main false-positive sources, including stellar activity, systematics and Earth's atmosphere."}
+{"item_id": "5d25b0f2f6", "pass": true, "score": 0.9, "reason": "Covers applications and the technical, ethical and legal challenges accurately and comprehensively."}
+{"item_id": "413568478c", "pass": false, "score": 0.5, "reason": "General sliding-window and watermark idea is right, but the pseudocode keeps raw events with stale queue copies that can wrongly delete revised events, and it does not address hourly aggregates or how corrections are emitted."}
+{"item_id": "77e47aba4b", "pass": true, "score": 0.95, "reason": "Two sentences as asked, clear and professional."}
+{"item_id": "809f51e71b", "pass": true, "score": 0.6, "reason": "Reasonable court-acceptable process (mediation, experts, plan, approval) that mentions cross-border issues, but somewhat generic on jurisdiction."}
+{"item_id": "1d800f17ff", "pass": true, "score": 0.6, "reason": "Explains transmission spectroscopy and several false-positive sources, but gives a wrong methane/blue-light example and omits Earth-atmosphere and reduction pitfalls."}
+{"item_id": "f1673d5e78", "pass": true, "score": 1.0, "reason": "Correct formula with a worked example."}
+{"item_id": "f41d1f8580", "pass": true, "score": 0.9, "reason": "Sensible causes, warning signs and monitoring advice."}
+{"item_id": "8c5364bc44", "pass": true, "score": 0.9, "reason": "Accurate layman explanation of the Forward-Forward algorithm."}
+{"item_id": "c723a9d62f", "pass": true, "score": 0.95, "reason": "Correct core JS methods (indexOf/splice, filter) with accurate examples."}
+{"item_id": "5dd939d213", "pass": true, "score": 0.85, "reason": "Sound recommendation with reasoning tied to family size and weekly baking."}
+{"item_id": "6e24adf26d", "pass": true, "score": 0.85, "reason": "Two letters that fit the requested tone, avoid claims about factual correctness, and come with useful advice."}
+{"item_id": "a7fdf2d596", "pass": true, "score": 0.65, "reason": "Covers the major package managers with formats, repositories and trade-offs, though Zypper 'transactional rollback' is overstated and coverage of configuration is thin."}
+{"item_id": "9c9f188e1b", "pass": true, "score": 0.85, "reason": "Balanced treatment of the arguments, accurate on the EU ban, with a reasoned conclusion."}

@@ -1,0 +1,20 @@
+{
+  "name": "pr-296-lexical",
+  "kind": "PR, retrained",
+  "setup": "word 1-2 grams + char 3-5 grams + shape features + LR (C=20), 3-class",
+  "notes": "Model as in ../retrain3/pr_296_lexical.py, trained on eval_600.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 25.3,
+    "balanced_accuracy": 35.0,
+    "recall_low": 16.5,
+    "recall_mid": 27.9,
+    "recall_high": 60.7,
+    "too_small": 7.7,
+    "too_big": 67.0,
+    "picks": "81/202/317",
+    "latency_ms_p50": 0.2,
+    "train_seconds": 0.2
+  },
+  "scored_at": "2026-10-16T14:51:32"
+}

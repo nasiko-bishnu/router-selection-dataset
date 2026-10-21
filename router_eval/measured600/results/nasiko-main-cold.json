@@ -1,0 +1,19 @@
+{
+  "name": "nasiko-main-cold",
+  "kind": "Nasiko router (main)",
+  "setup": "regex request type + Thompson-sampled tier, no learned cells, cold-start priors only (a fresh deployment)",
+  "notes": "main's own routing::classify (Rust, commit c6ebd4b3 2026-10-07), seed 0 shown. Seeds 0-4: balanced 32.7% (sd 1.0), accuracy 41.6% (sd 1.1). No difficulty signal: the tier depends only on the request type and the sampled priors.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 42.2,
+    "balanced_accuracy": 33.4,
+    "recall_low": 50.5,
+    "recall_mid": 37.9,
+    "recall_high": 11.9,
+    "too_small": 25.0,
+    "too_big": 32.8,
+    "picks": "305/249/46",
+    "latency_ms_p50": 0.0
+  },
+  "scored_at": "2026-10-16T11:11:32"
+}

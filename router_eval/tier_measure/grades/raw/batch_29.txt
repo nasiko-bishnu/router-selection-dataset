@@ -1,0 +1,50 @@
+{"item_id":"cc5a5b6643","pass":true,"score":0.85,"reason":"Covers effectiveness and the accuracy, reliability and safety challenges clearly."}
+{"item_id":"c71b463dd2","pass":true,"score":0.85,"reason":"Vivid description whose appearance and gear reflect wilderness survival."}
+{"item_id":"f81437a89b","pass":true,"score":0.85,"reason":"Catchy song structure with accurate carbon facts and clear importance."}
+{"item_id":"9c02285819","pass":true,"score":0.95,"reason":"Correct fix to \"They're\" with a clear explanation."}
+{"item_id":"e7254d89cd","pass":true,"score":0.9,"reason":"Three sound, practical eye-contact tips."}
+{"item_id":"b57d4e9809","pass":true,"score":0.8,"reason":"Follows the format with bold punny accounts and funny messages."}
+{"item_id":"9f8ac50330","pass":true,"score":0.9,"reason":"Accurate comparison and clear guidance on when to see a doctor."}
+{"item_id":"4c2aac0537","pass":true,"score":0.65,"reason":"Meets the request, but CAN-SPAM and GDPR are only loosely applicable to a university survey."}
+{"item_id":"24325a658a","pass":true,"score":0.85,"reason":"Gives a sound method and three common ingredients."}
+{"item_id":"15fe1e639c","pass":false,"score":0.2,"reason":"The Braille dot descriptions are partly wrong and the cat drawing is not a recognizable tactile picture."}
+{"item_id":"7dc25b3f13","pass":true,"score":0.88,"reason":"Accurate account of what 2FA stops and its limits."}
+{"item_id":"128da8a3c5","pass":true,"score":0.7,"reason":"Reasonable 9x13 or two-8-inch advice with a sensible 1.5x scale; the timing guidance is a bit shaky."}
+{"item_id":"84d5e2b03c","pass":true,"score":0.9,"reason":"Balanced and accurate treatment of UBI benefits and challenges."}
+{"item_id":"83ad257d44","pass":true,"score":0.6,"reason":"Addresses every listed factor and a phased approach, though it is somewhat generic and non-committal."}
+{"item_id":"da52ccfd92","pass":true,"score":0.9,"reason":"Practical guidance and a sample apology that balances accountability with legal caution."}
+{"item_id":"38872b0c8a","pass":true,"score":0.85,"reason":"Working basic HTML and JS starter with notes on the API key and CORS."}
+{"item_id":"e642af9319","pass":true,"score":1.0,"reason":"Correct translation."}
+{"item_id":"fc273bf049","pass":true,"score":0.65,"reason":"The overall distinction is right, but the pH figures for dish soap and hand soap are overstated or inaccurate."}
+{"item_id":"a15ab990cf","pass":true,"score":0.88,"reason":"Age-appropriate, accurate explanations including a flashlight demo."}
+{"item_id":"7bc9467565","pass":true,"score":0.85,"reason":"Sound premises-liability analysis covering tenant, landlord and rent-control effects."}
+{"item_id":"3d20f0c666","pass":true,"score":0.9,"reason":"Gives two correct reasons: customer segmentation and yield management."}
+{"item_id":"b590cddc67","pass":true,"score":1.0,"reason":"Correct answer B (32, 35) with valid reasoning."}
+{"item_id":"13546ebf67","pass":true,"score":0.88,"reason":"Nuanced, correct advice on sticking to an investment strategy."}
+{"item_id":"8da68b8c09","pass":true,"score":0.85,"reason":"Sensible risk analysis with a clear recommendation for the direct flight."}
+{"item_id":"f7c8f53fa2","pass":false,"score":0.5,"reason":"Identifies a causal attention mask, but the explanation is internally inconsistent, calling the lower triangle the future positions."}
+{"item_id":"81d22b52a7","pass":true,"score":0.85,"reason":"Accurate coverage of concentration, solubility, colligative properties and applications, despite some typos."}
+{"item_id":"22462ca5e7","pass":true,"score":0.75,"reason":"Reasonable context-dependent assessment of whether it is funny or offensive."}
+{"item_id":"3e7a026a71","pass":true,"score":0.7,"reason":"Brief and correct definition with a valid priority action, though it omits avoiding vaginal exams."}
+{"item_id":"85132b9230","pass":true,"score":0.75,"reason":"Sincere, calm and professional letter that avoids claiming factual correctness."}
+{"item_id":"626339272f","pass":true,"score":0.65,"reason":"Correct post-stratification method and weighted result of 5.2, but the unweighted mean is miscalculated (should be 7.0, not 6.5)."}
+{"item_id":"ccc2ff7b4c","pass":true,"score":1.0,"reason":"Correct COUNT(*) query."}
+{"item_id":"495aba2938","pass":true,"score":0.9,"reason":"Lists the key alternative explanations: confounding, reverse causation, bias and chance."}
+{"item_id":"75ed8a95b4","pass":false,"score":0.2,"reason":"The chart leaves laundry and trash unassigned, so it does not split five chores, and the logic is confused."}
+{"item_id":"9745335dcd","pass":true,"score":0.85,"reason":"Comprehensive, season-based packing list."}
+{"item_id":"9bbb94420c","pass":true,"score":0.9,"reason":"Thorough coverage of hidden costs and risks with practical due diligence."}
+{"item_id":"5e13ad7c13","pass":true,"score":0.65,"reason":"Broad and mostly accurate, though it misplaces the origin of Kabuki and the Yayoi-period court music link."}
+{"item_id":"12c41ec86b","pass":true,"score":0.85,"reason":"Covers climate, vegetation, wildlife and human settlement accurately."}
+{"item_id":"b1e6e18cfd","pass":true,"score":0.6,"reason":"Captures honesty and trust and warns about the contract, but overstates the idea of doing extra work unpaid."}
+{"item_id":"c27971aee5","pass":false,"score":0.45,"reason":"The argument is thin and generic, with little textual evidence, and the two novels are not clearly contrasted."}
+{"item_id":"d30ac329a2","pass":true,"score":0.92,"reason":"Excellent explanation of tail-latency causes with concrete debugging steps."}
+{"item_id":"68859f5c0c","pass":true,"score":0.9,"reason":"Polished formal rewrite that keeps the meaning."}
+{"item_id":"3f44c4e4fc","pass":true,"score":0.8,"reason":"Reasonable redesign balancing speed with protections for night riders."}
+{"item_id":"1cc4f9fdc4","pass":false,"score":0.15,"reason":"The explanation is incoherent and does not identify a real garden-path parse."}
+{"item_id":"f0d49979b8","pass":true,"score":0.85,"reason":"Balanced and well-reasoned comparison with a clear verdict."}
+{"item_id":"cf3a7cd25e","pass":true,"score":0.88,"reason":"Three valid reasons with real city examples."}
+{"item_id":"3f2da6318c","pass":true,"score":0.88,"reason":"Practical and accurate DIY microscope options with realistic limits."}
+{"item_id":"e1006a55a8","pass":true,"score":0.88,"reason":"Complete clause covering pandemics and sanctions and excluding price rises, with notice and termination mechanics."}
+{"item_id":"152ccb6ceb","pass":false,"score":0.3,"reason":"Gives no actual average salary figure, only factors and a referral to other sources."}
+{"item_id":"9a3146b74d","pass":true,"score":0.85,"reason":"Rich, fitting description of Trish and her gear."}
+{"item_id":"5338bad122","pass":true,"score":0.85,"reason":"Lists likely causes with where to check each on Android and iPhone."}

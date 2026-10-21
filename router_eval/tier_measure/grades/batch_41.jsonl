@@ -1,0 +1,50 @@
+{"item_id": "c39b8e5c68", "pass": true, "score": 0.9, "reason": "Covers valid input, wrong passwords and locked accounts with clear, sensible test cases plus useful extras."}
+{"item_id": "e935a9e0b5", "pass": true, "score": 0.9, "reason": "Correctly debunks the myth and explains the Maillard reaction as the real chemical change."}
+{"item_id": "44ece698d3", "pass": true, "score": 0.85, "reason": "Gives plausible reasons for the January dip and two concrete mitigations."}
+{"item_id": "8dcb2db379", "pass": true, "score": 0.85, "reason": "Offers multiple hardware and software options with pros and cons, and addresses 3 simultaneous 1080p streams via direct play and transcoding."}
+{"item_id": "06db128cbf", "pass": true, "score": 0.8, "reason": "Three kid-friendly sentences; the 'footprints of the glass slipper' phrasing is slightly off but harmless."}
+{"item_id": "bd8e3ab0ac", "pass": true, "score": 0.85, "reason": "Correctly says chord progressions are not protected while melodies can be, and describes the relevant tests and cases."}
+{"item_id": "58c7afcef6", "pass": true, "score": 0.9, "reason": "Nuanced and correct: stick through emotion-driven pressure, adapt to real changes in goals or facts."}
+{"item_id": "23d5fb3699", "pass": true, "score": 0.85, "reason": "Accurately explains SIM swap, SS7 and port-out attacks and recommends authenticator apps, hardware keys and passkeys; one stray typo."}
+{"item_id": "02be159050", "pass": true, "score": 0.9, "reason": "Accurate, well-organized comparison of Nick and Scout and how each shapes their novel."}
+{"item_id": "a7447c90f0", "pass": true, "score": 0.9, "reason": "Solid analysis of identity as both self-fashioned and socially constrained, grounded in the text."}
+{"item_id": "535f42ce3b", "pass": true, "score": 0.7, "reason": "Reasonable factor-by-factor comparison; without fares it sensibly tells the user to calculate costs."}
+{"item_id": "7ba4e0cb6c", "pass": true, "score": 0.95, "reason": "Correct botanical versus culinary distinction with one example of each."}
+{"item_id": "3f3e513b47", "pass": true, "score": 0.85, "reason": "Correctly notes that Ra3 is illegal on move one because the a2 pawn blocks the rook, and offers sensible options."}
+{"item_id": "205bc76b76", "pass": true, "score": 1.0, "reason": "Gives exactly the requested confirmation phrase."}
+{"item_id": "fd836c41a9", "pass": true, "score": 0.9, "reason": "Clear, correct explanation of diversification as applied to index funds."}
+{"item_id": "4f0e3bd4e5", "pass": true, "score": 0.8, "reason": "Largely correct treatment of lattice enthalpy against melting point, solubility and the hydration energy balance, with a few oversimplifications."}
+{"item_id": "d33b2815d4", "pass": true, "score": 0.9, "reason": "Accurate overview of self-play RL, reward design, neural networks and MCTS as in AlphaZero."}
+{"item_id": "e4a338c1fc", "pass": true, "score": 0.65, "reason": "Sound overall structure for intake, isolation and adoptions, but some odd or impractical details such as the adopter visit waiting period and adopter quarantine while the dog is still at the shelter."}
+{"item_id": "24f4177c9d", "pass": true, "score": 0.9, "reason": "Plain-language rewrite and correct examples of a complex sentence."}
+{"item_id": "94a6395fe5", "pass": true, "score": 0.8, "reason": "Relevant recommendations for story-driven shooters with reasons tied to the user's tastes."}
+{"item_id": "82d9c8350a", "pass": false, "score": 0.4, "reason": "Recommends a 10-inch pan with 50% more batter, which is inconsistent because it has only about 23% more area; it also omits temperature adjustments."}
+{"item_id": "101eea9b5c", "pass": true, "score": 0.9, "reason": "Polite, formal, idiomatic rewrite preserving the meaning."}
+{"item_id": "e5ae03583a", "pass": true, "score": 0.85, "reason": "Lists the likely wobble causes with practical checks for each."}
+{"item_id": "9ce4d99cd8", "pass": true, "score": 0.9, "reason": "Accurate and clear distinction between survey and excavation, with their relationship."}
+{"item_id": "237295f972", "pass": true, "score": 0.9, "reason": "Clear, correct beginner explanation of debit versus credit cards."}
+{"item_id": "79b00ea3e6", "pass": true, "score": 0.85, "reason": "Weighs each factor against the evidence and concludes a multicausal systems collapse, which matches current scholarship."}
+{"item_id": "dc8dfe6ed4", "pass": false, "score": 0.2, "reason": "The chart is not fair: Taylor gets one chore every week while Alex and Jamie get two, contradicting the claim that the light week rotates."}
+{"item_id": "be7f10a842", "pass": true, "score": 1.0, "reason": "Correct isEven function with one test."}
+{"item_id": "ec4329ffe1", "pass": true, "score": 0.85, "reason": "Well-reasoned list of situations where renting long-term makes sense."}
+{"item_id": "32e3277959", "pass": true, "score": 0.85, "reason": "Correct SPSC queue with appropriate acquire/release/relaxed orderings and justification for each."}
+{"item_id": "a4257c009c", "pass": true, "score": 0.8, "reason": "Thoughtful, coherent creative response that addresses both how the power would be used and the consequences."}
+{"item_id": "dcbaf5110f", "pass": false, "score": 0.45, "reason": "Covers only jacket types and omits other options such as umbrellas, ponchos, rain pants and footwear that were asked for."}
+{"item_id": "da971491fa", "pass": true, "score": 0.8, "reason": "Correctly identifies the classic ASCII dog."}
+{"item_id": "0e5baaef33", "pass": true, "score": 0.9, "reason": "Covers the main budgeting techniques with pros, cons and selection guidance."}
+{"item_id": "87a85340f3", "pass": true, "score": 0.65, "reason": "Gives reasonable advice (verify, call the number on the card, dispute) but overstates liability from replying YES and omits an explicit smishing warning."}
+{"item_id": "4a38ef1d8b", "pass": true, "score": 0.7, "reason": "Good coverage of the RL formulation, algorithms, simulation and challenges, though some cited references are wrong."}
+{"item_id": "ed8407e838", "pass": true, "score": 0.7, "reason": "The main translation 'Cor meum sicut flos est' is acceptable, though the accompanying notes are confused and the alternative is ungrammatical."}
+{"item_id": "8aa5a3031f", "pass": true, "score": 0.6, "reason": "The question is ambiguous; the answer sensibly parses each statement, though item 10 is loosely interpreted."}
+{"item_id": "16713b94b5", "pass": true, "score": 0.9, "reason": "Spend, Save and Share jars, each with a clear purpose and example."}
+{"item_id": "be44f162dd", "pass": true, "score": 0.6, "reason": "Sound normalization by volume, complexity and tenure, but the NPI formula is inverted relative to its own interpretation."}
+{"item_id": "aea236a665", "pass": true, "score": 0.6, "reason": "No clause was supplied, so asking for it is reasonable, though it could have offered some guidance in the meantime."}
+{"item_id": "2ba50d3e41", "pass": true, "score": 0.85, "reason": "Gives an acceptable Latin translation, 'Cor meum sicut flos est'."}
+{"item_id": "7aa2ac74c8", "pass": true, "score": 0.85, "reason": "Valid regex for the format, and it correctly states that it cannot check calendar validity such as Feb 30 or leap years."}
+{"item_id": "09bb22dd25", "pass": true, "score": 0.85, "reason": "Practical, safe advice on desensitization, positive reinforcement and a vet check."}
+{"item_id": "039c42ec5f", "pass": true, "score": 0.9, "reason": "Accurate explanation of the myth and the Maillard, caramelization and dehydration effects."}
+{"item_id": "945d177c08", "pass": false, "score": 0.05, "reason": "Rambling, self-contradictory and cut off before any final workable rotation."}
+{"item_id": "c10d215b62", "pass": true, "score": 0.9, "reason": "Accurate causes, chemistry and ecosystem effects of ocean acidification."}
+{"item_id": "cc1de9919e", "pass": true, "score": 0.9, "reason": "Gives one clear advantage and one clear disadvantage, with accurate supporting detail."}
+{"item_id": "174f44441a", "pass": false, "score": 0.5, "reason": "The principles are right, but the code is flawed and unsure on the key point: state persistence is only conceptual, the circuit breaker is per item and rarely opens, and the in-memory idempotency cache does not protect against crashes."}
+{"item_id": "8b10b964ec", "pass": true, "score": 0.75, "reason": "Broad, mostly accurate history of Japanese music and its cultural and global influence, with minor dubious details."}

@@ -1,0 +1,50 @@
+{"item_id": "c4e8e9b667", "pass": true, "score": 0.9, "reason": "Accurate list of vitamin C foods suitable for children."}
+{"item_id": "9bc524544d", "pass": true, "score": 0.9, "reason": "Clear, correct reasons for regular backups."}
+{"item_id": "c49f320df5", "pass": true, "score": 1.0, "reason": "Roots 2 and -5/4 are correct and both are verified by substitution."}
+{"item_id": "cfbe83b717", "pass": true, "score": 0.95, "reason": "Correct formula, derivation and worked example (9√3 ≈ 15.59)."}
+{"item_id": "c8049183db", "pass": true, "score": 0.65, "reason": "Gives a bounded 49-hour state window, late-event updates, revisions and cleanup; simple but sound."}
+{"item_id": "8548f47f23", "pass": true, "score": 0.8, "reason": "Well-designed SwiftUI form with textContentType autofill and focus flow; the expiry field lacks an autofill type."}
+{"item_id": "439a24b436", "pass": true, "score": 0.7, "reason": "Correct counts and sensible limits, though it doesn't flag that n=80 is a small sample."}
+{"item_id": "0d49d25408", "pass": true, "score": 0.85, "reason": "Balanced, thorough pros/cons comparison with practical advice."}
+{"item_id": "3b91127ba5", "pass": true, "score": 0.9, "reason": "Three valid, practical ways to cut AC costs."}
+{"item_id": "3eaf486394", "pass": false, "score": 0.25, "reason": "Recommends a 12-inch pan (1.78x) but then says to bake longer, though the thinner cake bakes faster; the 'two 9-inch pans stacked' tip is also muddled."}
+{"item_id": "0195f9baf9", "pass": true, "score": 0.65, "reason": "Covers the main changes and winners/losers, but wrongly treats Sudan as downstream and omits Nubian displacement."}
+{"item_id": "084993108d", "pass": true, "score": 0.9, "reason": "Correct order (fix moisture, dry, prepare, then paint) with the reasoning."}
+{"item_id": "4b92e0a0e0", "pass": true, "score": 1.0, "reason": "Gives exactly the requested confirmation phrase."}
+{"item_id": "aac83e26a2", "pass": true, "score": 0.9, "reason": "Gives a stir-fry method and three common ingredients."}
+{"item_id": "fbc085e75a", "pass": true, "score": 0.95, "reason": "Accurate, clear explanation with examples."}
+{"item_id": "1277e2186b", "pass": false, "score": 0.2, "reason": "Has Server A SSH into the laptop, contrary to the user's setup, and pushes all of /tmp to B; it never gives the correct laptop-driven scp -3 or pipe approach."}
+{"item_id": "bb9ad75a3d", "pass": false, "score": 0.45, "reason": "Uses Welch's test (equal_var=False) instead of Student's, and the single seeded run likely doesn't show a Type I error."}
+{"item_id": "df4a325e14", "pass": true, "score": 0.8, "reason": "Provides author, title, introduction and table of contents in a plausible 1898 setting that frames the doctrine comparison."}
+{"item_id": "6097e7b27a", "pass": true, "score": 0.95, "reason": "Correct distinction with a realistic use case for each."}
+{"item_id": "a8d6c20e3f", "pass": false, "score": 0.3, "reason": "Generic and error-prone: fabricated '.theta' files, dubious VIRT/RES logic, no allocator-retention diagnosis, and no concrete proof method."}
+{"item_id": "c53bc93656", "pass": true, "score": 0.85, "reason": "Helpful, practical calming advice, despite a stray garbled token."}
+{"item_id": "b65c2f0b1c", "pass": true, "score": 0.85, "reason": "Reasonable recommendation of the convection oven, well justified."}
+{"item_id": "4084913574", "pass": true, "score": 0.95, "reason": "Correctly explains chloramine toxic gas formation and gives safety tips."}
+{"item_id": "ab95093d73", "pass": false, "score": 0.45, "reason": "Hedgy and generic, and it confuses the subletter with the guest; it never clearly addresses the landlord's premises duty or the tenant-as-host liability."}
+{"item_id": "a1a2aa7b35", "pass": true, "score": 0.95, "reason": "Accurate diameters and ratios, clearly presented."}
+{"item_id": "d53faf727f", "pass": false, "score": 0.5, "reason": "Functional skeleton, but the intersection mode doesn't truly mix kids' playlists and turn-taking doesn't enforce appropriateness for all; rating filtering isn't implemented."}
+{"item_id": "6aa5f7625e", "pass": true, "score": 0.95, "reason": "Correct meaning of 404 and sensible next steps."}
+{"item_id": "24d60f2905", "pass": true, "score": 0.9, "reason": "Covers attack vectors and prioritizes simple defenses for a non-technical family."}
+{"item_id": "445585cd65", "pass": true, "score": 1.0, "reason": "LCM 60 minutes gives 9:00, which is correct."}
+{"item_id": "22f0222e25", "pass": true, "score": 1.0, "reason": "Median 10 is correct."}
+{"item_id": "6fb79580b9", "pass": true, "score": 0.75, "reason": "123,552/2,598,960 equals 198/4165, matching the reference, though the fraction isn't fully reduced and the decimal approximation of 0.045 is slightly off."}
+{"item_id": "be8c4adf01", "pass": true, "score": 0.7, "reason": "Explains metadata leakage, attacks and defenses adequately, if somewhat generically."}
+{"item_id": "9a1f8bc773", "pass": true, "score": 0.9, "reason": "Correct purpose and usage of a tracking number."}
+{"item_id": "a4953f464a", "pass": true, "score": 0.65, "reason": "Concrete schedule plus meeting-oriented tips; adequate."}
+{"item_id": "d63e6d4f7a", "pass": true, "score": 0.9, "reason": "Insightful analysis of lossy compilation, ambiguity and a more feasible hybrid approach."}
+{"item_id": "88237f1640", "pass": true, "score": 0.9, "reason": "Correct, prioritized first aid and clear criteria for emergency help."}
+{"item_id": "edacc909e7", "pass": true, "score": 0.9, "reason": "Comprehensive, accurate list of phishing warning signs."}
+{"item_id": "49730213de", "pass": false, "score": 0.5, "reason": "Accepts the premise uncritically and ignores that Interstellar itself has information going back in time; it also treats the question as one of scientific rightness."}
+{"item_id": "4f7eb5a5c9", "pass": true, "score": 0.9, "reason": "Two-sentence body with a subject line; the remote-work addition is a minor liberty."}
+{"item_id": "86749af372", "pass": true, "score": 0.8, "reason": "Correct conclusion that 25% off is better (2.25P vs 2.5P), though the explanation is messy mid-way."}
+{"item_id": "0f25e4a61f", "pass": true, "score": 0.8, "reason": "Sound cost and convenience comparison with a clear recommendation."}
+{"item_id": "fb1e7853a0", "pass": true, "score": 0.85, "reason": "Covers all requested points in coherent paragraphs."}
+{"item_id": "1137a1e3cd", "pass": false, "score": 0.2, "reason": "Reverses the default (screenshots save to Desktop; Control copies to clipboard) and misorders the Screenshot toolbar icons."}
+{"item_id": "a9b01a9299", "pass": true, "score": 0.9, "reason": "Has an opening line, one memory and a closing wish."}
+{"item_id": "49e3ebd760", "pass": true, "score": 0.85, "reason": "Accurate definition and uses of threat intelligence."}
+{"item_id": "a043974ed5", "pass": false, "score": 0.4, "reason": "Hook is a generic 'Imagine a world...' despite the request for extra effort on the hook."}
+{"item_id": "12a6de8829", "pass": true, "score": 0.7, "reason": "Consistent scaling by 1.5 with area-based pan choice and sensible baking-time adjustment."}
+{"item_id": "6cfb145ab9", "pass": false, "score": 0.3, "reason": "The five-year rotation is muddled and effectively a four-year cycle; the table is inconsistent, the income plan contradicts itself, and a garbled token appears."}
+{"item_id": "e9501a1168", "pass": true, "score": 0.8, "reason": "Follows the scene brief with Devious winning the argument, with fitting humor."}
+{"item_id": "6a5f3f860d", "pass": true, "score": 0.65, "reason": "Meets the premise and has a twist ending with wry tone, though it is far longer and less terse than Fredric Brown."}

@@ -1,0 +1,54 @@
+{"item_id":"fb4363e253","pass":true,"score":0.7,"reason":"Correct ~15°C average and ENSO/long-term variation; it wrongly implies the global mean has no notable seasonal swing, but the core answer holds."}
+{"item_id":"a2c4c67089","pass":true,"score":0.8,"reason":"Correctly explains retrogradation, why fridge temperatures speed it up, and freezing or reheating as remedies."}
+{"item_id":"a845933ba8","pass":true,"score":0.9,"reason":"Gives two valid ways: large high-contrast fonts and concise content."}
+{"item_id":"c429620065","pass":false,"score":0.45,"reason":"Developer CI/CD is correct, but the marketing side is an invented metaphor and misses the usual marketing reading (Corporate Identity/Corporate Design)."}
+{"item_id":"e44d9c1a42","pass":true,"score":0.7,"reason":"Gives a film, start time and snacks; the schedule has a mid-movie break at 9:15 after the film would already have ended."}
+{"item_id":"69ef8c7bc5","pass":true,"score":0.8,"reason":"Sound index-insurance pricing approach: expected payout plus loadings, systemic risk and basis risk."}
+{"item_id":"a29ce6392a","pass":true,"score":0.85,"reason":"Arithmetic is consistent ($1,300 vs $1,800) and covers resale and maintenance with stated assumptions."}
+{"item_id":"9dd4d582ff","pass":true,"score":0.9,"reason":"Correctly identifies the sides and the main reasons: MAD, proxy wars, diplomacy."}
+{"item_id":"0e3a12e4c8","pass":true,"score":1.0,"reason":"Correct: 32, 35 (B)."}
+{"item_id":"15528603ff","pass":true,"score":0.8,"reason":"Grimm-style fairy tale with a crow, sacrifice and a bittersweet ending, as requested."}
+{"item_id":"08a0c818f6","pass":true,"score":0.9,"reason":"Accurate explanation, with the steady versus flashing distinction and sensible next steps."}
+{"item_id":"cdeb36b2bd","pass":true,"score":0.65,"reason":"Meets the request with a workable Saturday/Sunday schedule, though generic and with no division of roles between the two friends."}
+{"item_id":"d72d15d7fc","pass":true,"score":0.8,"reason":"Full, on-theme story with a technical lieutenant, wartime setting, a mutated newborn and Merril-like domestic tone."}
+{"item_id":"e3e9c3b592","pass":true,"score":0.85,"reason":"The budget covers all required categories, including the yearly car bill spread monthly, and sums to $3,000."}
+{"item_id":"856955864c","pass":true,"score":0.85,"reason":"Balanced, accurate coverage of benefits and challenges; only stray typos."}
+{"item_id":"abe8997ef6","pass":false,"score":0.4,"reason":"No translation or guidance is given; it only asks for the clause, so nothing of the request is delivered."}
+{"item_id":"fdee8cab0f","pass":true,"score":0.9,"reason":"Correct solution: draw from the chest labelled mixed, with correct deductions for both outcomes, despite a messy mid-reasoning."}
+{"item_id":"fa72e9b8ce","pass":true,"score":1.0,"reason":"Correct roots (-1±√5)/2."}
+{"item_id":"e5479865f9","pass":false,"score":0.45,"reason":"No Brown-style twist, the outcome is muddled (both ships seem to be destroyed yet a 'winner emerged'), and the alien's name is inconsistent."}
+{"item_id":"14c879d992","pass":false,"score":0.3,"reason":"Several factual errors: calls both narrators young men, fabricates a Gatsby quote, misattributes 'careless people' to Nick, and invents a Tom affair in Mockingbird."}
+{"item_id":"0e615ac7a1","pass":true,"score":0.9,"reason":"Accurate definition and typical consequences of ignoring a summons, plus useful alternatives."}
+{"item_id":"fd0ecf0969","pass":true,"score":0.9,"reason":"Covers confounding, reverse causation, selection bias, measurement and chance."}
+{"item_id":"fd5dc4dab4","pass":true,"score":0.8,"reason":"Gives a family-friendly film, start time and snack plan; the debrief timing is slightly early but harmless."}
+{"item_id":"a350b13727","pass":true,"score":0.75,"reason":"Comprehensive and mostly accurate survey; the Arch repo list is slightly outdated and the Pacman pinning remark is imprecise."}
+{"item_id":"960a88a049","pass":true,"score":1.0,"reason":"Correct: 180 kWh, $36."}
+{"item_id":"7ae99c4be6","pass":true,"score":0.9,"reason":"Correctly flags the 'Hugs and kisses' sign-off and supplies a revised version."}
+{"item_id":"9174cfc89d","pass":true,"score":0.6,"reason":"Covers the main causes with checks, but the tape and balancing instructions are muddled and some advice and statistics are dubious."}
+{"item_id":"44dc0a539b","pass":true,"score":0.9,"reason":"Clear, correct explanation of what a tracking number is and how to use it."}
+{"item_id":"8e857bc078","pass":true,"score":0.9,"reason":"Complete routine with a shower, healthy breakfast and 45 minutes of meditation, with a timetable."}
+{"item_id":"19fe70d706","pass":true,"score":0.6,"reason":"Reasonable conceptual answer that admits the practical route is mostly Newtonian gravity; UE5 specifics are thin but adequate."}
+{"item_id":"0bbc2d650a","pass":false,"score":0.1,"reason":"Misreads the game by treating the Spearmaster as an NPC the player met, and the hints are confused and unhelpful."}
+{"item_id":"59d00964ad","pass":true,"score":0.85,"reason":"Thorough, practical checklist of what to include in an itinerary."}
+{"item_id":"55702a7f9c","pass":true,"score":0.6,"reason":"Adapter with a common interface is defensible, with an explanation, though Strategy or a mediator might fit better."}
+{"item_id":"3e9ae9c1d4","pass":true,"score":0.95,"reason":"Accurate plain-English rewrite."}
+{"item_id":"86d2e019c8","pass":true,"score":0.9,"reason":"Correct movement and no-jumping rule; one small slip in the final example."}
+{"item_id":"6e7e4a2298","pass":true,"score":0.6,"reason":"Generic but correct triage of the three causes with tools to distinguish them; some symptom mappings are loose."}
+{"item_id":"c7380517aa","pass":true,"score":0.9,"reason":"Thorough, balanced treatment of justice across cultures, cross-cultural disputes and global-law obstacles."}
+{"item_id":"93d24f995d","pass":true,"score":0.6,"reason":"Covers options, costs and a decision process, but errs in having mom travel two hours to day care and in naming the executor as decision-maker, and it glosses over capacity and legal issues."}
+{"item_id":"976a46d372","pass":true,"score":0.8,"reason":"A usable briefing with a plausible set of three hard questions and substantive answers."}
+{"item_id":"282c1fac8b","pass":false,"score":0.4,"reason":"Code is correct, but it wrongly claims lowering temperature reduces repetition; lower temperature makes output more repetitive, so the advice misleads on the user's problem."}
+{"item_id":"07bbf4b62c","pass":true,"score":0.85,"reason":"Correct standard interpretation of PoP and what it does not mean."}
+{"item_id":"984446b1e2","pass":true,"score":0.85,"reason":"Gives a sensible biome list and simple, realistic placement rules."}
+{"item_id":"820b61e3a6","pass":true,"score":0.95,"reason":"A two-line thank-you message that fits the brief."}
+{"item_id":"d811276e8a","pass":false,"score":0.3,"reason":"Arbitrary and biased scores, and fabricated claims such as describing Alastair McAlpine as a pediatrician."}
+{"item_id":"98ac465e8a","pass":false,"score":0.3,"reason":"Falsely claims The Adam Project uses Many-Worlds quantum mechanics and misses that Interstellar's own bootstrap/Tesseract contradicts the claim."}
+{"item_id":"fcd909269c","pass":true,"score":1.0,"reason":"Correct: $3.00/kg vs $3.20/kg, so the 1 kg bag is cheaper."}
+{"item_id":"0a79c28b02","pass":false,"score":0.3,"reason":"Misses real hygroelectric and hydrovoltaic approaches, and mischaracterises companies such as Climeworks (a DAC firm) while presenting dubious claims as established."}
+{"item_id":"106c996776","pass":false,"score":0.45,"reason":"Breaks the salad constraint: a fruit-and-nut salad has no vegetables and a tuna bean 'salad bowl' is a main; leftovers also stretch to 5 days."}
+{"item_id":"72ec1095ea","pass":true,"score":0.6,"reason":"Correct but generic overview of state residency and sourcing and foreign/treaty/credit rules; lacks specifics such as worldwide taxation of US persons or FEIE."}
+
+
+--- retry ---
+
+{"item_id": "e9c5943a88", "pass": false, "score": 0.25, "reason": "Plan has 5 steps but is generic and unrealistic, with factual errors (a rank-based 'BGG Top 100' is ranked on the Geek Rating, which needs thousands of ratings, not 15-20 reviews; 'A Game of Thrones style reviewers'; Catan/Gloomhaven framing; 'BGG SEO tags' are not set by the author), and it claims a party game could reach top 50, which is misleading."}

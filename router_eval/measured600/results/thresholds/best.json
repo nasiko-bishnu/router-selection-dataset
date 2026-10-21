@@ -1,0 +1,492 @@
+{
+  "d3-flash-zeroshot": {
+    "rule": "As answered",
+    "threshold": "\u2014",
+    "metrics": {
+      "n": 600,
+      "accuracy": 50.5,
+      "balanced_accuracy": 48.3,
+      "recall_low": 45.7,
+      "recall_mid": 85.0,
+      "recall_high": 14.3,
+      "too_small": 15.2,
+      "too_big": 34.3,
+      "picks": "198/386/16"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 40.0,
+        "balanced_accuracy": 45.0,
+        "recall_low": 32.7,
+        "recall_mid": 55.7,
+        "recall_high": 46.4,
+        "too_small": 9.8,
+        "too_big": 50.2,
+        "picks": "140/277/183"
+      },
+      "chosen": [
+        "As answered",
+        "Cascade 0.7",
+        "Confidence < X \u2192 high 0.3",
+        "Confidence < X \u2192 high 0.3",
+        "As answered"
+      ]
+    }
+  },
+  "jev-direct": {
+    "rule": "Confidence < X \u2192 high",
+    "threshold": "0.7",
+    "metrics": {
+      "n": 600,
+      "accuracy": 54.8,
+      "balanced_accuracy": 51.1,
+      "recall_low": 59.8,
+      "recall_mid": 45.7,
+      "recall_high": 47.6,
+      "too_small": 13.0,
+      "too_big": 32.2,
+      "picks": "272/150/178"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 54.0,
+        "balanced_accuracy": 48.6,
+        "recall_low": 58.8,
+        "recall_mid": 53.6,
+        "recall_high": 33.3,
+        "too_small": 14.3,
+        "too_big": 31.7,
+        "picks": "264/195/141"
+      },
+      "chosen": [
+        "Confidence < X \u2192 high 0.7",
+        "Confidence < X \u2192 high 0.7",
+        "Cascade 0.9",
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.7"
+      ]
+    }
+  },
+  "d3-flash-finetuned": {
+    "rule": "Cascade",
+    "threshold": "0.3",
+    "metrics": {
+      "n": 600,
+      "accuracy": 46.0,
+      "balanced_accuracy": 46.1,
+      "recall_low": 43.4,
+      "recall_mid": 59.3,
+      "recall_high": 35.7,
+      "too_small": 11.7,
+      "too_big": 42.3,
+      "picks": "190/305/105"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 43.0,
+        "balanced_accuracy": 44.1,
+        "recall_low": 39.9,
+        "recall_mid": 54.3,
+        "recall_high": 38.1,
+        "too_small": 11.2,
+        "too_big": 45.8,
+        "picks": "175/298/127"
+      },
+      "chosen": [
+        "Cascade 0.3",
+        "Confidence < X \u2192 high 0.4",
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.3"
+      ]
+    }
+  },
+  "clm-finetuned": {
+    "rule": "Cascade",
+    "threshold": "0.3",
+    "metrics": {
+      "n": 600,
+      "accuracy": 38.5,
+      "balanced_accuracy": 42.6,
+      "recall_low": 35.1,
+      "recall_mid": 37.9,
+      "recall_high": 54.8,
+      "too_small": 9.7,
+      "too_big": 51.8,
+      "picks": "162/230/208"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 36.5,
+        "balanced_accuracy": 41.4,
+        "recall_low": 32.7,
+        "recall_mid": 34.3,
+        "recall_high": 57.1,
+        "too_small": 9.2,
+        "too_big": 54.3,
+        "picks": "152/222/226"
+      },
+      "chosen": [
+        "As answered",
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.3"
+      ]
+    }
+  },
+  "clm-zeroshot": {
+    "rule": "Confidence < X \u2192 high",
+    "threshold": "0.3",
+    "metrics": {
+      "n": 600,
+      "accuracy": 40.8,
+      "balanced_accuracy": 39.4,
+      "recall_low": 48.4,
+      "recall_mid": 7.9,
+      "recall_high": 61.9,
+      "too_small": 15.8,
+      "too_big": 43.3,
+      "picks": "273/39/288"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 39.3,
+        "balanced_accuracy": 36.9,
+        "recall_low": 47.3,
+        "recall_mid": 8.6,
+        "recall_high": 54.8,
+        "too_small": 17.3,
+        "too_big": 43.3,
+        "picks": "275/48/277"
+      },
+      "chosen": [
+        "Confidence < X \u2192 high 0.4",
+        "Confidence < X \u2192 high 0.3",
+        "As answered",
+        "Confidence < X \u2192 high 0.3",
+        "Confidence < X \u2192 high 0.3"
+      ]
+    }
+  },
+  "laya-typed-decisions-finetuned": {
+    "rule": "Confidence < X \u2192 high",
+    "threshold": "0.6",
+    "metrics": {
+      "n": 600,
+      "accuracy": 27.3,
+      "balanced_accuracy": 42.0,
+      "recall_low": 11.2,
+      "recall_mid": 45.7,
+      "recall_high": 69.0,
+      "too_small": 5.2,
+      "too_big": 67.5,
+      "picks": "53/294/253"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 27.3,
+        "balanced_accuracy": 42.0,
+        "recall_low": 11.2,
+        "recall_mid": 45.7,
+        "recall_high": 69.0,
+        "too_small": 5.2,
+        "too_big": 67.5,
+        "picks": "53/294/253"
+      },
+      "chosen": [
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6"
+      ]
+    }
+  },
+  "pr-292": {
+    "rule": "Cascade",
+    "threshold": "0.3",
+    "metrics": {
+      "n": 600,
+      "accuracy": 32.7,
+      "balanced_accuracy": 38.9,
+      "recall_low": 26.6,
+      "recall_mid": 36.4,
+      "recall_high": 53.6,
+      "too_small": 10.0,
+      "too_big": 57.3,
+      "picks": "136/240/224"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 30.8,
+        "balanced_accuracy": 37.1,
+        "recall_low": 25.0,
+        "recall_mid": 32.9,
+        "recall_high": 53.6,
+        "too_small": 10.0,
+        "too_big": 59.2,
+        "picks": "130/235/235"
+      },
+      "chosen": [
+        "Cascade 0.4",
+        "Confidence < X \u2192 high 0.5",
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.3"
+      ]
+    }
+  },
+  "laya-english-finetuned": {
+    "rule": "Cascade",
+    "threshold": "0.4",
+    "metrics": {
+      "n": 600,
+      "accuracy": 31.5,
+      "balanced_accuracy": 38.9,
+      "recall_low": 21.3,
+      "recall_mid": 51.4,
+      "recall_high": 44.0,
+      "too_small": 10.0,
+      "too_big": 58.5,
+      "picks": "107/327/166"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 31.3,
+        "balanced_accuracy": 37.0,
+        "recall_low": 22.3,
+        "recall_mid": 52.9,
+        "recall_high": 35.7,
+        "too_small": 11.7,
+        "too_big": 57.0,
+        "picks": "119/338/143"
+      },
+      "chosen": [
+        "Cascade 0.4",
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.4",
+        "Cascade 0.4"
+      ]
+    }
+  },
+  "pr-296-semantic": {
+    "rule": "Cascade",
+    "threshold": "0.4",
+    "metrics": {
+      "n": 600,
+      "accuracy": 31.7,
+      "balanced_accuracy": 38.2,
+      "recall_low": 22.1,
+      "recall_mid": 52.1,
+      "recall_high": 40.5,
+      "too_small": 11.3,
+      "too_big": 57.0,
+      "picks": "109/318/173"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 30.2,
+        "balanced_accuracy": 36.4,
+        "recall_low": 21.5,
+        "recall_mid": 47.1,
+        "recall_high": 40.5,
+        "too_small": 11.2,
+        "too_big": 58.7,
+        "picks": "106/301/193"
+      },
+      "chosen": [
+        "Cascade 0.4",
+        "Confidence < X \u2192 high 0.4",
+        "Cascade 0.4",
+        "Cascade 0.4",
+        "Cascade 0.4"
+      ]
+    }
+  },
+  "pr-296-lexical": {
+    "rule": "Cascade",
+    "threshold": "0.3",
+    "metrics": {
+      "n": 600,
+      "accuracy": 31.5,
+      "balanced_accuracy": 37.2,
+      "recall_low": 23.1,
+      "recall_mid": 49.3,
+      "recall_high": 39.3,
+      "too_small": 11.5,
+      "too_big": 57.0,
+      "picks": "115/303/182"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 31.5,
+        "balanced_accuracy": 37.2,
+        "recall_low": 23.1,
+        "recall_mid": 49.3,
+        "recall_high": 39.3,
+        "too_small": 11.5,
+        "too_big": 57.0,
+        "picks": "115/303/182"
+      },
+      "chosen": [
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.3",
+        "Cascade 0.3"
+      ]
+    }
+  },
+  "laya-english-zeroshot": {
+    "rule": "Confidence < X \u2192 high",
+    "threshold": "0.8",
+    "metrics": {
+      "n": 600,
+      "accuracy": 18.7,
+      "balanced_accuracy": 37.3,
+      "recall_low": 0.0,
+      "recall_mid": 32.1,
+      "recall_high": 79.8,
+      "too_small": 2.8,
+      "too_big": 78.5,
+      "picks": "0/179/421"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 18.7,
+        "balanced_accuracy": 37.3,
+        "recall_low": 0.0,
+        "recall_mid": 32.1,
+        "recall_high": 79.8,
+        "too_small": 2.8,
+        "too_big": 78.5,
+        "picks": "0/179/421"
+      },
+      "chosen": [
+        "Confidence < X \u2192 high 0.8",
+        "Confidence < X \u2192 high 0.8",
+        "Confidence < X \u2192 high 0.8",
+        "Confidence < X \u2192 high 0.8",
+        "Confidence < X \u2192 high 0.8"
+      ]
+    }
+  },
+  "laya-multilingual-finetuned": {
+    "rule": "Cascade",
+    "threshold": "0.9",
+    "metrics": {
+      "n": 600,
+      "accuracy": 14.7,
+      "balanced_accuracy": 34.0,
+      "recall_low": 0.0,
+      "recall_mid": 4.3,
+      "recall_high": 97.6,
+      "too_small": 0.3,
+      "too_big": 85.0,
+      "picks": "0/18/582"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 20.3,
+        "balanced_accuracy": 30.0,
+        "recall_low": 10.1,
+        "recall_mid": 30.0,
+        "recall_high": 50.0,
+        "too_small": 10.2,
+        "too_big": 69.5,
+        "picks": "66/214/320"
+      },
+      "chosen": [
+        "Cascade 0.9",
+        "Cascade 0.9",
+        "As answered",
+        "Cascade 0.3",
+        "As answered"
+      ]
+    }
+  },
+  "laya-typed-decisions-zeroshot": {
+    "rule": "Confidence < X \u2192 high",
+    "threshold": "0.6",
+    "metrics": {
+      "n": 600,
+      "accuracy": 21.7,
+      "balanced_accuracy": 37.5,
+      "recall_low": 0.0,
+      "recall_mid": 63.6,
+      "recall_high": 48.8,
+      "too_small": 7.2,
+      "too_big": 71.2,
+      "picks": "0/395/205"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 21.7,
+        "balanced_accuracy": 37.5,
+        "recall_low": 0.0,
+        "recall_mid": 63.6,
+        "recall_high": 48.8,
+        "too_small": 7.2,
+        "too_big": 71.2,
+        "picks": "0/395/205"
+      },
+      "chosen": [
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6",
+        "Confidence < X \u2192 high 0.6"
+      ]
+    }
+  },
+  "laya-multilingual-zeroshot": {
+    "rule": "Confidence < X \u2192 high",
+    "threshold": "0.95",
+    "metrics": {
+      "n": 600,
+      "accuracy": 14.5,
+      "balanced_accuracy": 33.4,
+      "recall_low": 0.0,
+      "recall_mid": 5.0,
+      "recall_high": 95.2,
+      "too_small": 0.7,
+      "too_big": 84.8,
+      "picks": "0/41/559"
+    },
+    "cv": {
+      "metrics": {
+        "n": 600,
+        "accuracy": 18.2,
+        "balanced_accuracy": 31.8,
+        "recall_low": 2.4,
+        "recall_mid": 39.3,
+        "recall_high": 53.6,
+        "too_small": 7.0,
+        "too_big": 74.8,
+        "picks": "16/251/333"
+      },
+      "chosen": [
+        "Confidence < X \u2192 high 0.9",
+        "Cascade 0.4",
+        "Confidence < X \u2192 high 0.95",
+        "Confidence < X \u2192 high 0.95",
+        "Cascade 0.4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{"item_id":"1ec267c175","pass":true,"score":0.88,"reason":"Comprehensive, actionable plan covering inventory segmentation, sourcing, logistics, allocation and KPIs for the stated disruption."}
+{"item_id":"4918c93412","pass":false,"score":0.35,"reason":"Assumed countries, and contains errors: Paris Metro and Eurostar details are fine but claims like all Amsterdam metro stations step-free and Berlin Wall/Paris access are overgeneralized, UK visa claim is wrong (ETA/ETIAS ignored), and Thalys Paris-Berlin doesn't exist; medicines advice generic."}
+{"item_id":"16372f89e4","pass":false,"score":0.1,"reason":"Falsely claims Braille printers can't make pictures (Braille-art is a known approach) and offers invented tools/processes, never providing the requested text."}
+{"item_id":"6a50e2fa3e","pass":true,"score":0.9,"reason":"Correctly explains drug interactions and pharmacogenetics with CYP450 examples."}
+{"item_id":"ea84b5b9b9","pass":false,"score":0.45,"reason":"Generally good, but the synergy example is illogical (low blood pressure symptoms treated with a BP-lowering drug) and the blood thinner example is muddled."}
+{"item_id":"5c526313cf","pass":true,"score":0.9,"reason":"Provides varied, sensible healthy meal ideas across meals with useful tips."}
+{"item_id":"13f53d1635","pass":true,"score":1.0,"reason":"Solid, liquid, gas is correct."}
+{"item_id":"958fe0a5ff","pass":false,"score":0.45,"reason":"Label is roughly 100 words but contains inaccuracies (wax cylinders and 'bass shook floorboards' for 1920s acoustic players, no jazz specifics) and is generic; borderline."}
+{"item_id":"36ca52726c","pass":true,"score":0.85,"reason":"Provides a full routine with shower, healthy breakfast and 45-minute meditation; timings are consistent."}
+{"item_id":"b1b1c4833e","pass":true,"score":0.88,"reason":"Correctly states generally no, with emergency/consent exceptions and jurisdiction caveat."}
+{"item_id":"568e1506fa","pass":false,"score":0.1,"reason":"Mistranslates: should be 'The female deer eats a lot of grass'; answer treats 'shet' as imperative and 'female deer grass' as a noun phrase."}
+{"item_id":"46e0643207","pass":true,"score":0.75,"reason":"Covers the metadata issue and defenses well, with some overstated claims (e.g., Signal delayed delivery) but sound overall."}
+{"item_id":"d46053aad0","pass":true,"score":0.9,"reason":"Correctly attributes squeal to moisture and surface rust on rotors and gives when to worry."}
+{"item_id":"dcc9cd696c","pass":true,"score":0.8,"reason":"Thorough design covering architecture, features, security and risk, with minor typos."}
+{"item_id":"a7a9bfd1b2","pass":false,"score":0.5,"reason":"Generic list; doesn't address the tension between speed-focused stop consolidation and protecting night riders concretely."}
+{"item_id":"1ac29c7ee5","pass":true,"score":0.9,"reason":"Correct calculation $9,800 under stated 30-day assumption."}
+{"item_id":"55b91cce3e","pass":true,"score":0.92,"reason":"Clear, correct training steps for drop-it and fetch."}
+{"item_id":"8ac1d6e84c","pass":false,"score":0.2,"reason":"MATH dataset was by UC Berkeley (Hendrycks) not Stanford, and the arXiv link is wrong; Minerva used MATH, but also main training on arXiv/web; details inaccurate."}
+{"item_id":"32ddfa7bf6","pass":true,"score":0.85,"reason":"Accurately explains differences in formulation and use."}
+{"item_id":"6dc3a33454","pass":true,"score":0.82,"reason":"Covers all four areas and separates solid from guesswork."}
+{"item_id":"e322e76eae","pass":false,"score":0.0,"reason":"Incoherent, self-contradicting reasoning; final answer 99 is wrong (known answer is 119)."}
+{"item_id":"23b970bca7","pass":true,"score":0.95,"reason":"Dwelling and personal property coverage are correct."}
+{"item_id":"a2b07daa1a","pass":true,"score":0.85,"reason":"Sound discipline advice including swearing and what to avoid, with minor typos."}
+{"item_id":"28f86c402a","pass":true,"score":0.95,"reason":"Two clear, accurate sentences for parent."}
+{"item_id":"2ae0635f9c","pass":false,"score":0.2,"reason":"15-year payment is $2,531.57 and interest $155,683; the answer's $2,429.27 is wrong (30-year figures correct)."}
+{"item_id":"e978207ef3","pass":true,"score":0.8,"reason":"Gives three plausible common causes; slightly conflated third item but acceptable."}
+{"item_id":"1b21a51d14","pass":true,"score":0.92,"reason":"Accurate, clear comparison."}
+{"item_id":"3b83f6bb8e","pass":false,"score":0.4,"reason":"Fails to state the official PoP definition (confidence × area coverage) and wrongly says it's the probability 'somewhere' only; the 'does not mean' includes area but explanation is muddled."}
+{"item_id":"ed0830c92c","pass":true,"score":0.85,"reason":"Covers drawing principles and names standard fairness tests."}
+{"item_id":"b14188f409","pass":false,"score":0.45,"reason":"Several technical errors (pure translation epipolar claims, pure rotation, coplanar points mislabeled) undermine accuracy."}
+{"item_id":"cfdfc4a4b0","pass":true,"score":1.0,"reason":"Correct derivative 3/x − 2x e^{x²}."}
+{"item_id":"83692b5ed8","pass":true,"score":1.0,"reason":"Indian Ocean is correct."}
+{"item_id":"2fa25cd8b4","pass":true,"score":0.95,"reason":"Conversions 63, 71, 77°C are correct."}
+{"item_id":"6480961493","pass":true,"score":0.85,"reason":"Offers sound layered methods for evaluating rare safety fixes with caveats."}
+{"item_id":"ac42cea8e9","pass":true,"score":0.85,"reason":"Gives measurable objectives and assessments, exceeding the one assessment requested."}
+{"item_id":"5f1f925e64","pass":false,"score":0.5,"reason":"Gives a confident conclusion, but English law may enforce such clauses between commercial parties (UCTA reasonableness) and UK example partly misapplied; overgeneralized."}
+{"item_id":"ded95fa954","pass":true,"score":0.7,"reason":"Delivers an apt feast-style paragraph about a Big Mac meal despite unnecessary disclaimer."}
+{"item_id":"ddb60fdf18","pass":true,"score":1.0,"reason":"Correct answer 13/27 with sound derivation."}
+{"item_id":"3f39e0bfa9","pass":true,"score":0.85,"reason":"Reasonable conclusion that ocean situation is more dangerous."}
+{"item_id":"77a10216a9","pass":true,"score":0.75,"reason":"Starts structured interview with conceptual questions, though coding phase not yet presented; reasonable interactive format."}
+{"item_id":"a849f2ca23","pass":true,"score":1.0,"reason":"Average 8,000 is correct."}
+{"item_id":"3e2e1e7fcb","pass":false,"score":0.4,"reason":"No clause was provided and the answer asks for it without translating; no deliverable."}
+{"item_id":"ab977a7461","pass":true,"score":0.9,"reason":"Insightful, well-supported analysis of identity themes."}
+{"item_id":"3c246ed23d","pass":true,"score":0.85,"reason":"Addresses cultural variation, cross-cultural disputes and global system challenges."}
+{"item_id":"513d7e06bc","pass":false,"score":0.45,"reason":"Plan has big jump from 3 min jog intervals to 7 min and 12 min and unrealistic 5K by week 4 from 15-20 min runs; inconsistent and risky."}
+{"item_id":"0114b33be1","pass":true,"score":0.8,"reason":"Cautious, correct advice to verify via official channels."}
+{"item_id":"d0f12654bb","pass":true,"score":0.88,"reason":"Thorough treatment of rights and legal advocacy strategies."}
+{"item_id":"7459b55779","pass":true,"score":0.8,"reason":"Supportive, practical calming tips."}
+{"item_id":"7e034cf7a2","pass":true,"score":0.95,"reason":"Valid regex and a correct limitation (2023-02-31)."}
+{"item_id":"6e371385ff","pass":false,"score":0.45,"reason":"Mostly accurate but misstates Westphalia (cuius regio plus Calvinism recognition) and omits that Lutter occurred in the Danish phase correctly; also Swedish phase timing slightly off; weak points but overall acceptable, borderline."}

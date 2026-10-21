@@ -1,0 +1,19 @@
+{
+  "name": "laya-typed-decisions-zeroshot",
+  "kind": "Decision model, zero-shot (local)",
+  "setup": "Laya typed-decisions asked low / mid / high, top option",
+  "notes": "The base model as published, no training.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 23.0,
+    "balanced_accuracy": 32.9,
+    "recall_low": 0.0,
+    "recall_mid": 98.6,
+    "recall_high": 0.0,
+    "too_small": 14.0,
+    "too_big": 63.0,
+    "picks": "0/597/3",
+    "latency_ms_p50": 44.3
+  },
+  "scored_at": "2026-10-16T15:13:30"
+}

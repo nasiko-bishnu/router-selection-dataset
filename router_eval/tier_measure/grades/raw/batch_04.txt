@@ -1,0 +1,50 @@
+{"item_id":"7d40455189","pass":true,"score":0.9,"reason":"Comprehensive, accurate coverage of CV benefits and the technical, ethical and legal challenges."}
+{"item_id":"b7d64c0223","pass":true,"score":1.0,"reason":"Correct: $1,500 + 20% of $4,500 = $2,400."}
+{"item_id":"4b71c6722f","pass":true,"score":1.0,"reason":"Correctly identifies the ocean situation as far more dangerous, with sound reasoning."}
+{"item_id":"4eda27a4d1","pass":true,"score":0.95,"reason":"Gives a sensible stir-fry method and three common ingredients."}
+{"item_id":"26d459d2a6","pass":true,"score":0.9,"reason":"Accurate, thorough comparison of synchronous and asynchronous communication."}
+{"item_id":"f36802f39f","pass":true,"score":1.0,"reason":"Correctly explains that .csv means Comma-Separated Values."}
+{"item_id":"bc9c92892e","pass":true,"score":0.85,"reason":"Accurate account of the dam's effects on flooding, with winners and losers; only minor typos."}
+{"item_id":"db0fdf7a17","pass":true,"score":0.95,"reason":"Safe, practical self-care advice with appropriate red-flag warnings."}
+{"item_id":"29fda73406","pass":false,"score":0.2,"reason":"Gives 10.53 h/day by counting break time as driving and using 12 breaks; the intended driving figure is about 9.33 h/day, and the working is muddled and self-contradictory."}
+{"item_id":"628c7d6af0","pass":true,"score":0.9,"reason":"Accurate comparison of tea and coffee."}
+{"item_id":"10b0c68b74","pass":true,"score":0.95,"reason":"Correct function plus an empty-list test."}
+{"item_id":"cb5d4f1023","pass":true,"score":0.85,"reason":"Sound comparison and a clear single recommendation (rooibos)."}
+{"item_id":"48f342f054","pass":true,"score":1.0,"reason":"Correctly identifies the scam and gives appropriate steps."}
+{"item_id":"bf68700630","pass":true,"score":0.7,"reason":"Rhyming haiku on topic; the second line runs about 8 syllables, a minor slip."}
+{"item_id":"7a869c5416","pass":true,"score":0.7,"reason":"Correctly concludes Nf3 is illegal because neither knight can reach f3, though the explanation is messy."}
+{"item_id":"ded8dd07b3","pass":true,"score":0.9,"reason":"Original melody using only C major notes."}
+{"item_id":"6a6ddbff86","pass":true,"score":1.0,"reason":"Correct: 18% of 250 = 45, with arithmetic shown."}
+{"item_id":"e26250505a","pass":true,"score":0.85,"reason":"Two valid ways given; the 10/20/30 label is slightly misapplied."}
+{"item_id":"1c08debbcb","pass":true,"score":0.95,"reason":"Accurate explanation of a steady check-engine light and what to do."}
+{"item_id":"6c4a452eed","pass":true,"score":0.9,"reason":"Correct mechanical and soap-lipid-envelope explanation, plus transmission interruption."}
+{"item_id":"42659ae9fd","pass":true,"score":0.85,"reason":"Correctly explains atomicity, logging, rollback and crash recovery."}
+{"item_id":"215af3e4e6","pass":true,"score":0.85,"reason":"Funny, on-topic essay that meets the request."}
+{"item_id":"3891de71e5","pass":true,"score":1.0,"reason":"Correct: axial tilt causes seasons, and Earth is closest to the Sun in January."}
+{"item_id":"38a576227e","pass":true,"score":1.0,"reason":"Correct translation."}
+{"item_id":"28ddcb2644","pass":true,"score":0.8,"reason":"Reasonable, accurate list of physiological barriers."}
+{"item_id":"4d6d141542","pass":true,"score":0.85,"reason":"Final 198/4165 matches the reference; the simplification working is messy but the result is right."}
+{"item_id":"b38d885a31","pass":true,"score":1.0,"reason":"f''(x)=12x-10 gives concave up on (5/6,∞), so E is correct."}
+{"item_id":"74b889b868","pass":true,"score":0.85,"reason":"Solid coverage of principles, Gantt charts, agile and risk management."}
+{"item_id":"f68e8c4995","pass":false,"score":0.2,"reason":"Many fabricated or wrong details (Kokkyō, Kabata, Yoshitaro Nakamura, Kōichi Sugiyama, Seiji Hondo, 'Yoshiko', 'buhin' as breath)."}
+{"item_id":"7c085ddd27","pass":true,"score":0.9,"reason":"Thorough, accurate coverage of sources, trade-offs and the transition role."}
+{"item_id":"c4b137fc2f","pass":true,"score":0.85,"reason":"Payments are correct; total interest is off by only a dollar or two."}
+{"item_id":"e194eabcae","pass":false,"score":0.45,"reason":"Offers three short rewrites of similar length to the original, so it is not clearly more in-depth as requested."}
+{"item_id":"03fd392ab4","pass":true,"score":0.9,"reason":"Formal, accurate and substantially deeper rewrite."}
+{"item_id":"90e3535edc","pass":false,"score":0.0,"reason":"Hallucinated synopsis, wrong director and characters."}
+{"item_id":"c9bd395844","pass":true,"score":0.85,"reason":"Practical, safety-aware options with realistic cost ranges."}
+{"item_id":"85e67ba62d","pass":false,"score":0.5,"reason":"Generic Lovecraft flavor, abridged plot and a muddled ending that departs from the original; unsure."}
+{"item_id":"7b46f0d8d6","pass":true,"score":0.85,"reason":"Balanced, factually sound answer to a speculative question."}
+{"item_id":"0b0dea0554","pass":true,"score":0.95,"reason":"Correct dynamic-programming Fibonacci implementations with a complexity analysis."}
+{"item_id":"b768642145","pass":false,"score":0.4,"reason":"Dubious 'most ethical' picks (Shell/BP, Tesla, 'The Big Issue' for paper) and overclaims about Thrive and Earthbound."}
+{"item_id":"6437346e00","pass":true,"score":0.9,"reason":"Correctly says confounders prevent crediting the curriculum and suggests proper analyses."}
+{"item_id":"2c8b619fce","pass":true,"score":1.0,"reason":"Correct XLOOKUP and VLOOKUP formulas for a cross-sheet lookup."}
+{"item_id":"fac1ace880","pass":true,"score":0.75,"reason":"Correct mechanism and INR-based management, though light on bleeding specifics."}
+{"item_id":"d668920209","pass":true,"score":0.65,"reason":"Core retrogradation and fridge explanation is correct; the fridge-rehydration hack and humidity claim are dubious."}
+{"item_id":"e598e90ed6","pass":true,"score":0.9,"reason":"Practical, well-structured advice for calming a dog during baths."}
+{"item_id":"e5e60ecc15","pass":true,"score":0.7,"reason":"Usable briefing with three plausible hard questions answered, though templated."}
+{"item_id":"4b1dfc3eda","pass":true,"score":0.9,"reason":"Sound districting design principles and a good list of fairness tests."}
+{"item_id":"dfff6fd80f","pass":true,"score":0.65,"reason":"Dog is the likely correct identification, though the part-by-part breakdown is guessy."}
+{"item_id":"ec3fe4b6c4","pass":true,"score":0.9,"reason":"Nuanced and sound investing advice."}
+{"item_id":"ab39d14ac4","pass":true,"score":0.85,"reason":"Accurate modern password guidance covering length, passphrases, a manager and MFA."}
+{"item_id":"563874435c","pass":false,"score":0.3,"reason":"Several factual errors (string and address as value or reference types, built-in ReentrancyGuard, Terra via Move) and a malformed comparison table."}

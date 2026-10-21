@@ -1,0 +1,50 @@
+{"item_id":"6ed2028e5e","pass":true,"score":0.95,"reason":"Correct core-JS methods (indexOf+splice, filter, in-place loop) with clear guidance on which to use."}
+{"item_id":"291558e9ca","pass":true,"score":0.75,"reason":"Sound trade-game and release training approach; the advice to close the dog's mouth by hand is a minor weak point."}
+{"item_id":"ca5cdcc7bb","pass":true,"score":0.9,"reason":"Accurately distinguishes exact uniformity (OTP) from computational indistinguishability and explains why practical ciphertexts aren't literally uniform."}
+{"item_id":"204bba9c20","pass":true,"score":0.92,"reason":"Covers event definition, observations, counterfactual model comparison, statistics and uncertainty, which matches standard attribution practice."}
+{"item_id":"1575912e52","pass":true,"score":0.65,"reason":"Generic template because no city was given, but it covers parks, a bakery and a 5 pm return with timings."}
+{"item_id":"05b2274fae","pass":true,"score":0.9,"reason":"Working HTML/JS starting point that sends the prompt to a Stable Diffusion API and displays the image, with a sensible API-key warning."}
+{"item_id":"9612313a1f","pass":true,"score":0.9,"reason":"Correct 2/3 answer with enumeration and the 100-door analogy; only small mislabels."}
+{"item_id":"4d9e759aab","pass":true,"score":0.9,"reason":"Covers MDP framing, sim-to-real, algorithms, challenges and workflow accurately."}
+{"item_id":"3629ea0f11","pass":true,"score":0.85,"reason":"Gives a sensible ordered plan (assessment, service, panel, K&T, EV circuit) with appropriate caveats."}
+{"item_id":"62afa9ae02","pass":true,"score":0.8,"reason":"Three jars with clear purposes (save, spend, share), which meets the request."}
+{"item_id":"0ce94230f9","pass":true,"score":0.85,"reason":"Practical low-cost self-care steps plus clear red-flag warnings for seeking care."}
+{"item_id":"3aaf2c9f01","pass":true,"score":0.85,"reason":"Compares tea and coffee and recommends one option (herbal tea), as asked."}
+{"item_id":"a1665ed7d9","pass":true,"score":0.95,"reason":"Accurate plain-English rewrites."}
+{"item_id":"7249bacb78","pass":true,"score":0.8,"reason":"Captures key Le Bon ideas (loss of individuality, contagion, suggestibility) and gives an example."}
+{"item_id":"c1a583676a","pass":true,"score":1.0,"reason":"2.4 hours (2 h 24 min), matching the reference."}
+{"item_id":"940789adbc","pass":false,"score":0.4,"reason":"Opens by claiming CI/CD is fundamental in marketing, then invents a 'Customer Insights' meaning, which is misleading even though it later says the term isn't standard."}
+{"item_id":"640163957d","pass":true,"score":0.85,"reason":"Funny, well-structured essay that fits the theme."}
+{"item_id":"ee163f3706","pass":true,"score":1.0,"reason":"KE 6 J + U 1 J = 7.0 J with correct explanation."}
+{"item_id":"761483ae0e","pass":true,"score":1.0,"reason":"$24, $24 and $48, matching the reference."}
+{"item_id":"cb6df0e264","pass":true,"score":0.9,"reason":"Solid pizza recipe delivered in a consistent Pepino persona."}
+{"item_id":"0e39ceefd5","pass":true,"score":1.0,"reason":"$536.48, matching the reference."}
+{"item_id":"dd61e604b6","pass":true,"score":0.9,"reason":"Accurate description of Tennyson's poem, its Odyssey source and its themes."}
+{"item_id":"71b1a5563b","pass":true,"score":0.85,"reason":"Clearly grouped into clothes, food and toys, with practical items for a two-day trip and one minor typo."}
+{"item_id":"d1cd7e7f14","pass":true,"score":0.85,"reason":"Covers what happens when a cable is cut and the main mitigations (redundancy, satellite, rerouting, repair)."}
+{"item_id":"b2a41c1591","pass":true,"score":0.65,"reason":"Correct overall conclusion that shared chords and similar contour aren't infringement, but the 'deceptive similarity' doctrine is dubious in copyright law."}
+{"item_id":"a81d5ed543","pass":true,"score":0.8,"reason":"Reasonable explanation of the naming and why gamers disable it, with a minor historical dating slip."}
+{"item_id":"71ea162e64","pass":true,"score":0.9,"reason":"Correct scp -3 command through the laptop, plus a valid staged rsync alternative."}
+{"item_id":"19624cf4ff","pass":true,"score":0.8,"reason":"Plausible reasons and two concrete mitigation strategies."}
+{"item_id":"9213b293d5","pass":true,"score":0.6,"reason":"Correctly says level with the last defender is onside, but the 'defender moved forward' remark is muddled about timing."}
+{"item_id":"c32fe00dab","pass":true,"score":0.8,"reason":"The code returns (1,1) for input 1 and satisfies the test, although the 'closest' semantics are loosely handled."}
+{"item_id":"e6d52b8438","pass":true,"score":1.0,"reason":"198/4165 (123,552/2,598,960), matching the reference."}
+{"item_id":"3857e37d62","pass":true,"score":0.85,"reason":"Vegan recipe sweetened with bananas and dates, with no refined sugar."}
+{"item_id":"747e6f861b","pass":true,"score":0.85,"reason":"Extends the text coherently in roughly 175 words, under the 200-word limit."}
+{"item_id":"8365771b9f","pass":true,"score":0.8,"reason":"Three clear steps covering both kids."}
+{"item_id":"f9184ec228","pass":true,"score":1.0,"reason":"25% is correct."}
+{"item_id":"4dd4f03924","pass":true,"score":0.75,"reason":"Good recipe in a lively Pepino persona, with minor typos and the name spelled inconsistently."}
+{"item_id":"f2a7a8bb58","pass":false,"score":0.1,"reason":"This is the well-known ASCII dog, not a cat, so the identification is wrong."}
+{"item_id":"a64b4faa3b","pass":true,"score":0.95,"reason":"Clear, accurate explanation with a numeric example and the refundable vs nonrefundable distinction."}
+{"item_id":"acebe76294","pass":true,"score":0.8,"reason":"Gives a name and a one-line slogan as requested."}
+{"item_id":"32b73cfb24","pass":false,"score":0.2,"reason":"Treats the India–Pakistan Wagah crossing as routinely usable and doesn't address the closures and security problems the user asked about; Zahedan/Taftan details are muddled."}
+{"item_id":"9ec29181ec","pass":true,"score":1.0,"reason":"Correctly shows 16.67% vs 25% effective discounts."}
+{"item_id":"2437b706b2","pass":true,"score":1.0,"reason":"Correct mean ($142,400) vs median ($60,000) example that illustrates the skew."}
+{"item_id":"86bbb63370","pass":true,"score":0.9,"reason":"Comprehensive evidence-based non-drug options with appropriate safety caveats."}
+{"item_id":"1c890031cf","pass":true,"score":0.65,"reason":"Provides usable Braille-pattern pictures with sensible caveats about the embosser; the shapes are crude but acceptable."}
+{"item_id":"6a6a2fdca3","pass":true,"score":0.85,"reason":"Accurate comparison of formulation, skin effects and use."}
+{"item_id":"9abd02d774","pass":true,"score":0.95,"reason":"Correct deque-based BFS with a matching example output."}
+{"item_id":"529397fcf9","pass":true,"score":0.85,"reason":"Prioritised, reasoned plan covering late payment, concentration, the vague fixed-price deal and cash runway."}
+{"item_id":"e90e00eded","pass":true,"score":0.8,"reason":"Sound, balanced list of conditions favouring renting indefinitely."}
+{"item_id":"5e0d38fce9","pass":true,"score":0.88,"reason":"Correctly explains it's behavioral and fingerprint analysis, not just speed."}
+{"item_id":"d4583d0c2a","pass":false,"score":0.35,"reason":"Falls back to a flight for Milan–Paris, breaking the rail-trip requirement, and the fare estimates are unrealistic."}

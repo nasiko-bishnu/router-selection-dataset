@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Judge pack: anonymised copy of the answers, rebuilt by make_judge_pack.py
+router_eval/tier_measure/judge_pack/
+# Fine-tuned weights
+checkpoints/
