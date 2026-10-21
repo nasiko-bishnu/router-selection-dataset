@@ -219,3 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+
+# Run logs are part of the published results
+!results/logs/*.log

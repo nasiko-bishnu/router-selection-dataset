@@ -1,0 +1,7 @@
+  clm-finetuned: 0/600
+  clm-finetuned: 100/600
+  clm-finetuned: 200/600
+  clm-finetuned: 300/600
+  clm-finetuned: 400/600
+  clm-finetuned: 500/600
+clm-finetuned: accuracy 32.5% | balanced 41.6% | recall low/mid/high 26.1/25.0/73.8% | picks 117/173/310

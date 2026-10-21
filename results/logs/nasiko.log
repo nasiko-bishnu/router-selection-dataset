@@ -1,0 +1,5 @@
+nasiko main at c6ebd4b3 2026-10-07
+nasiko-main-cold: Seeds 0-4: balanced 32.7% (sd 1.0), accuracy 41.6% (sd 1.1).
+nasiko-main-cold: accuracy 42.2% | balanced 33.4% | recall low/mid/high 50.5/37.9/11.9% | picks 305/249/46
+nasiko-main-online: Seeds 0-4: balanced 33.7% (sd 0.8), accuracy 28.6% (sd 3.2).
+nasiko-main-online: accuracy 28.7% | balanced 33.8% | recall low/mid/high 13.6/84.3/3.6% | picks 81/506/13
