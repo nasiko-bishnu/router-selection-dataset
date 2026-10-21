@@ -5,7 +5,7 @@
 
 ## 📦 The dataset
 
-**File:** [`router_eval/measured600/data/llm_tier_selection_600_measured.jsonl`](router_eval/measured600/data/llm_tier_selection_600_measured.jsonl), one JSON object per line:
+**File:** [`data/llm_tier_selection_600_measured.jsonl`](data/llm_tier_selection_600_measured.jsonl), one JSON object per line:
 
 ```json
 {"query": "What does a 70% chance of rain in a forecast actually mean, and what does it not mean?", "label": "MID", "topic": "science_environment", "word_count": 18}
@@ -38,10 +38,9 @@ flowchart LR
 | **MID** | `gpt-4.1` + `Gemma 4 26B-A4B` |
 | **HIGH** | `gpt-5.4` |
 
-- **Blind grading:** the 3,000 answers were anonymised and shuffled into 60 batches. Each batch was graded in a fresh judge session with no tools, using [`JUDGE_INSTRUCTIONS.md`](router_eval/tier_measure/JUDGE_INSTRUCTIONS.md).
+- **Blind grading:** the 3,000 answers were anonymised and shuffled into 60 batches. Each batch was graded in a fresh judge session with no tools.
 - **Cut-off answers:** answers that hit the token limit were re-run with a higher limit.
 - **Unsolved questions:** the 11 questions no tier solved are labelled HIGH.
-- **Files:** every answer, grade and the label of every question are included: `answers/`, `grades/` and `measured_tiers.jsonl` in [`router_eval/tier_measure/`](router_eval/tier_measure/). The write-up is in [`RESULTS.md`](router_eval/tier_measure/RESULTS.md).
 - **Cost:** `$9.23` of API calls.
 
 ## 📊 Routers tested on it
@@ -77,40 +76,20 @@ flowchart LR
 - **Fine-tuning hurts:** models trained on an older set with **hand-written** tiers send too many questions to HIGH.
 - **Nasiko's router is at chance:** it has no difficulty signal.
 
-Full tables, threshold sweeps and the glossary are in [`RESULTS.md`](router_eval/measured600/RESULTS.md). The brief version is [`REPORT.md`](router_eval/measured600/REPORT.md), and the one-page version is [`CONCLUSION.md`](router_eval/measured600/CONCLUSION.md).
+Full tables, threshold sweeps and the glossary are in [`RESULTS.md`](RESULTS.md). The brief version is [`REPORT.md`](REPORT.md), and the one-page version is [`CONCLUSION.md`](CONCLUSION.md).
 
 ## 📁 Repository layout
 
 | Path | What it is |
 |---|---|
-| `router_eval/measured600/data/` | **The dataset** |
-| `router_eval/measured600/` | Router tests (`test_*.py`, `run_all.sh`), scoring (`harness.py`), thresholds, results and write-ups |
-| `router_eval/tier_measure/` | Label measurement: `answer.py`, `make_judge_pack.py`, `run_judge.py`, `measure_tiers.py`, and all answers and grades |
-| `llm_tier_selection_candidates_600.jsonl` | The 600 questions before measurement (authored + oasst2) |
-| `make_candidates_600.py`, `make_300_balanced.py`, `make_150_balanced.py` | Build the question pool from the original 150 questions and oasst2 |
-| `router_eval/data/eval_600.json` | The older hand-labelled training set used by the fine-tuned routers |
-| `router_eval/retrain3/`, `laya600/`, `d3_flash/`, `clm/`, `jev/`, `bench.py`, `train_laya.py` | The router code the tests use |
-
-## 🧪 Reproduce
-
-> [!NOTE]
-> **Keys:** `OPENAI_API_KEY` goes in `.env`, and `TYPESAFE_API_KEY` (for Jev) in `jev/.env`. Both are gitignored.
-
-```bash
-# Rebuild the question pool and the dataset (no API calls)
-python3 make_300_balanced.py
-uv run make_candidates_600.py                       # downloads oasst2 prompts
-python3 router_eval/tier_measure/measure_tiers.py --tier LOW=openai:gpt-4.1-nano,mlxvlm:mlx-community/Qwen3.5-9B-MLX-4bit \
-  --tier MID=openai:gpt-4.1,mlxvlm:mlx-community/gemma-4-26b-a4b-it-4bit --tier HIGH=openai:gpt-5.4
-python3 router_eval/measured600/make_measured_600.py
-
-# Re-run the routers and rebuild the results
-router_eval/measured600/run_all.sh                  # see its header for the d3-flash / CLM environments
-python3 router_eval/measured600/thresholds.py
-```
-
-- **Every step above was checked:** it rebuilds the committed files byte for byte.
-- **The judge key is archived:** `router_eval/tier_measure/judge_key.json` maps each graded item to its model, so the labels can be rebuilt from the grades.
+| [`data/llm_tier_selection_600_measured.jsonl`](data/llm_tier_selection_600_measured.jsonl) | **The dataset** |
+| [`results/`](results/) | One `<router>.json` per run, with its metrics, setup and notes |
+| [`results/predictions/`](results/predictions/) | Every router's pick for every question, with probabilities where the router gives them |
+| [`results/thresholds/`](results/thresholds/) | The best threshold per router, including the cross-validated ones |
+| [`results/logs/`](results/logs/) | The console log of every run |
+| [`REPORT.md`](REPORT.md) | Brief report |
+| [`CONCLUSION.md`](CONCLUSION.md) | One-page conclusion |
+| [`RESULTS.md`](RESULTS.md) | Full results: every table, the threshold sweeps, model sizes and a glossary |
 
 ## ⚠️ Caveats
 
@@ -120,6 +99,6 @@ python3 router_eval/measured600/thresholds.py
 
 ## 📜 License
 
-- **Code and the 300 authored questions:** MIT, see [`LICENSE`](LICENSE).
+- **The 300 authored questions and the results:** MIT, see [`LICENSE`](LICENSE).
 - **The 300 oasst2 prompts:** from OpenAssistant/oasst2, Apache-2.0.
 - **Model answers and router outputs:** generated by the models and services named above (OpenAI, Qwen, Gemma, Claude, TypeSafe Jev), under their providers' terms.

@@ -8,8 +8,8 @@
 | Data | Questions | Labels | Used for |
 |---|---:|---|---|
 | **Measured 600** (`data/llm_tier_selection_600_measured.jsonl`) | **600**: 300 authored + 300 OpenAssistant oasst2 (English) | **Measured:** LOW **376** / MID **140** / HIGH **84** | **Test set** for every model |
-| `eval_600` (`../data/eval_600.json`) | 600 | Authored: 200 per tier | Training the fine-tuned and retrained models |
-| Authored 300 (`../data/own_300.json`) | 300 | Authored: 100 per tier | The earlier test, shown for comparison |
+| `eval_600` (not included) | 600 | Authored: 200 per tier | Training the fine-tuned and retrained models |
+| Authored 300 (not included) | 300 | Authored: 100 per tier | The earlier test, shown for comparison |
 
 ```mermaid
 flowchart LR
@@ -73,4 +73,4 @@ Ranked by **balanced accuracy** on the measured 600, which weights every tier eq
 > 2. **Measure a separate training set** (about `$10` plus judging), for a clean train / test split.
 > 3. **Judge self-agreement check** on about 100 items, to bound the label noise.
 
-*Full details: [RESULTS.md](RESULTS.md) (all tables, thresholds, sizes, glossary) · labels: [../tier_measure/RESULTS.md](../tier_measure/RESULTS.md).*
+*Full details: [RESULTS.md](RESULTS.md) (all tables, thresholds, sizes, glossary).*
