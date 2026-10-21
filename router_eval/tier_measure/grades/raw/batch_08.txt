@@ -1,0 +1,50 @@
+{"item_id":"a017550ce8","pass":true,"score":0.95,"reason":"Correctly defines x- and y-intercepts with a worked example."}
+{"item_id":"c414fa8ad3","pass":true,"score":0.9,"reason":"Accurate high-level comparison of key types, distribution, use cases and efficiency."}
+{"item_id":"17e2eaf61d","pass":true,"score":0.88,"reason":"Correctly identifies condensation and poor ventilation and gives a sound set of lasting fixes."}
+{"item_id":"f69db6654c","pass":false,"score":0.35,"reason":"Contains serious errors, including 'hydrogen suppression' injecting hydrogen and the claim that water sprinklers are ineffective against lithium fires."}
+{"item_id":"da332fc9f7","pass":true,"score":0.9,"reason":"Balanced and accurate account of Linux advantages and disadvantages versus Windows and macOS."}
+{"item_id":"392be6b3d2","pass":true,"score":1.0,"reason":"Correct derivative 3/x − 2x e^{x²}."}
+{"item_id":"c3f1d9de7e","pass":true,"score":0.9,"reason":"Specific, actionable resume advice with examples."}
+{"item_id":"96412abe2e","pass":true,"score":0.8,"reason":"Covers applications, diversity and health implications soundly, with some loose use of 'AI'."}
+{"item_id":"623582fe56","pass":true,"score":0.95,"reason":"Correct definition of x- and y-intercepts."}
+{"item_id":"0e54f1a5b3","pass":true,"score":0.85,"reason":"Final answer of 4 matches the reference, though the information-theory argument gives only a lower bound."}
+{"item_id":"434e9f6125","pass":false,"score":0.3,"reason":"Advice to channel water away from the house would worsen drying of the clay; it ignores trees and moisture stabilisation and wrongly claims underpinning can worsen shrinkage."}
+{"item_id":"cff79b3880","pass":true,"score":0.85,"reason":"Sound recommendation of Colley/Bradley-Terry methods for sparse, uneven data, with correct Colley formulation and code."}
+{"item_id":"5dfe39d800","pass":true,"score":0.9,"reason":"Accurate explanation of no-shows and the data-driven overbooking decision."}
+{"item_id":"a5f7b8fbb8","pass":true,"score":0.8,"reason":"Sensible day-specific adjustments, tracking and leftover handling."}
+{"item_id":"161113670b","pass":true,"score":0.9,"reason":"Good framework using weighted tickets, balanced scorecard, FCR and peer benchmarks."}
+{"item_id":"645cd94175","pass":true,"score":0.85,"reason":"Accurate examples of PQC families and a nuanced answer on superiority."}
+{"item_id":"761b63b03e","pass":true,"score":0.95,"reason":"Correct critical-path duration of 8 days."}
+{"item_id":"d94ec0a60b","pass":true,"score":0.8,"reason":"Core deduction versus credit explanation and example are correct, with a minor slip on the student loan interest limit."}
+{"item_id":"ad2c6014f2","pass":true,"score":0.85,"reason":"Explains contextlib and closing() correctly and notes ZipFile is already a context manager."}
+{"item_id":"8e778840dd","pass":true,"score":0.75,"reason":"Reasonable explanation of baking soda and vinegar use, though the chemistry is somewhat simplified."}
+{"item_id":"a649ddd7c5","pass":false,"score":0.15,"reason":"Wrongly calls the premise false and contradicts itself on prevalence (claims 12–15% then 'higher' at 0.6%); the absolute-number claim is generally accepted."}
+{"item_id":"7806a69ed1","pass":true,"score":1.0,"reason":"Correct JavaScript translation."}
+{"item_id":"a870ebbd1a","pass":true,"score":0.9,"reason":"Accurate SMS attack vectors and appropriate stronger alternatives."}
+{"item_id":"7db7552acc","pass":true,"score":0.7,"reason":"Covers baselines, MMM and experiments, though attribution models are not truly causal."}
+{"item_id":"e2dea5c944","pass":true,"score":0.85,"reason":"Accurate overview of renewable energy principles and challenges."}
+{"item_id":"72a5a9b630","pass":true,"score":0.95,"reason":"Correctly identifies confounding and describes what evidence would isolate the curriculum effect."}
+{"item_id":"4378df87fb","pass":true,"score":0.9,"reason":"Polite, complete email template."}
+{"item_id":"addee8fbc5","pass":true,"score":0.85,"reason":"Appropriate list of airport documents, with sensible caveats."}
+{"item_id":"fff693aad5","pass":true,"score":0.8,"reason":"Coherent defence strategy covering evidence, expert testimony, intent and presumption of innocence."}
+{"item_id":"4040725ccb","pass":true,"score":0.9,"reason":"Standard accurate explanation of recurrence and resistance risk."}
+{"item_id":"d3e1d0d969","pass":true,"score":1.0,"reason":"Correctly explains rune conversion and fixes with strconv.Itoa."}
+{"item_id":"4f89f7e45e","pass":true,"score":0.9,"reason":"Complete steps and relevant evidence for disputing a deposit."}
+{"item_id":"c0b89339e3","pass":false,"score":0.4,"reason":"Label is about 86 words rather than 100, and mentions vinyl for a 1920s player."}
+{"item_id":"6d1c1950c4","pass":true,"score":0.85,"reason":"Accurate, exam-focused orbital summary, though longer than five minutes."}
+{"item_id":"c223463e9a","pass":true,"score":0.7,"reason":"Reasoned recommendation of the oven for capacity and baking, with caveats."}
+{"item_id":"d7c6b23036","pass":false,"score":0.15,"reason":"Invents a marketing meaning of 'Continuous Improvement/Development' and misses the real marketing meaning of CI/CD (Corporate Identity/Corporate Design)."}
+{"item_id":"deb8b16d67","pass":true,"score":0.7,"reason":"Meets the clothes/food/toys grouping with a practical list, but a few choking-risk suggestions."}
+{"item_id":"726fae4f56","pass":true,"score":0.9,"reason":"Firm but polite rewrite."}
+{"item_id":"985625ce4f","pass":true,"score":0.8,"reason":"Balanced treatment of all listed factors with a conditional recommendation."}
+{"item_id":"68fdb163b6","pass":true,"score":0.92,"reason":"Accurate mechanisms: electrolyte oxidation, SEI growth, cathode degradation and Arrhenius heat effect."}
+{"item_id":"69453268c6","pass":true,"score":0.85,"reason":"Plausible correct translation using the dictionary and the feminine suffix."}
+{"item_id":"7f37046052","pass":true,"score":0.85,"reason":"Correctly explains what a Wi-Fi password protects against and its limits."}
+{"item_id":"90c61e79e1","pass":true,"score":0.75,"reason":"Reasonable breakdown of federal, state and foreign taxation with FTC/FEIE, with minor simplifications."}
+{"item_id":"dd150b965c","pass":true,"score":0.9,"reason":"Thorough, age-appropriate agreement that accounts for different schedules."}
+{"item_id":"28905c938f","pass":false,"score":0.25,"reason":"Several factual errors: SABER, Rainbow and GeMSS wrongly called NIST-selected, and the SIKE break misdescribed as an implementation flaw."}
+{"item_id":"d02be5aaa6","pass":true,"score":0.75,"reason":"Sensible first steps on data, representation, architecture and loss, with honest framing of the limits."}
+{"item_id":"945603f151","pass":true,"score":0.65,"reason":"Acceptable generic advice, though it favours complexity over passphrases and gives a sample password."}
+{"item_id":"dcc1dc7330","pass":true,"score":0.6,"reason":"Provides a four-week plan with rest days, but the progression is aggressive and some session totals are miscalculated."}
+{"item_id":"62377208e5","pass":true,"score":0.9,"reason":"Good egg-content ideas with safe venues and allergy and choking cautions."}
+{"item_id":"b71340e37f","pass":false,"score":0.2,"reason":"Fabricated evidence: wrong Stockholm charge and exemptions, nonexistent London 'Discretionary Route Exemption', and wrong London fee and traffic figures."}

@@ -1,0 +1,50 @@
+{"item_id": "c51d4d6dc0", "pass": true, "score": 0.85, "reason": "Correct function handling empty list, with an empty-list test (print-based but acceptable)."}
+{"item_id": "3c6a0b4e3e", "pass": true, "score": 0.85, "reason": "Gives eight concrete steps plus timeline and metrics, with realistic caveats about BGG Top 100."}
+{"item_id": "7a904befbc", "pass": true, "score": 0.8, "reason": "Covers districting principles and names valid fairness tests (efficiency gap, Polsby-Popper, mean-median, symmetry) with mostly accurate explanations."}
+{"item_id": "b07afc3e41", "pass": true, "score": 0.85, "reason": "Balanced, accurate discussion of UBI benefits and challenges."}
+{"item_id": "47e05a0b3e", "pass": true, "score": 0.85, "reason": "Calming, practical grounding and communication tips for dental anxiety; one slightly garbled phrase."}
+{"item_id": "76d916538a", "pass": true, "score": 0.65, "reason": "Correctly explains CYP3A4 and P-gp, but omits OATP inhibition and first-pass bioavailability detail."}
+{"item_id": "b510289e0d", "pass": true, "score": 0.85, "reason": "Accurate explanation of expansionary vs contractionary policy and inflation targeting."}
+{"item_id": "40690716d7", "pass": true, "score": 0.7, "reason": "Standard correct pandas sort and drop_duplicates approach, writes to a new file; limited handling of ties or bad timestamps."}
+{"item_id": "02b70ee98a", "pass": true, "score": 1.0, "reason": "TP=30, FP=10, FN=10 gives precision and recall of 0.75 each; correct."}
+{"item_id": "9863fce743", "pass": true, "score": 0.95, "reason": "Correctly gives slowed chemical reactions as the reason."}
+{"item_id": "1114e7d3d5", "pass": true, "score": 0.75, "reason": "Provides a usable mnemonic linking clock and heart to wish."}
+{"item_id": "50a9e18a31", "pass": false, "score": 0.4, "reason": "Policy claims are generic or dubious (FERPA misapplied, unspecified 'university policies'), and the tone calls it harassment."}
+{"item_id": "ccd9ad3961", "pass": true, "score": 0.9, "reason": "Correct translation: the doe eats a lot of grass."}
+{"item_id": "3d75d64c03", "pass": true, "score": 0.6, "reason": "Strategy is defensible as interface-based decoupling, though the explanation is muddled and Adapter would fit more naturally."}
+{"item_id": "79130ff647", "pass": false, "score": 0.4, "reason": "Hints are generic and the 'head east' direction is unverified and likely unhelpful or wrong; unsure."}
+{"item_id": "43611e61d7", "pass": true, "score": 0.85, "reason": "Several impact-focused rewrites with action verbs and advice to use real numbers."}
+{"item_id": "3abf60d1b4", "pass": true, "score": 0.85, "reason": "Sensible sequence: monitor, improve drainage and vegetation, underpin only as last resort after engineer assessment."}
+{"item_id": "a2e1d8bac3", "pass": true, "score": 0.75, "reason": "Dairy-free plan totals about 2,000 kcal and well over 25 g fiber; minor typos and the stated fiber total is inconsistent with the item sums."}
+{"item_id": "b28f8f0260", "pass": true, "score": 0.85, "reason": "Many fresh entertainer ideas that avoid the previously hired types."}
+{"item_id": "833dc3c887", "pass": false, "score": 0.35, "reason": "The secondary pairing makes each engineer secondary one weekend and primary the next, contradicting the no-back-to-back claim; time zones barely addressed."}
+{"item_id": "91b63d6ab9", "pass": true, "score": 1.0, "reason": "400/20000×1000 = 20 per 1,000; correct."}
+{"item_id": "0586f34fef", "pass": true, "score": 0.85, "reason": "Appropriate packing list with storm-safety advice and early start."}
+{"item_id": "52c36c7891", "pass": true, "score": 0.85, "reason": "Correct Gray code conversion and wrap-around next/previous logic; example output verified; minor wrong comment."}
+{"item_id": "835f79e209", "pass": true, "score": 0.85, "reason": "Coherent continuation under 200 words."}
+{"item_id": "267a8d1c29", "pass": true, "score": 0.8, "reason": "Reasonable calorie ranges and offers to refine with details."}
+{"item_id": "f2e9fd539a", "pass": false, "score": 0.2, "reason": "Computes $3.00 vs $3.20 per kg but concludes 'No', misreading the question; the correct answer is yes, it is cheaper."}
+{"item_id": "5195156e7d", "pass": true, "score": 0.7, "reason": "Honest about limits and gives a sound roadmap (paired degradation data, GAN/diffusion, losses, first steps); minor typos."}
+{"item_id": "2e4128af2b", "pass": true, "score": 1.0, "reason": "2/5 matches the reference."}
+{"item_id": "d2cba3f05b", "pass": true, "score": 0.9, "reason": "Comprehensive, accurate coverage of examples, pros and cons, and roles."}
+{"item_id": "0c9466acd6", "pass": true, "score": 0.65, "reason": "Gluten-free, iron-focused plan with vitamin C pairing and inhibitor separation; lacks runner-specific timing and celiac malabsorption advice."}
+{"item_id": "c4b8a4374d", "pass": true, "score": 0.85, "reason": "Working pure JS network with backprop and XOR example."}
+{"item_id": "a24abd765d", "pass": true, "score": 1.0, "reason": "121,415 matches the reference and the recurrence is computed correctly."}
+{"item_id": "c0f39ebf22", "pass": true, "score": 0.85, "reason": "Valid regex and correctly states it cannot check calendar validity."}
+{"item_id": "ac0639fe11", "pass": true, "score": 1.0, "reason": "Correct fix to They're with a clear explanation."}
+{"item_id": "6966faeddb", "pass": true, "score": 0.85, "reason": "Two valid effects given: harder land trade and the push for sea routes."}
+{"item_id": "efec85df77", "pass": true, "score": 1.0, "reason": "f'(x)=3/x − 2x e^{x²} is correct."}
+{"item_id": "aa8293eeba", "pass": true, "score": 0.8, "reason": "Offers varied new entertainer categories beyond those already used and asks follow-up."}
+{"item_id": "f70d573936", "pass": true, "score": 0.7, "reason": "Complete three-course healthy menu with instructions, though a few items (quinoa, olive oil) may not be market-sourced."}
+{"item_id": "4634ff82df", "pass": true, "score": 0.7, "reason": "Sensible recommendation of the direct flight with sound reasons and caveats."}
+{"item_id": "f223b7d55e", "pass": false, "score": 0.05, "reason": "The message has 103 letters, not 79."}
+{"item_id": "9f00ab9171", "pass": true, "score": 0.75, "reason": "Covers real approaches (moisture-driven generators, triboelectric, condensation-coupled) with honest limitations."}
+{"item_id": "b5ba28a5fa", "pass": true, "score": 0.9, "reason": "Three practical fixes with realistic cost ranges."}
+{"item_id": "383511e5df", "pass": true, "score": 0.8, "reason": "Correct strategy and final identification of all chests, despite slightly muddled intermediate reasoning."}
+{"item_id": "5f060fb4de", "pass": true, "score": 0.65, "reason": "Three age-appropriate low-pressure practice ideas, though the silent dictation instructions are confusing."}
+{"item_id": "23018826ab", "pass": true, "score": 0.65, "reason": "Core first aid (pressure, elevation, warning signs) is sound; suggesting ibuprofen and implying self-driving are weaknesses."}
+{"item_id": "1bc2907fdb", "pass": false, "score": 0.4, "reason": "Generic plan with an error (Paris metro is largely not step-free) and little on medicine rules or wheelchair-specific logistics."}
+{"item_id": "6771f81274", "pass": false, "score": 0.05, "reason": "Fails to identify the 2012 Sukhoi Superjet Mount Salak demo crash and gives wrong, confused details."}
+{"item_id": "9af8e305e9", "pass": false, "score": 0.45, "reason": "Generic supply-chain bullet list with little concrete detail on rising freight costs or trade-offs."}
+{"item_id": "e6be42482e", "pass": false, "score": 0.3, "reason": "Mostly misdiagnoses the problem, assumes decay every epoch, and offers buggy reset code and irrelevant suggestions."}
+{"item_id": "7d665fc381", "pass": true, "score": 0.85, "reason": "Clear explanation of backup value tied to the user's lost photos."}

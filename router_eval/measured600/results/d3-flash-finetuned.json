@@ -1,0 +1,20 @@
+{
+  "name": "d3-flash-finetuned",
+  "kind": "Decision model, fine-tuned (local)",
+  "setup": "d3-flash (backbone frozen), readout rows for the 3 tier codes fine-tuned on eval_600",
+  "notes": "D3Readout from ../d3_flash/run_d3.py, warm start from the model's own readout; p50 latency is the readout only (add the backbone time of d3-flash-zeroshot).",
+  "metrics": {
+    "n": 600,
+    "accuracy": 35.8,
+    "balanced_accuracy": 43.6,
+    "recall_low": 29.0,
+    "recall_mid": 36.4,
+    "recall_high": 65.5,
+    "too_small": 6.5,
+    "too_big": 57.7,
+    "picks": "127/251/222",
+    "latency_ms_p50": 0.0,
+    "train_seconds": 0.6
+  },
+  "scored_at": "2026-10-16T11:56:10"
+}

@@ -1,0 +1,152 @@
+{
+  "name": "laya-typed-decisions-finetuned",
+  "kind": "Decision model, fine-tuned (local)",
+  "setup": "Laya typed-decisions fine-tuned on eval_600 (options low / mid / high)",
+  "notes": "LayaTier from ../laya600: plain cross-entropy, AdamW, top 8 encoder layers, up to 20 epochs, best epoch by loss on 10% of eval_600 held out. Chosen epoch: 6.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 29.5,
+    "balanced_accuracy": 38.6,
+    "recall_low": 15.4,
+    "recall_mid": 62.1,
+    "recall_high": 38.1,
+    "too_small": 9.5,
+    "too_big": 61.0,
+    "picks": "73/395/132",
+    "latency_ms_p50": 46.2,
+    "train_seconds": 841.3
+  },
+  "scored_at": "2026-10-16T15:28:00",
+  "training_log": {
+    "trainable_params": 124307457,
+    "n_train": 540,
+    "n_val": 60,
+    "epochs": [
+      {
+        "epoch": 0,
+        "val_loss": 1.2762
+      },
+      {
+        "epoch": 1,
+        "train_loss": 1.0795,
+        "val_loss": 0.9733,
+        "seconds": 42
+      },
+      {
+        "epoch": 2,
+        "train_loss": 0.9658,
+        "val_loss": 0.8803,
+        "seconds": 42
+      },
+      {
+        "epoch": 3,
+        "train_loss": 0.8672,
+        "val_loss": 0.8914,
+        "seconds": 42
+      },
+      {
+        "epoch": 4,
+        "train_loss": 0.8009,
+        "val_loss": 0.9714,
+        "seconds": 42
+      },
+      {
+        "epoch": 5,
+        "train_loss": 0.7145,
+        "val_loss": 0.7811,
+        "seconds": 42
+      },
+      {
+        "epoch": 6,
+        "train_loss": 0.5892,
+        "val_loss": 0.7688,
+        "seconds": 42
+      },
+      {
+        "epoch": 7,
+        "train_loss": 0.419,
+        "val_loss": 0.9517,
+        "seconds": 42
+      },
+      {
+        "epoch": 8,
+        "train_loss": 0.2455,
+        "val_loss": 1.0245,
+        "seconds": 42
+      },
+      {
+        "epoch": 9,
+        "train_loss": 0.2936,
+        "val_loss": 1.9928,
+        "seconds": 42
+      },
+      {
+        "epoch": 10,
+        "train_loss": 0.1683,
+        "val_loss": 2.073,
+        "seconds": 42
+      },
+      {
+        "epoch": 11,
+        "train_loss": 0.0656,
+        "val_loss": 2.637,
+        "seconds": 42
+      },
+      {
+        "epoch": 12,
+        "train_loss": 0.0319,
+        "val_loss": 2.019,
+        "seconds": 42
+      },
+      {
+        "epoch": 13,
+        "train_loss": 0.0189,
+        "val_loss": 2.8581,
+        "seconds": 42
+      },
+      {
+        "epoch": 14,
+        "train_loss": 0.0065,
+        "val_loss": 3.0231,
+        "seconds": 42
+      },
+      {
+        "epoch": 15,
+        "train_loss": 0.0053,
+        "val_loss": 2.6682,
+        "seconds": 42
+      },
+      {
+        "epoch": 16,
+        "train_loss": 0.0047,
+        "val_loss": 2.8133,
+        "seconds": 42
+      },
+      {
+        "epoch": 17,
+        "train_loss": 0.0045,
+        "val_loss": 2.8481,
+        "seconds": 42
+      },
+      {
+        "epoch": 18,
+        "train_loss": 0.0043,
+        "val_loss": 2.8878,
+        "seconds": 42
+      },
+      {
+        "epoch": 19,
+        "train_loss": 0.0039,
+        "val_loss": 2.9034,
+        "seconds": 42
+      },
+      {
+        "epoch": 20,
+        "train_loss": 0.0039,
+        "val_loss": 2.9089,
+        "seconds": 43
+      }
+    ],
+    "best_epoch": 6
+  }
+}

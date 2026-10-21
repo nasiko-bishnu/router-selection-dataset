@@ -1,0 +1,50 @@
+{"item_id":"9892c34550","pass":false,"score":0.15,"reason":"The 'hints' are generic filler about colour and strings and say nothing about where the player should actually go next."}
+{"item_id":"295c2fdcc8","pass":true,"score":0.75,"reason":"Sound framework covering taxes, inflation, liquidity, emergency fund and a hybrid option; it compares a nominal 4% to a real 6-7% return, which is a minor inconsistency."}
+{"item_id":"c5b10f7f08","pass":true,"score":0.75,"reason":"Balanced, well-organised discussion of why slavery persists and whether it can end; it accepts the premise, which is broadly true in absolute numbers."}
+{"item_id":"b98a1f5bec","pass":true,"score":0.85,"reason":"Accurate definition, the three types of threat intelligence and practical benefits."}
+{"item_id":"46eb7e8973","pass":true,"score":0.85,"reason":"Correctly explains that a password blocks unauthorized access, bandwidth theft, snooping and abuse of the connection."}
+{"item_id":"1d11bfabc5","pass":true,"score":0.7,"reason":"Reasonable windowed-state design with event-time routing, a 48-hour TTL, compaction and handling of late-late events; some of the revision handling is muddled."}
+{"item_id":"ceedff75fb","pass":false,"score":0.3,"reason":"It claims that votes spread evenly across districts (40/35/25 in each) would give a proportional seat split under FPTP, when the 40% party would win every seat."}
+{"item_id":"6cfc629237","pass":true,"score":0.9,"reason":"Clear separation of covariate shift, label shift, concept drift and pipeline bugs, each with checks and a sensible diagnosis order."}
+{"item_id":"748d2c3de4","pass":true,"score":0.9,"reason":"Correctly recommends paracetamol over ibuprofen and explains the COX and prostaglandin mechanism."}
+{"item_id":"55e7a41d1e","pass":true,"score":0.9,"reason":"Correct, working Hugging Face code for gpt-neo-2.7B, with memory tips."}
+{"item_id":"d81a1a43e0","pass":false,"score":0.45,"reason":"It rightly says a missing period doesn't void the agreement, but then overstates the concern and advises not signing until the typo is fixed, which is poor practical advice; the examples are also weak."}
+{"item_id":"26b74cdb8c","pass":true,"score":0.9,"reason":"Exactly two sentences, and the message is clear."}
+{"item_id":"423ee069a8","pass":true,"score":1.0,"reason":"The median is 10, which is correct."}
+{"item_id":"8290b2e846","pass":true,"score":0.9,"reason":"Correctly names unconscionability, with its procedural and substantive prongs, as the main doctrine and adds related ones; it has a minor typo."}
+{"item_id":"22acebf35e","pass":true,"score":0.95,"reason":"Identifies should of, their/there, aparently and massage, and gives a correct rewrite."}
+{"item_id":"9b01805774","pass":true,"score":0.85,"reason":"Accurate explanation of jury duty and the usual consequences of ignoring a summons, with a note that these vary by jurisdiction."}
+{"item_id":"44ada84e34","pass":true,"score":1.0,"reason":"Precision and recall are both 0.75, which is correct."}
+{"item_id":"b5491b7979","pass":true,"score":0.85,"reason":"Thorough, age-appropriate lesson plan on barter, money and credit with several fun games; one scenario about tobacco is slightly ambiguous."}
+{"item_id":"e7b9307b83","pass":true,"score":0.7,"reason":"MIME-type validation and the accept attribute are correct, but it awaits `new Compressor(...)` as if it returned a promise, which is wrong because compressorjs uses callbacks."}
+{"item_id":"caf76653f8","pass":true,"score":0.85,"reason":"Age-appropriate egg fillers, safe locations and a useful safety checklist."}
+{"item_id":"918fd09da1","pass":true,"score":0.75,"reason":"Sensible signs beyond visual wear (pedal feel, noise, vibration, fluid age) and advises a professional inspection."}
+{"item_id":"57a2d38c36","pass":true,"score":0.95,"reason":"Correct: void methods need not return a value."}
+{"item_id":"e13da81f60","pass":true,"score":0.8,"reason":"Correct definition and practical ways to check Turing completeness, such as reduction and the feature checklist."}
+{"item_id":"a745e56fb2","pass":true,"score":0.85,"reason":"Final answer of 4 matches the reference, with a bound consistent with (3^n-3)/2 = 39."}
+{"item_id":"04aa5b8aa8","pass":true,"score":0.9,"reason":"Child-friendly story with mild tension and a happy ending."}
+{"item_id":"dfa91cb9a7","pass":true,"score":0.95,"reason":"Correctly explains .csv as comma-separated values for tabular data, with openers listed."}
+{"item_id":"d8625e0175","pass":true,"score":0.7,"reason":"Coherent seasonal three-course plan with preparation steps; a few pantry items are a stretch for a farmers' market."}
+{"item_id":"3da155eca1","pass":true,"score":0.8,"reason":"Gives usable formal email drafts with placeholders and tips; one option is less formal than asked."}
+{"item_id":"a719657f63","pass":true,"score":0.85,"reason":"Good explanation of perishable inventory, no-show modelling, the cost trade-off and the bumping hierarchy."}
+{"item_id":"6a424c40f3","pass":true,"score":0.8,"reason":"Covers the standard non-drug treatments and advises seeking professional help."}
+{"item_id":"5038eb6c8f","pass":true,"score":0.9,"reason":"Accurate causes, chemistry, effects and ecosystem impacts of ocean acidification."}
+{"item_id":"eb97b3ffb2","pass":true,"score":0.85,"reason":"Safe, practical advice on release, stretching and strengthening, with red-flag warnings."}
+{"item_id":"3173fa433c","pass":true,"score":0.75,"reason":"Sound readiness and method guidance with a calm approach to accidents; a few typos."}
+{"item_id":"7f85a5b0e1","pass":true,"score":0.9,"reason":"Thorough differential causes with exam and imaging tests that separate them, plus red flags."}
+{"item_id":"2a7c2e6a55","pass":true,"score":1.0,"reason":"The median is 10, which is correct."}
+{"item_id":"e2bc84d662","pass":true,"score":0.75,"reason":"Practical, standard strategies for getting children to exercise."}
+{"item_id":"97f33736f7","pass":true,"score":0.65,"reason":"Thoughtful, if somewhat generic, ethical reasoning about the time-travel dilemma."}
+{"item_id":"43ae3be1c6","pass":true,"score":0.9,"reason":"Clearly explains why backups matter, covering hardware failure, ransomware, human error and the 3-2-1 rule."}
+{"item_id":"1bfa88efa9","pass":true,"score":0.65,"reason":"Covers adjustment methods (regression, propensity scores, DiD, fixed effects, IV, ITT, weighting); fairly standard and a bit hedged on school switching, but sound."}
+{"item_id":"f99cdefdcf","pass":true,"score":0.85,"reason":"Accurate list of vitamin C foods with child-friendly suggestions."}
+{"item_id":"8b2f36fe1b","pass":true,"score":0.85,"reason":"Appropriate vegetables for pots on a sunny balcony, with good beginner tips."}
+{"item_id":"454b2847ba","pass":true,"score":0.9,"reason":"Covers the main hidden costs and risks of a cloud move: egress fees, lift-and-shift waste, lock-in, shared responsibility and governance."}
+{"item_id":"9167087d94","pass":true,"score":0.6,"reason":"Generic framework, but it covers all four dimensions and marks which parts rest on assumptions; the prompt gave no specifics."}
+{"item_id":"1ccc60c576","pass":true,"score":1.0,"reason":"10! = 3,628,800 and the digit sum is 27, which is correct."}
+{"item_id":"37c3ba3067","pass":true,"score":0.85,"reason":"Covers copyright problems, the Disney term extensions with the correct Steamboat Willie 2024 nuance, and internet-era mismatch."}
+{"item_id":"3b2aebad89","pass":true,"score":0.85,"reason":"Accurate account of cable cuts, rerouting, redundancy, satellites and the war-scenario trade-offs."}
+{"item_id":"e8f7f431ff","pass":true,"score":0.85,"reason":"Covers holdout and geo tests, baselines, attribution, econometric modelling and lift studies for measuring incremental sales."}
+{"item_id":"e58f13a2ed","pass":false,"score":0.4,"reason":"Several technical errors: it cites Navier-Stokes for gravity, treats per-pixel lensing as a Niagara job, and invents a Chaos force-field component. Its flat 'no' on bending coordinates is also dubious."}
+{"item_id":"8c677e6ec7","pass":true,"score":0.7,"reason":"Meets the constraints (five days, no night trains, two museum days, under €600) with a plausible Rome-Milan-Lyon-Paris route and a budget breakdown; the second museum day is only partial."}
+{"item_id":"6f094e37cd","pass":true,"score":0.8,"reason":"Calm, workable schedule that includes a shower, a healthy breakfast and 45 minutes of meditation."}

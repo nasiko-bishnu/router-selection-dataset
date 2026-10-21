@@ -1,0 +1,50 @@
+{"item_id":"94ebd3c372","pass":true,"score":0.7,"reason":"Gives a reasonable conceptual and UE5 implementation approach (WPO shaders, gradient-based movement, collision caveat); a stray typo, but the substance is sound enough."}
+{"item_id":"2f2f87842e","pass":true,"score":0.85,"reason":"Sound design with event-time aggregation, 48h allowed lateness, watermark finalization, bounded state eviction, and revision handling."}
+{"item_id":"78ce4b8bde","pass":true,"score":0.9,"reason":"Standard riddle answer: kicked the ball straight up and it came back down."}
+{"item_id":"db9ed1d3e5","pass":true,"score":0.8,"reason":"Provides a clear reminder list with all three bills correctly dated and early-pay buffers."}
+{"item_id":"c82ef2cf8f","pass":true,"score":0.85,"reason":"Thorough, accurate analysis of identity in Gatsby covering performance, class, and the past, with apt quotes."}
+{"item_id":"0e8d58abea","pass":false,"score":0.35,"reason":"Generic checklist with errors (Rust default allocator is not jemalloc, 'cargo install heaptrack' is invalid); doesn't really find or prove where memory goes."}
+{"item_id":"7ea678245d","pass":true,"score":0.95,"reason":"Correctly identifies a scam and gives sound, actionable steps."}
+{"item_id":"cd324b67d0","pass":true,"score":0.75,"reason":"Honest caveat plus a practical category-by-category set that meets the request; some ethical claims are debatable but reasonable."}
+{"item_id":"c357e93eb6","pass":false,"score":0.5,"reason":"Contains inaccuracies, e.g. a nonexistent 'mkdocs-include' built-in and Flet needing a Flutter engine installed; it also omits the most obvious Python static-site tools (Pelican, Flask-Frozen), so only partly sound."}
+{"item_id":"782f1d76dd","pass":true,"score":0.75,"reason":"Reasonable probabilistic DCF framework with TI/LC, downtime, cap rate and alternative-use considerations."}
+{"item_id":"2f861e48f5","pass":true,"score":0.9,"reason":"Comprehensive list of phishing warning signs, with only a minor typo."}
+{"item_id":"ef629cd1ca","pass":false,"score":0.45,"reason":"Meal plan has errors: the day order is odd, 'carb loading' and 'do not take rapid insulin' advice is questionable, and it contains strange items like a post-game salad on a rest day."}
+{"item_id":"ae3b4adc27","pass":false,"score":0.4,"reason":"The request is ambiguous; the answer paraphrases the notation but misses that the statements contradict each other (e.g. 'all nights are lonely' vs 'exists'), and its reading of item 10 is dubious."}
+{"item_id":"c26bf693e8","pass":true,"score":0.8,"reason":"Correct illustration of FPTP vs PR with the given shares; it simplifies by assuming uniform votes, but says so."}
+{"item_id":"94f0f64d37","pass":true,"score":0.7,"reason":"Broadly correct PoP explanation (confidence × area); the 'any given point' summary is slightly loose, but acceptable."}
+{"item_id":"afc15f91bb","pass":true,"score":0.9,"reason":"Correct sides and well-reasoned account of nuclear deterrence, proxy wars and diplomacy."}
+{"item_id":"4a2c9f7640","pass":false,"score":0.3,"reason":"Contains fabricated or wrong recommendations: 'Flattening the Curve' by Scalzi, 'Dragon Rider' by McCaffrey, 'The Last Dragon' by Robert O. Collins."}
+{"item_id":"ff535349c8","pass":true,"score":0.9,"reason":"Correct XLOOKUP and VLOOKUP formulas with a sensible explanation."}
+{"item_id":"4816199423","pass":true,"score":0.8,"reason":"Correctly explains sequence-of-returns risk and volatility drag with withdrawals."}
+{"item_id":"21a241e3cf","pass":false,"score":0.45,"reason":"Muddled: claims 14°C comes from the effective radiating temperature, which is about -18°C; the rest is reasonable."}
+{"item_id":"bdb35a26a5","pass":false,"score":0.45,"reason":"Core idea (SUTVA violation, buffer exclusion) is right, but it misattributes the parallel trends issue and cites questionable references (Borusyak et al. QJE spillover paper, Angrist-Pischke buffer-zone claim)."}
+{"item_id":"817cfa8425","pass":false,"score":0.2,"reason":"Logically incoherent: it proposes 'moving the man to a band' without changing pay, and suggests cutting new-hire pay; it never really closes the gap within the budget."}
+{"item_id":"97fa0af25a","pass":true,"score":0.85,"reason":"Covers realistic abuse scenarios and prioritizes practical defenses for non-technical families."}
+{"item_id":"92d99fb549","pass":true,"score":0.8,"reason":"Balanced, accurate answer: stay disciplined but review periodically."}
+{"item_id":"85574e401d","pass":false,"score":0.35,"reason":"The function is correct, but the response is messy with a rambling stream-of-consciousness in comments, and the claim that '9990' vs 'A991' is 3 bits is right while the user's example says 2, which it handles confusingly."}
+{"item_id":"959f38a53f","pass":false,"score":0.1,"reason":"Self-contradictory: opens with 'Yes, legal' then concludes 'no'; it also misses that the riddle's answer is that he can't because he is dead."}
+{"item_id":"dc071e727b","pass":true,"score":0.95,"reason":"Gentle, well-structured bedtime story with mild tension and a happy ending."}
+{"item_id":"aab2449c0a","pass":true,"score":0.85,"reason":"Correct Gray-code next/previous function via a binary conversion round-trip with an example."}
+{"item_id":"e5e8a71c66","pass":true,"score":0.95,"reason":"Correctly states 3 tablets, matching the reference."}
+{"item_id":"0bdd5b53a1","pass":true,"score":0.95,"reason":"Correct: $24, $24, $48."}
+{"item_id":"2bda28420a","pass":false,"score":0.4,"reason":"Gives only vague ranges instead of the actual median and mean; the numbers are unsupported, and the request is only partly met."}
+{"item_id":"8a3ee22229","pass":true,"score":0.9,"reason":"Practical, accurate, and well-organized potty training guidance."}
+{"item_id":"b7cc0b7295","pass":true,"score":0.8,"reason":"Accurate comparison of Nick and Scout's narration and how each shapes the story."}
+{"item_id":"53575a96e8","pass":true,"score":0.85,"reason":"Clear and correct CNN explanation covering convolution, pooling, ReLU and fully connected layers, with minor typos."}
+{"item_id":"66263ca59a","pass":true,"score":0.8,"reason":"Correct: chord progressions are generally unprotected while melody similarity plus access matter."}
+{"item_id":"3716afcd05","pass":true,"score":0.98,"reason":"Correct intercepts at x=0 and x=-1."}
+{"item_id":"0eacbf91e4","pass":true,"score":0.85,"reason":"Reasonable causes, warning signs, and monitoring advice for single-episode vomiting."}
+{"item_id":"a373ce1890","pass":false,"score":0.2,"reason":"Wrong figures: EU rail compensation under Reg. 1371/2010 is 25% of the ticket price for a 60–119 min delay and 50% for 120+, not €250/€400; it also wrongly treats the regulation as covering only international journeys."}
+{"item_id":"9229b3af3c","pass":true,"score":0.9,"reason":"Sound, practical discipline advice with specific swearing strategies and what to avoid."}
+{"item_id":"5ed650bc6c","pass":false,"score":0.5,"reason":"Core code is correct and the memory orders are fine, but the table has an error (producer's head_ load listed as relaxed) and there is no false-sharing padding; the justification is partly sloppy."}
+{"item_id":"6a2fb8e687","pass":true,"score":0.8,"reason":"Correct sides and reasons; the 'buffer zone' point is weak, but the rest is sound."}
+{"item_id":"c6ca5dab54","pass":false,"score":0.4,"reason":"Gives a valid recipe, but 'acting like an Italian' is implemented as writing entirely in Italian, which a user asking in English likely did not want."}
+{"item_id":"fb338c0717","pass":false,"score":0.3,"reason":"Plan is incoherent: the table is garbled and the logic contradicts itself (the partner has the car all day but returns for sports), and it doesn't actually solve the logistics."}
+{"item_id":"9100ae615b","pass":true,"score":0.85,"reason":"Balanced, accurate list of advantages and disadvantages of Linux for ordinary users."}
+{"item_id":"36cee6956f","pass":true,"score":0.7,"reason":"Reasonable parallel-run migration plan with health checks, rollback and Gunicorn; some details like the --link usage are dated."}
+{"item_id":"e2231f3ca3","pass":true,"score":0.8,"reason":"Correct definitions and a sensible diagnostic order separating the four failure causes."}
+{"item_id":"8faaf755c9","pass":true,"score":0.8,"reason":"Solid explanation of creativity in marketing as strategic problem solving."}
+{"item_id":"4d6f7a2d3a","pass":true,"score":0.9,"reason":"Correctly explains the causal attention mask, its purpose, and the 0*(-inf)=NaN caveat."}
+{"item_id":"b19048d0a5","pass":false,"score":0.45,"reason":"The slogans are generic and not particularly witty or unique, and nothing shows any scientific or marketing rationale as requested."}
+{"item_id":"54ec8b78ea","pass":true,"score":1.0,"reason":"Correct: 35%."}

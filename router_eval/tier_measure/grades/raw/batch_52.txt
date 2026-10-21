@@ -1,0 +1,50 @@
+{"item_id":"a2620cddf4","pass":true,"score":0.8,"reason":"Covers companion planting, common varieties and Italian herbs, and the sample layout matches the 18m² outdoor plus 10m² greenhouse split."}
+{"item_id":"84ecdc74c6","pass":true,"score":0.85,"reason":"Gives two valid effects: disruption of overland trade and a push toward maritime exploration."}
+{"item_id":"a8b6103a0c","pass":true,"score":0.9,"reason":"Gives sound, practical training steps for release and trade, and explains why the dog keeps the stick."}
+{"item_id":"1fab19256c","pass":true,"score":0.8,"reason":"Fixes the main errors (rubbed, commas, 'return him'); 'wished the genie to take' is slightly awkward but acceptable."}
+{"item_id":"6029704dfe","pass":true,"score":0.85,"reason":"Clear, accurate definition of creativity in marketing with examples and a short definition."}
+{"item_id":"f67b82351d","pass":false,"score":0.3,"reason":"Generic purple dystopian prose with little of Merril's understated domestic style, and it contradicts the premise: Julian already brought the child home earlier."}
+{"item_id":"2b2a79a69c","pass":true,"score":0.65,"reason":"Reaches the right conclusion that matched-volume effects are similar and adherence matters, though some claims (the vague 2019 review, HIIT preserving muscle) are shaky."}
+{"item_id":"3e5decdd99","pass":true,"score":0.85,"reason":"Accurately covers what a Wi-Fi password protects against and its limits, and suggests a guest network."}
+{"item_id":"8dbf3484bf","pass":true,"score":0.65,"reason":"Correctly separates one-time pad information-theoretic proof from computational indistinguishability for modern ciphers, with a minor muddle about plaintext being random."}
+{"item_id":"a1eaba43fb","pass":false,"score":0.2,"reason":"Translates as 'She eats a lot of grass', dropping the deer subject; the correct reading is 'The doe eats a lot of grass.'"}
+{"item_id":"c66ff3bc78","pass":true,"score":0.9,"reason":"Accurate explanation of starch retrogradation, why the fridge speeds it up, and how to slow it."}
+{"item_id":"9901bba688","pass":true,"score":0.8,"reason":"Sound, well-structured defense built on burden of proof, admissibility, alternative explanations and due process."}
+{"item_id":"dbf09e50f6","pass":true,"score":1.0,"reason":"Precision 30/40 = 75% and recall 30/40 = 75%, both correct."}
+{"item_id":"7a089fd8df","pass":false,"score":0.4,"reason":"A generic list of strategies with no tailoring to the £100k capital, £80k income or £15k/year, and no concrete numbers."}
+{"item_id":"f047c8aa3a","pass":true,"score":0.7,"reason":"Lists plausible causes with settings paths for Android and iOS; stray typos and a screen-on item that isn't really idle drain are minor."}
+{"item_id":"262071d902","pass":true,"score":1.0,"reason":"Correctly explains string(int) yields the rune and fixes it with strconv.Itoa."}
+{"item_id":"22fa9c6377","pass":true,"score":1.0,"reason":"Faithful JavaScript translation with correct handling of the implicit undefined return."}
+{"item_id":"7edc74dfd3","pass":true,"score":0.85,"reason":"Accurate explanation with examples and a table; 'sender never blocks' is slightly overstated."}
+{"item_id":"1c3311e2af","pass":true,"score":0.8,"reason":"Coherent defense covering legality, burden of proof, evidence and alternative explanations."}
+{"item_id":"19d4da4675","pass":true,"score":1.0,"reason":"Correct: 18% of 250 is 45, with the arithmetic shown."}
+{"item_id":"e311600e32","pass":true,"score":0.85,"reason":"Correctly debunks the sealing myth and explains the Maillard reaction and dehydration of the crust."}
+{"item_id":"e7928d2fb7","pass":true,"score":0.85,"reason":"Thorough and accurate on unauthorized access, LAN exposure and liability, with a sensible guest-network recommendation."}
+{"item_id":"12934e2e50","pass":true,"score":0.9,"reason":"Firm yet polite rewrite that keeps the refund demand."}
+{"item_id":"555b822a2c","pass":false,"score":0.3,"reason":"States the additional-property stamp duty surcharge as 0.5% (£1,500 on £300k) when it is 5%, and the lending and deposit maths is muddled."}
+{"item_id":"d28d73e2fd","pass":true,"score":0.85,"reason":"Correct: '+' means check; the '??!' symbol listed is not standard but that is a minor slip."}
+{"item_id":"ddaad5035f","pass":true,"score":0.65,"reason":"Reasonable core-feeder, on-demand night service and safety measures, though somewhat internally tense and the table is malformed."}
+{"item_id":"e87ee04734","pass":false,"score":0.5,"reason":"Says IND-CPA implies uniform ciphertext bits, claims perfect secrecy implies uniformity in general, and cites factoring/discrete log for symmetric schemes; the conflation makes it unreliable."}
+{"item_id":"09111ec053","pass":true,"score":0.9,"reason":"Clear distinction with one correct example each (US decennial census, Gallup poll)."}
+{"item_id":"d36f30cf8a","pass":true,"score":0.65,"reason":"Broadly matches the London and Stockholm evidence on traffic, retail and equity, though the retail and progressivity claims are simplified and the citation URLs look unreliable."}
+{"item_id":"f833286175","pass":true,"score":0.7,"reason":"Balanced treatment of the ethics with sensible alternatives; the Project Gutenberg 'subscription' remark is wrong but minor."}
+{"item_id":"4f158642ec","pass":true,"score":0.6,"reason":"Gives a workable percentage split and rent top-up buffer for volatile income, though the presentation is repetitive and slightly muddled."}
+{"item_id":"c3acb45424","pass":false,"score":0.45,"reason":"Generic fraud-focused list that largely ignores waste reduction (sizing, resale or refurbishing returns), and some measures like fees could hurt honest customers."}
+{"item_id":"cd6b87f044","pass":true,"score":0.85,"reason":"Balanced, well-organized weighing of the evidence for and against, with a sensible conclusion."}
+{"item_id":"1dae998096","pass":true,"score":1.0,"reason":"Correct: Canberra, on the Australian continent (Oceania)."}
+{"item_id":"9fe4f47c8f","pass":true,"score":0.8,"reason":"Realistic home options with cost ranges, safety warnings and better alternatives."}
+{"item_id":"3e6e729226","pass":true,"score":0.65,"reason":"A workable Saturday itinerary for a market- and architecture-loving non-driver, generic but suitable for an unspecified city."}
+{"item_id":"e5cdd57218","pass":true,"score":0.9,"reason":"Correct merge-intervals implementation; it mutates the input sublists, a minor flaw."}
+{"item_id":"b6cfab6edc","pass":true,"score":0.6,"reason":"A catchy line, but 'every weekend morning' misstates a Saturday-only market."}
+{"item_id":"d58636b2c4","pass":true,"score":1.0,"reason":"Mean 32/4 = 8, with the arithmetic shown."}
+{"item_id":"52abcb66cd","pass":false,"score":0.2,"reason":"Accepts an illegal opening move (Ra3 is blocked by the a2 pawn) and plays on instead of pointing that out."}
+{"item_id":"fded6e2291","pass":false,"score":0.45,"reason":"Claims a 10% weekly progression rule but jumps running volume about 50% in week 3, and the week 4 test does not actually achieve running 5 km, so it is unrealistic for injury-free progress."}
+{"item_id":"8f8914ab9b","pass":false,"score":0.0,"reason":"Rambling, self-correcting, mostly nonsensical examples that loop and are cut off without ten valid titles."}
+{"item_id":"704405f0a8","pass":true,"score":0.6,"reason":"Describes the correct post-stratification weighting approach, though the example mislabels an underrepresented group as overrepresented."}
+{"item_id":"39fd25190c","pass":true,"score":1.0,"reason":"Correct 45 rupees with two valid arithmetic methods."}
+{"item_id":"b574e3abaf","pass":true,"score":0.9,"reason":"Well-matched recommendations organized by genre with a sensible top-five shortlist."}
+{"item_id":"9bd053d134","pass":true,"score":0.85,"reason":"Thoughtful, coherent engagement with the moral dilemma, with concrete rules and consequences."}
+{"item_id":"79e36ac59c","pass":true,"score":0.7,"reason":"Reasonable differential diagnosis of chronic limping with the tests that separate causes, and appropriately recommends seeing a vet."}
+{"item_id":"8371cc9205","pass":true,"score":0.9,"reason":"Comprehensive and accurate coverage of principles, Gantt charts, agile and risk management."}
+{"item_id":"10c2e0276f","pass":true,"score":1.0,"reason":"Correct: 1945, with V-E Day on 8 May."}
+{"item_id":"d860d950df","pass":true,"score":0.95,"reason":"Correctly recommends paracetamol over ibuprofen because NSAIDs raise ulcer and bleeding risk."}

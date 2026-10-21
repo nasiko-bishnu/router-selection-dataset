@@ -1,0 +1,50 @@
+{"item_id":"43e7f80eee","pass":true,"score":1.0,"reason":"Correct: 12/5 h = 2.4 h, matches reference."}
+{"item_id":"458cd7625c","pass":true,"score":0.95,"reason":"Accurate three-sentence summary at a suitable level for a four-year-old."}
+{"item_id":"235bfffdcd","pass":true,"score":0.8,"reason":"Sound, practical vegetable and container advice; minor quibbles such as calling peppers drought-tolerant."}
+{"item_id":"ee3847eb5c","pass":true,"score":0.75,"reason":"Weighs all stated factors reasonably and gives a sensible hybrid recommendation."}
+{"item_id":"2cf6daad3f","pass":true,"score":0.9,"reason":"Accurate explanation of steady versus flashing light, common causes and next steps."}
+{"item_id":"5ad27d1299","pass":true,"score":0.7,"reason":"Reasonable toolkit (formal methods, fault injection, shadow mode, canary), though it omits statistical approaches to rare events."}
+{"item_id":"7b9eb01463","pass":false,"score":0.15,"reason":"Invents a marketer meaning for CI/CD; in marketing it is Corporate Identity/Corporate Design, so the core comparison is wrong."}
+{"item_id":"4c6a70ce44","pass":true,"score":0.85,"reason":"Covers realistic abuse scenarios and prioritises family-friendly defenses (MFA, updates, guest network)."}
+{"item_id":"af71bfaa70","pass":true,"score":1.0,"reason":"Correct bottom-up DP Fibonacci with edge cases handled."}
+{"item_id":"026550b2c2","pass":true,"score":0.8,"reason":"Accurate, clear explanation of why restarts fix many problems."}
+{"item_id":"d86d814a5a","pass":true,"score":0.6,"reason":"Identifies contaminated controls and valid fixes (distant controls, spatial modeling), but frames it as parallel trends rather than SUTVA and assumes downward bias."}
+{"item_id":"a1d367c247","pass":true,"score":0.85,"reason":"GC pauses correctly identified as the culprit, with the right confirming evidence (GC log and request timestamp correlation)."}
+{"item_id":"98ca8fba0d","pass":false,"score":0.35,"reason":"Table is right, but the extras contain clear errors: Uranus 'size of Earth's moon', and '1,321 Earths' and '155 Mercurys' side by side are wrong."}
+{"item_id":"42e7971ad8","pass":true,"score":1.0,"reason":"Correct: $1,500 + 20% of $4,500 = $2,400."}
+{"item_id":"8dee6c2c97","pass":true,"score":0.85,"reason":"Accurate survey of PQC families and a balanced, nuanced answer on which are 'superior'."}
+{"item_id":"74f352599e","pass":true,"score":0.85,"reason":"Beginner-friendly, correct guidance on layers, nodes and iteration with validation."}
+{"item_id":"a86cbcebbf","pass":true,"score":0.7,"reason":"Covers intake, isolation and adoption changes with sensible biosecurity measures; a few odd points."}
+{"item_id":"b0ee285ccf","pass":false,"score":0.45,"reason":"Unsure; the request is unspecified, but the analysis glosses over the notation's real logical errors and calls a type error a 'profound paradox'."}
+{"item_id":"1f0f891ae6","pass":true,"score":0.85,"reason":"Meets the layout and function requirements: two upload slots, a blank middle output until both are loaded, and the slider with weight w and 1-w."}
+{"item_id":"7eb9193a1c","pass":true,"score":0.85,"reason":"Accurate, practical melody-writing tips with exercises."}
+{"item_id":"e16bf2221e","pass":true,"score":0.95,"reason":"Two clear, accurate, parent-friendly sentences."}
+{"item_id":"b0ae5d4d4e","pass":true,"score":0.85,"reason":"Sound, practical strategies for encouraging children to exercise."}
+{"item_id":"4cff70cfec","pass":true,"score":0.9,"reason":"Simple and accurate explanation of the cloud for a non-technical reader."}
+{"item_id":"08478042f7","pass":true,"score":0.9,"reason":"Appropriate sick-leave email to Rosemary with sensible options and tips."}
+{"item_id":"992b231525","pass":true,"score":1.0,"reason":"Indian Ocean is correct."}
+{"item_id":"1cda7da450","pass":true,"score":0.6,"reason":"Engages with the scenario and gives a reasonable search framework, though somewhat generic."}
+{"item_id":"e9db2c0233","pass":true,"score":0.9,"reason":"Provides the requested opening, one memory and closing wish."}
+{"item_id":"a03dffabe1","pass":true,"score":0.65,"reason":"Meets the tone and avoids claims about factual correctness, though somewhat generic and not especially 'final'."}
+{"item_id":"34ea79c65f","pass":true,"score":0.95,"reason":"Correct and clear comparison with examples."}
+{"item_id":"a2d4417dd2","pass":false,"score":0.5,"reason":"Unsure; the comparison is generic, the FPTP example is arbitrary, and it omits coalition and majority implications for 40/35/25."}
+{"item_id":"7475f564d0","pass":true,"score":0.6,"reason":"Right main point (behavior, fingerprinting and IP reputation, not just speed) but includes dubious details such as click pressure and honeypot framing."}
+{"item_id":"219b67b431","pass":true,"score":0.65,"reason":"Meets the constraints (no banned words, cheek on cool glass, blooms as metaphor, frozen time, little rhyme), though the mortality theme is faint."}
+{"item_id":"66454aa968","pass":true,"score":0.75,"reason":"Systematic approach: differential testing, reproduction and minimisation, pass bisection and IR inspection."}
+{"item_id":"d39a887765","pass":true,"score":1.0,"reason":"Correctly lists two violins, viola and cello."}
+{"item_id":"bc63226e16","pass":false,"score":0.1,"reason":"Cost arithmetic is inconsistent and double-counted, and the table's own numbers (buy -$19k vs rent -$80k) contradict the 'rent is better' conclusion."}
+{"item_id":"0517a58a15","pass":true,"score":0.85,"reason":"Thorough, safe week plan with carb ranges, insulin and exercise timing and caveats."}
+{"item_id":"f9ee359ff6","pass":true,"score":0.6,"reason":"Covers FDE, encrypted backups, RBAC and remote wipe, but omits pre-boot auth/TPM+PIN and individual accounts on the shared laptop."}
+{"item_id":"afc971d484","pass":true,"score":0.9,"reason":"Correctly interprets the formulas, identifies real logical errors and offers cleaner versions."}
+{"item_id":"ef2d64c152","pass":true,"score":1.0,"reason":"K = 6 J, U = 1 J, E = 7 J with correct explanation."}
+{"item_id":"89707da026","pass":true,"score":0.7,"reason":"Correct transmission spectroscopy explanation and plausible false-positive sources (stellar activity, telluric, instrument)."}
+{"item_id":"470927ef12","pass":true,"score":0.9,"reason":"Formal, accurate, more in-depth rewrite with entropy formula and the correct bound."}
+{"item_id":"b678a997f6","pass":true,"score":0.95,"reason":"Clear, accurate explanation of DHCP."}
+{"item_id":"84f3853073","pass":true,"score":0.9,"reason":"Gives two valid, well-explained slide readability tips."}
+{"item_id":"0f547574a2","pass":false,"score":0.2,"reason":"Totals are wrong: 1875+900+525 = $3,300, not $2,300, so the claimed $700 surplus is actually a $300 deficit."}
+{"item_id":"c0785a7c03","pass":true,"score":0.9,"reason":"Appropriate formal email built from the message."}
+{"item_id":"8b7b3eeca3","pass":false,"score":0.0,"reason":"Synopsis is fabricated; the actual film is about Lisa, Matty and George, not Ava and an ex-con Ben."}
+{"item_id":"e641c68572","pass":true,"score":0.7,"reason":"Mostly accurate on size, payload, 3D-printed engines and small-sat advantages, though reusability and cadence are somewhat vague."}
+{"item_id":"f678328666","pass":false,"score":0.45,"reason":"The 40% rule is not tied to the stated rent and tax amounts or to the 40% income swing, and it does not guarantee coverage in lean months."}
+{"item_id":"058e4cb020","pass":true,"score":0.55,"reason":"Gives a method and a balanced hypothetical split of 135 min per van, but the time model is simplistic and uses invented data."}
+{"item_id":"1a00e63ebf","pass":true,"score":0.95,"reason":"Accurate, clear reasons for crop rotation."}

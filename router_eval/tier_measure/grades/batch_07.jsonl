@@ -1,0 +1,50 @@
+{"item_id": "1cf8073c54", "pass": false, "score": 0.45, "reason": "Explains ordinary forward propagation and ignores the 'Forward Forward' wording, which most likely refers to Hinton's Forward-Forward algorithm; unsure of intent, so a borderline fail."}
+{"item_id": "e04d54f583", "pass": true, "score": 0.85, "reason": "Quadratic and tan x = 1/2 solutions are correct, and the numerical root of about 0.558 is right with an honest note that it has no closed form."}
+{"item_id": "ff2feccac4", "pass": true, "score": 0.8, "reason": "Correctly explains retrogradation, the fridge-temperature effect, and ways to slow staling, with only minor imprecision about moisture."}
+{"item_id": "986164486e", "pass": true, "score": 1.0, "reason": "Solid, liquid, gas is correct."}
+{"item_id": "e02a3d5761", "pass": true, "score": 0.75, "reason": "Gives a feasible simple lens-based DIY magnifier with sensible caveats."}
+{"item_id": "eb3659ecf8", "pass": true, "score": 0.85, "reason": "Stays in the 18th-century pirate persona and handles the anachronistic Pringles sensibly."}
+{"item_id": "0d5aa2f25c", "pass": true, "score": 0.9, "reason": "Clear, accurate analogies explaining the OS purpose in layperson terms."}
+{"item_id": "13b3c9beae", "pass": true, "score": 0.85, "reason": "Comprehensive, accurate packing list, including the correct Type F outlet and 230V."}
+{"item_id": "d6ee651892", "pass": true, "score": 0.9, "reason": "Accurate explanation of how handwashing interrupts flu transmission, with practical guidance."}
+{"item_id": "68eb893728", "pass": false, "score": 0.25, "reason": "Declares the idea 'insurmountable' and contains clear errors (compilers renaming variables, 'non-idempotent' compilation, Code2Vec and BinVis cited as decompilers), and ignores existing neural decompilation work and recompile-based verification."}
+{"item_id": "4eba8ff397", "pass": true, "score": 0.65, "reason": "Reasonable recommendation of solar with a hybrid caveat, though the reasoning is somewhat generic."}
+{"item_id": "4fa33f2b92", "pass": true, "score": 0.85, "reason": "Covers several home recycling methods, rough USD costs, and safety, including the Precious Plastic machines."}
+{"item_id": "04b05f680d", "pass": true, "score": 0.75, "reason": "Offers creative, coherent legal arguments (vagueness, mens rea, necessity, definitional) suited to the dystopian setting."}
+{"item_id": "0d1e5ee6db", "pass": true, "score": 0.9, "reason": "The rotation covers all five chores across three roommates and balances the lighter weeks evenly."}
+{"item_id": "e7a57256d1", "pass": true, "score": 0.9, "reason": "Accurate list of the major foods toxic to dogs, with sensible advice."}
+{"item_id": "b3bc9db2df", "pass": true, "score": 0.9, "reason": "About 14°C average, with correct figures for year-to-year, historical, and ice-age variation."}
+{"item_id": "71ab315b11", "pass": true, "score": 1.0, "reason": "998,910 matches the reference, with correct inclusion-exclusion."}
+{"item_id": "550700dba8", "pass": true, "score": 0.8, "reason": "Minimal code satisfies the test, though it is a hard-coded stub."}
+{"item_id": "b4118c0340", "pass": true, "score": 0.75, "reason": "Gives multiple home recycling options with cost estimates and safety notes."}
+{"item_id": "61232bdced", "pass": true, "score": 0.75, "reason": "Core concepts and the three confounding routes are correct, though the '1959 drowning vs Hollywood films' example appears fabricated."}
+{"item_id": "aa77ca034a", "pass": true, "score": 0.8, "reason": "All notes are within C major and the melody is original and short."}
+{"item_id": "5cf1519942", "pass": true, "score": 0.85, "reason": "Clearly explains what a tracking number is for and how to use it, with minor dubious claims."}
+{"item_id": "ed9efd1eae", "pass": true, "score": 0.9, "reason": "Sound, standard potty-training advice with readiness signs and steps."}
+{"item_id": "802cd94a28", "pass": true, "score": 0.85, "reason": "Practical, prioritized troubleshooting for all three smartboard issues, with workarounds."}
+{"item_id": "2a7ce91234", "pass": true, "score": 1.0, "reason": "$536.48 interest matches the reference."}
+{"item_id": "e820ed3662", "pass": true, "score": 0.85, "reason": "Doctor-role explanation of blood pressure and correct home measurement guidance, including the BP categories."}
+{"item_id": "cc61d0c23c", "pass": true, "score": 1.0, "reason": "4.8 ha legumes and 3.6 ha each of wheat and maize are correct."}
+{"item_id": "98b117fe6c", "pass": true, "score": 1.0, "reason": "$3.00/kg vs $3.20/kg is correct, so the 1 kg bag is cheaper."}
+{"item_id": "aa27199a58", "pass": true, "score": 1.0, "reason": "Correct plain text of the heading."}
+{"item_id": "17405b7885", "pass": true, "score": 0.9, "reason": "Three valid reasons, each with a real example."}
+{"item_id": "f0627a72ce", "pass": true, "score": 0.85, "reason": "Covers a good range of budgeting techniques with pros and cons."}
+{"item_id": "1af410a0ae", "pass": false, "score": 0.35, "reason": "Fails the 'no nutrients blocking each other' constraint (calcium with the iron-containing lunch and dinner), and has errors (salmon as an iron source, spinach, 'avoid wheat-based GF products', sodium competing with iron)."}
+{"item_id": "6f3d6fdd4f", "pass": true, "score": 0.85, "reason": "Gives a 9–10 minute covered-soak time and an ice-bath cooling method with picnic tips."}
+{"item_id": "62bacd18b9", "pass": true, "score": 0.7, "reason": "Feasible Manhattan itinerary with parks, a bakery stop, and a return by 5 pm; timing is a bit loose."}
+{"item_id": "fd28b08062", "pass": true, "score": 0.85, "reason": "Accurate RSV prevention, including nirsevimab, maternal vaccine, and hygiene, plus warning signs."}
+{"item_id": "64e33972b1", "pass": true, "score": 0.7, "reason": "Structured toast with a funny story and a sincere message, though it is shorter than five minutes."}
+{"item_id": "81d9d2e798", "pass": true, "score": 0.9, "reason": "Accurate explanation of jury duty and the consequences of ignoring a summons."}
+{"item_id": "2c02faa4d0", "pass": true, "score": 0.9, "reason": "Correct base-rate explanation with a numerically consistent example."}
+{"item_id": "1b1e5b4e0f", "pass": true, "score": 0.85, "reason": "Thorough design that explicitly protects night riders with metrics and safeguards."}
+{"item_id": "f549300d4e", "pass": true, "score": 0.75, "reason": "Accurate size, payload, and reuse description and the small-sat advantages, though launch frequency has no specifics."}
+{"item_id": "4b2f9fbc98", "pass": false, "score": 0.1, "reason": "The ASCII art is a well-known dog; the answer says a cat in a hat and gives a nonsensical breakdown."}
+{"item_id": "7d12fbc13b", "pass": true, "score": 0.65, "reason": "Five low-effort passive income options, though they mostly require capital and the LendingClub reference is dated."}
+{"item_id": "b6c95e5b28", "pass": true, "score": 0.85, "reason": "Practical hydration plan tied to meetings, with a schedule and cues."}
+{"item_id": "fc04d1346d", "pass": true, "score": 0.8, "reason": "Appropriately offers to help and explains the query strategies it will provide."}
+{"item_id": "afee2b22c9", "pass": true, "score": 0.65, "reason": "Useful diagnostic framework and tools for the three causes, with some imprecise details."}
+{"item_id": "42936f1c5a", "pass": true, "score": 0.65, "reason": "Multiple hardware and software options with pros and cons, though the options overlap and transcoding advice is shallow."}
+{"item_id": "d23ad24a4a", "pass": true, "score": 0.9, "reason": "Accurate explanation of backpropagation and its main challenges."}
+{"item_id": "00e57197e5", "pass": true, "score": 1.0, "reason": "CAGR of about 9.86% is correct."}
+{"item_id": "b048946839", "pass": true, "score": 0.9, "reason": "Balanced, well-supported weighing of the evidence with a defensible conclusion."}
+{"item_id": "4af4273aab", "pass": true, "score": 0.7, "reason": "Reasonable coverage of AI applications to poverty, climate, and inequality, with ethical caveats, though fairly generic."}

@@ -1,0 +1,58 @@
+{"item_id": "ac36df7e99", "pass": true, "score": 0.8, "reason": "Balanced comparison with reasonable cost estimates and a clear recommendation (drive usually) with exceptions; sound."}
+{"item_id": "cbc065194e", "question": "", "pass": false, "score": 0.0, "reason": "Answer degenerates into a repetitive loop, is cut off, and the examples given (Godfeather, Truman How) are not valid single-letter removals."}
+{"item_id": "8d292bd3df", "pass": true, "score": 0.9, "reason": "Provides names and one-line slogans as requested, with several good options."}
+{"item_id": "41e9d424d0", "pass": true, "score": 0.9, "reason": "Accurate, clear plain-English rewrite."}
+{"item_id": "115d150893", "pass": true, "score": 0.7, "reason": "Covers plausible causes and diagnostic tests, and ties worse-after-rest to arthritis; somewhat generic but sound."}
+{"item_id": "a291e00736", "pass": true, "score": 0.8, "reason": "Provides author, title, introduction and table of contents with period-appropriate doctrines (Mahan, Jeune École); meets the requested start."}
+{"item_id": "856400759c", "pass": true, "score": 0.85, "reason": "Clear, correct explanation of backup value including 3-2-1 rule; minor oddities (drops during travel) don't matter."}
+{"item_id": "80e66e7ade", "pass": true, "score": 0.95, "reason": "Correct, meaning-preserving rewrites."}
+{"item_id": "d09c0ffc1b", "pass": true, "score": 0.85, "reason": "Comprehensive, practical plan for inventory, sourcing, customer communication, and finance; competent."}
+{"item_id": "a206b24ff6", "pass": false, "score": 0.35, "reason": "Conclusion that plastic is lower impact if reused 10-20 times is dubious and omits that paper needs many more reuses (LCA studies show paper needs ~3x more than plastic, and both far fewer than cotton); framing is skewed and incomplete."}
+{"item_id": "9a60c82cd3", "pass": false, "score": 0.1, "reason": "Recall is wrong: TP=30, FN=10 gives recall 30/40=0.75, which is right, and precision 30/40=0.75 also right; however the answer reasons correctly, so this should be re-checked." }
+
+Correction for item 9a60c82cd3 follows.
+
+{"item_id": "9a60c82cd3", "pass": true, "score": 1.0, "reason": "TP=30, FP=10, FN=10 gives precision 0.75 and recall 0.75, correct."}
+{"item_id": "bda6c7e63e", "pass": true, "score": 0.95, "reason": "Correct simulation of Type I error with numpy/scipy under a true null."}
+{"item_id": "01dfa36c87", "pass": true, "score": 0.9, "reason": "One clear child-friendly sentence defining ecosystem."}
+{"item_id": "4035714318", "pass": true, "score": 0.9, "reason": "Accurate simple explanation of limited times and public domain."}
+{"item_id": "fb8fa7c202", "pass": true, "score": 0.8, "reason": "Thorough design covering architecture, flow, edge cases, security and escalation; minor oddities (fine-tuning claim, monetization) don't undermine it."}
+{"item_id": "63d856b3ad", "pass": true, "score": 0.95, "reason": "Accurate high-level comparison with hybrid explanation."}
+{"item_id": "34b2e015fe", "pass": true, "score": 1.0, "reason": "Correct roots 2 and -5/4 with verification by substitution."}
+{"item_id": "29cf71940d", "pass": false, "score": 0.1, "reason": "Code is non-functional (invalid Kodi API usage, mock data, truncated) and does not implement the requested show-interleaving across children."}
+{"item_id": "986b052274", "pass": false, "score": 0.45, "reason": "Contains factual errors (e.g., claims Samsung/Pixel 7-year updates apply to S24/Pixel 8 Pro loosely, Android 'degrades faster', OnePlus 4-5 years) and outdated model recommendations as of 2026."}
+{"item_id": "5bf2e0d006", "pass": true, "score": 0.85, "reason": "Correctly recommends separate guest and staff networks with sound reasons."}
+{"item_id": "2d66e23f5f", "pass": true, "score": 0.9, "reason": "Three sound, practical ways to lower AC cost."}
+{"item_id": "f139c5b61c", "pass": true, "score": 1.0, "reason": "Correct solutions (-1±√5)/2."}
+{"item_id": "4c7eb0c699", "pass": true, "score": 0.9, "reason": "Correct explanation of flash rust on rotors and when to worry."}
+{"item_id": "a096e6ff7e", "pass": false, "score": 0.4, "reason": "Core idea (block, ACTH rise, shunting to androgens) matches reference, but pathway has serious errors: 21-hydroxylase acts on progesterone and 17-OHP, not pregnenolone→11-deoxycortisol; 17-OHP is the key accumulated precursor and is mislabeled; 17-OHP to androstenedione and 'DHT' steps are garbled."}
+{"item_id": "07c7068684", "pass": true, "score": 0.7, "reason": "Reasonable diagnosis and recalibration on post-change data with a separate holdout; generic but sound."}
+{"item_id": "c09cb6f735", "pass": false, "score": 0.45, "reason": "Describes raking/post-stratification correctly in principle, but the worked example computes weights incorrectly (per-margin weights like 0.0625 are inconsistent), and invents inconsistent census figures."}
+{"item_id": "4b842f1cce", "pass": true, "score": 0.85, "reason": "Surveys many options covering comfort, breathability, cost, and wetness with a useful summary table."}
+{"item_id": "7df4d5cf3a", "pass": false, "score": 0.35, "reason": "Misses the likely cause (e.g., optimizer/loss state or Adam/momentum dynamics with overfitting memorization of data per epoch); suggestions are generic and some are unlikely, with questionable references."}
+{"item_id": "fcdb705d20", "pass": true, "score": 0.9, "reason": "Correct counts and sound can/can't conclusions."}
+{"item_id": "0925eb0279", "pass": true, "score": 0.8, "reason": "Explains thermal runaway reignition and gives a solid storage plan; Class D extinguisher advice is slightly off but minor."}
+{"item_id": "e044ff1ae0", "pass": true, "score": 0.85, "reason": "Corrected text is right; item 5 is confusingly listed as an error but explicitly concluded as correct."}
+{"item_id": "a52ad482d2", "pass": true, "score": 0.9, "reason": "Correct description of post-stratification/raking with a consistent example and caveats."}
+{"item_id": "3c43e82bd5", "pass": true, "score": 0.95, "reason": "Correct French translation with explanation."}
+{"item_id": "985df69e30", "pass": true, "score": 0.8, "reason": "Reasonable general liability analysis with appropriate caveats about jurisdiction."}
+{"item_id": "d6a3ea8b97", "pass": true, "score": 0.65, "reason": "Reasonable survival/signaling advice; generic but appropriate."}
+{"item_id": "e6189d364c", "pass": true, "score": 0.9, "reason": "One clear child-friendly sentence."}
+{"item_id": "ce3b53fa42", "pass": false, "score": 0.1, "reason": "Wrong: x²+sin x has roots only at 0 (f(-0.5)=-0.229 is miscalculated sign: sin(-0.5)+0.25 = -0.229 is correct, so another root exists near -0.877 — but the claim of 'no roots for x>0' is fine; actually the answer is correct that there are two roots, but contains typos ('s^2', 'Newton-Raphium')) and wrongly says x<0 'f(0)=0' then analysis messy."}
+
+Correction for item ce3b53fa42 follows.
+
+{"item_id": "ce3b53fa42", "pass": true, "score": 0.75, "reason": "Two roots (0 and about -0.877) is correct and no-universal-formula discussion is sound; minor typos and a hand-wavy 'exactly two' argument."}
+{"item_id": "856e7b15f2", "pass": true, "score": 0.9, "reason": "Accurate explanation of why handwashing reduces flu spread."}
+{"item_id": "83b958e27c", "pass": false, "score": 0.4, "reason": "Contains errors: the coffee-cup analogy is muddled, new moon description is wrong, waxing/waning right/left rule is hemisphere-specific and given without qualification, and 'Last Quarter' text is garbled."}
+{"item_id": "78e0b62963", "pass": true, "score": 0.95, "reason": "Provides the right commands (os-release, uname, lsb_release, issue) and asks for output."}
+{"item_id": "ff7315b7a7", "pass": true, "score": 0.8, "reason": "Vivid appearance and outfit reflecting wilderness survival; some odd points (dwarven king meeting) but fulfills request."}
+{"item_id": "4a0e28c055", "pass": true, "score": 0.85, "reason": "Sensible: a missing period doesn't invalidate the contract; focus on substance and pattern of errors."}
+{"item_id": "3f982b018f", "pass": true, "score": 0.85, "reason": "Three reasons with real examples; minor imprecision (Cairo example) but sound."}
+{"item_id": "93924945f0", "pass": true, "score": 0.85, "reason": "Covers the main difficult SfM components accurately."}
+{"item_id": "d0815a807a", "pass": true, "score": 0.95, "reason": "Accurate list of dehydration signs with a safety note."}
+{"item_id": "25374233e8", "pass": true, "score": 0.85, "reason": "Correct meaning of 429 and good handling (Retry-After, backoff, jitter); minor error saying Retry-After uses ISO 8601 and RFC 7231."}
+{"item_id": "c0861321cc", "pass": true, "score": 0.95, "reason": "Accurate explanation of CSV."}
+{"item_id": "494038003e", "pass": false, "score": 0.35, "reason": "Several factual errors: ant-mimicking spiders aren't insects, peacock mantis is Pseudempusa/not Hierodula, giant weta description off, thorn bug/hummingbird moth are fairly common, not obscure."}
+{"item_id": "cc2089e3a8", "pass": true, "score": 0.8, "reason": "Competent, varied legal arguments suited to the hypothetical, with disclaimer."}
+{"item_id": "234740e1fb", "pass": true, "score": 0.85, "reason": "Correct reminder list with all bill dates and a helpful tip."}

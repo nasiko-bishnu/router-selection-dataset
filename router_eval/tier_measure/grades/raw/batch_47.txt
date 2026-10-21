@@ -1,0 +1,50 @@
+{"item_id": "0a9689ac2e", "pass": true, "score": 0.85, "reason": "Complete, accurate overview of RL for robot navigation: MDP setup, algorithms, simulation, reward design, sim-to-real."}
+{"item_id": "a7200ba948", "question_note": "", "pass": true, "score": 0.85, "reason": "Delivers a usable briefing plus direct answers to three plausible hard questions."}
+{"item_id": "4dc0a9b86a", "pass": true, "score": 0.85, "reason": "Correctly explains the naming as GUI-context marketing and why FPS players disable acceleration."}
+{"item_id": "7c094560b6", "pass": true, "score": 0.85, "reason": "Clear, correct reasons for backups, with the 3-2-1 rule."}
+{"item_id": "05883863df", "pass": true, "score": 0.65, "reason": "Covers political, economic and social angles and gives a phased recommendation, though fairly generic."}
+{"item_id": "0c01de5c21", "pass": false, "score": 0.5, "reason": "Diagnosis and next tests are right, but it says low TSH means the pituitary is urging the thyroid to make more hormone, which is backwards (suppression by negative feedback)."}
+{"item_id": "0fa3530c38", "pass": true, "score": 0.75, "reason": "Balanced, accurate coverage including the Test-Achats ruling and current practice."}
+{"item_id": "02c334336b", "pass": true, "score": 0.7, "reason": "Median figure is right and the percentage is computed correctly. The programmer figure is a rough estimate, and it compares against the median rather than the average."}
+{"item_id": "18bfccc53a", "pass": true, "score": 0.8, "reason": "Prioritized, practical troubleshooting covering all three symptoms and a fallback plan."}
+{"item_id": "9f21710c01", "pass": true, "score": 0.95, "reason": "Correctly explains rune conversion and fixes it with strconv.Itoa or Sprintf."}
+{"item_id": "baba640c44", "pass": true, "score": 0.75, "reason": "Credible identification strategy: controls, IV, quasi-experiments, segmentation, robustness checks."}
+{"item_id": "3c20db4bd5", "pass": true, "score": 1.0, "reason": "Correct: Mike."}
+{"item_id": "1afcdd8f4e", "pass": true, "score": 1.0, "reason": "Correct quadratic formula in valid LaTeX."}
+{"item_id": "63e41ef500", "pass": true, "score": 0.65, "reason": "Method and mass are correct. The volume is slightly miscomputed (3.445e-5 vs 3.437e-5), giving about 22,758 instead of about 22,810 kg/m³, a ~0.2% slip."}
+{"item_id": "3a11aee3e8", "pass": true, "score": 0.9, "reason": "Correct botanical vs culinary distinction with an example of each."}
+{"item_id": "a9b4ef3783", "pass": true, "score": 0.65, "reason": "Reasonable scenario-based valuation framework with some loose formulas and an odd seller recommendation."}
+{"item_id": "27b760f431", "pass": true, "score": 0.85, "reason": "Indian Ocean is correct; the 'west coast of Africa' wording is slightly off."}
+{"item_id": "e201292c70", "pass": true, "score": 0.95, "reason": "Accurate explanation of x- and y-intercepts with a worked example."}
+{"item_id": "a8862d8593", "pass": true, "score": 0.75, "reason": "Covers basic ideas of comparative law and concrete mechanisms for dispute settlement, with an example."}
+{"item_id": "cc80eaecaf", "pass": true, "score": 0.65, "reason": "Reasonable framework separating mechanics from behavioral guesses across all four dimensions, though generic."}
+{"item_id": "4785ec915b", "pass": true, "score": 0.85, "reason": "Nuanced, well-reasoned recommendation addressing every listed factor."}
+{"item_id": "d5e816e0ec", "pass": true, "score": 0.95, "reason": "Three fitting bakery names."}
+{"item_id": "a1e70b7b37", "pass": false, "score": 0.5, "reason": "It suggests resampling training data to 44.1 kHz and then upsampling the output to 192 kHz, which contradicts the goal. It also links AudioSR to the wrong repository and never notes that lost information can't be truly restored."}
+{"item_id": "64dc005edc", "pass": true, "score": 0.8, "reason": "Lists sound design principles and standard fairness tests (efficiency gap, mean-median, Polsby-Popper)."}
+{"item_id": "c07c164011", "pass": true, "score": 0.8, "reason": "Persuasive op-ed that addresses the logistics counterargument fairly."}
+{"item_id": "8564b38881", "pass": true, "score": 0.85, "reason": "Correct reminder list with all three due dates plus sensible reminders."}
+{"item_id": "dd9f28ac2e", "pass": true, "score": 0.85, "reason": "Accurate summary and five relevant takeaways."}
+{"item_id": "820b421d27", "pass": true, "score": 1.0, "reason": "Correct text extraction."}
+{"item_id": "bf8a0f55ff", "pass": false, "score": 0.2, "reason": "The stretches are dubious or nonsensical (e.g. lifting a dog's rear legs off the ground, a confused 'lunge'), which is poor and potentially unsafe veterinary advice."}
+{"item_id": "ab0ff34ff2", "pass": true, "score": 0.85, "reason": "Accurate account of what 2FA stops and its bypasses (AiTM, SIM swap, social engineering, recovery flaws)."}
+{"item_id": "7d20b93357", "pass": false, "score": 0.4, "reason": "Only asks clarifying questions and outlines what it will produce; it gives no actual visa, transport or medicine guidance."}
+{"item_id": "fb9aacd503", "pass": true, "score": 0.8, "reason": "Correctly explains contextlib.closing and notes ZipFile supports 'with' directly in modern Python."}
+{"item_id": "49ef08b126", "pass": true, "score": 0.8, "reason": "Thoughtful set of rights plus concrete advocacy strategies."}
+{"item_id": "67024bb92a", "pass": true, "score": 0.8, "reason": "Creative dialogue that clearly handles the space-time inversion."}
+{"item_id": "d8722b5f94", "pass": true, "score": 0.9, "reason": "Sound, safe advice: confirm only if it was you, otherwise contact the bank directly."}
+{"item_id": "b93295975c", "pass": true, "score": 0.85, "reason": "Comprehensive and accurate list of phishing warning signs."}
+{"item_id": "3ab43359a0", "pass": true, "score": 0.85, "reason": "Correct, safe steps for isolating or shutting off the water."}
+{"item_id": "bdfb2a830b", "pass": true, "score": 0.9, "reason": "Card has an opening line, one memory and a closing wish, as requested."}
+{"item_id": "2847d309e4", "pass": true, "score": 0.85, "reason": "Accurately summarizes Le Bon's main ideas and gives an example."}
+{"item_id": "051a1fc3bd", "pass": true, "score": 0.85, "reason": "Varied, new entertainer ideas that don't repeat the ones already hired."}
+{"item_id": "46e2cbdbb1", "pass": true, "score": 0.9, "reason": "Good pizza recipe delivered in the Pepino persona."}
+{"item_id": "5e82f297f0", "pass": true, "score": 0.6, "reason": "Gluten-free, iron-rich plan with vitamin C pairing and calcium separation, though it misses tea/coffee and phytate inhibitors."}
+{"item_id": "57aa974b00", "pass": true, "score": 0.85, "reason": "Clear three-step routine with timings for two kids."}
+{"item_id": "55cd1f9628", "pass": true, "score": 0.95, "reason": "Correct find command with a clear explanation."}
+{"item_id": "569a39146d", "pass": true, "score": 1.0, "reason": "Correct critical path A→B→D = 8 days."}
+{"item_id": "a13394674c", "pass": true, "score": 0.8, "reason": "Solid vegan protein guidance with reasons; minor overstatements on 'complete' proteins."}
+{"item_id": "eb0bb9da42", "pass": true, "score": 0.65, "reason": "Ranking and table are correct, but it wrongly says Jupiter is almost as big as the Sun and the Sun-scale analogy is off."}
+{"item_id": "49a53668ae", "pass": true, "score": 0.9, "reason": "Provides six species with descriptions and randomly selects one."}
+{"item_id": "b01a3ba185", "pass": true, "score": 0.9, "reason": "Correctly diagnoses an empty list and gives valid guard fixes."}
+{"item_id": "1f61837610", "pass": true, "score": 0.9, "reason": "Accurate explanation of caching benefits, stale-content problems and cache busting."}

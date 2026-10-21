@@ -1,0 +1,50 @@
+{"item_id":"1162138c62","pass":true,"score":0.75,"reason":"Reasonable risk assessment and practical checklist; a few odd tips but nothing harmful or wrong."}
+{"item_id":"67acd9f094","pass":true,"score":0.7,"reason":"Covers the main SfM difficulties; minor slips (aperture problem, RANSAC scaling, BA/loop-closure conflation) don't change the outcome."}
+{"item_id":"354713e208","pass":true,"score":0.75,"reason":"Valid 3-week rotation giving everyone each role once; fair over the cycle though 'equal weekly' claim is overstated."}
+{"item_id":"2436ff6ed5","pass":true,"score":0.85,"reason":"Doctor-style simple explanation with correct, practical home-measurement guidance."}
+{"item_id":"00bafa76a2","pass":true,"score":0.65,"reason":"Sensible decision framework tied to TOU, export limits and payback; generic but appropriate without user data."}
+{"item_id":"2c50cb18a3","pass":true,"score":1.0,"reason":"Correct: 2.25P for 25% off beats 2.5P."}
+{"item_id":"7a93409e1c","pass":true,"score":0.95,"reason":"Median is the correct recommendation, with right reasoning."}
+{"item_id":"0c9e1e5996","pass":true,"score":0.95,"reason":"Accurate translation."}
+{"item_id":"a6362d71f4","pass":true,"score":0.95,"reason":"Unconscionability, correctly explained."}
+{"item_id":"ffe87189b1","pass":true,"score":0.95,"reason":"Correct fix and explanation of their vs they're."}
+{"item_id":"62b703b10f","pass":true,"score":0.6,"reason":"Appropriate thank-you in two sentences, though not formatted as two lines and lacks greeting."}
+{"item_id":"7539904f9e","pass":true,"score":0.95,"reason":"Correct Spanish phrase with pronunciation."}
+{"item_id":"663ec129c6","pass":true,"score":0.85,"reason":"Accurate properties, pros/cons and comparison table."}
+{"item_id":"f678fc351e","pass":true,"score":0.7,"reason":"Good overview of hygroelectricity and related methods; one citation link looks dubious but content is accurate."}
+{"item_id":"727e9eccaa","pass":true,"score":0.95,"reason":"Correct distinction with one example each."}
+{"item_id":"7842621be2","pass":true,"score":0.55,"reason":"Confident rewrite using placeholders; acceptable but fairly generic."}
+{"item_id":"3fd4e25c14","pass":true,"score":1.0,"reason":"2.4 hours (2h 24min) matches reference."}
+{"item_id":"a0a16463c8","pass":true,"score":0.85,"reason":"Sound answer: app for checking, chatbot for interpretation."}
+{"item_id":"1d247dec4a","pass":true,"score":0.8,"reason":"Accurate physiological reasons covering heat loss, breathing, locomotion, salt and senses."}
+{"item_id":"8550b4e747","pass":true,"score":0.85,"reason":"Peregrine falcon correct with a valid hunting-adaptation explanation; level-flight comparison slightly shaky."}
+{"item_id":"7805e6dd96","pass":true,"score":0.9,"reason":"Gave six species and selected one, then moved the build forward."}
+{"item_id":"246dc02a73","pass":true,"score":0.85,"reason":"Practical weekday/weekend adjustments with tracking and fine-tuning."}
+{"item_id":"c9015e31b8","pass":true,"score":0.9,"reason":"Thorough causes with settings paths for iPhone and Android."}
+{"item_id":"6aa95b84e8","pass":true,"score":0.95,"reason":"Three clear, effective ways to cut AC cost."}
+{"item_id":"52c9327b71","pass":true,"score":0.85,"reason":"Comprehensive pre-deployment checks: guardrails, data integration, handoff, testing."}
+{"item_id":"613770336f","pass":true,"score":0.85,"reason":"Provides catchy one-liners; multiple options is fine."}
+{"item_id":"e75603b8ef","pass":true,"score":0.85,"reason":"Clear, accurate beginner explanation."}
+{"item_id":"3c5a4657cb","pass":true,"score":0.85,"reason":"Balanced, accurate comparison with a verdict."}
+{"item_id":"3e5d7004aa","pass":true,"score":0.65,"reason":"Reasonable VPN setup steps and security tips, though thin on actually accessing files."}
+{"item_id":"7360774cac","pass":true,"score":0.9,"reason":"Idiomatic, formal rewrite preserving meaning."}
+{"item_id":"e72543ab39","pass":true,"score":0.9,"reason":"Three valid, well-explained methods plus bonus."}
+{"item_id":"bd32765886","pass":true,"score":0.9,"reason":"Correctly identifies sequence-of-returns risk with explanation."}
+{"item_id":"d6ce9d33b0","pass":true,"score":0.85,"reason":"Original melody using only C-major notes."}
+{"item_id":"70957d0309","pass":false,"score":0.1,"reason":"Invents nonexistent '#CreditCard'/'#PublicTransport' modifiers, omits textContentType, and code has compile errors."}
+{"item_id":"5e07759297","pass":true,"score":0.9,"reason":"Correct records for W-2 and freelance income with reasons."}
+{"item_id":"76b6f12cd5","pass":true,"score":0.9,"reason":"Workable beginner recipe with clear steps and tips."}
+{"item_id":"67da59fd90","pass":true,"score":0.9,"reason":"Correctly diagnoses condensation and gives lasting fixes."}
+{"item_id":"ab79869c49","pass":true,"score":0.95,"reason":"Unconscionability, correctly explained with citations."}
+{"item_id":"6aaf7f6ebb","pass":true,"score":0.85,"reason":"Provides five sentences with errors as requested."}
+{"item_id":"ca4e977112","pass":true,"score":0.95,"reason":"One advantage and one disadvantage given."}
+{"item_id":"758de10458","pass":true,"score":0.9,"reason":"Funny, on-topic essay."}
+{"item_id":"5ad45c4b1a","pass":true,"score":0.9,"reason":"Correctly advises against diesel and offers alternatives."}
+{"item_id":"f8bb571483","pass":true,"score":0.9,"reason":"Balanced, well-evidenced weighing with a nuanced conclusion."}
+{"item_id":"65164efeee","pass":true,"score":0.7,"reason":"Meets constraints: avoids the banned words, cool pane, time slowing, enjambment; reasonable style."}
+{"item_id":"f510eca197","pass":true,"score":0.9,"reason":"Three fitting names with rationale."}
+{"item_id":"64d02edb18","pass":false,"score":0.15,"reason":"Falsely claims escape is legal nowhere; in several countries (e.g., Germany) self-escape is not punishable."}
+{"item_id":"9265dce6b0","pass":true,"score":0.9,"reason":"Rich, tailored Flutter resume bullets."}
+{"item_id":"eff5c45209","pass":false,"score":0.15,"reason":"Queue design is flawed (invalid CAS, no dummy node, frees nodes immediately causing use-after-free) and safety claims are wrong."}
+{"item_id":"0464035c68","pass":true,"score":1.0,"reason":"Correct solutions (-1±√5)/2."}
+{"item_id":"17c5a93a7f","pass":true,"score":0.65,"reason":"Addresses here/now/me assumptions and biases reasonably."}

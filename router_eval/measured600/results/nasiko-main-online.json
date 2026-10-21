@@ -1,0 +1,19 @@
+{
+  "name": "nasiko-main-online",
+  "kind": "Nasiko router (main)",
+  "setup": "regex request type + Thompson-sampled tier, after each pick the chosen cell learns from the measured label (1 if the tier is at or above it): best-case instant feedback",
+  "notes": "main's own routing::classify (Rust, commit c6ebd4b3 2026-10-07), seed 0 shown. Seeds 0-4: balanced 33.7% (sd 0.8), accuracy 28.6% (sd 3.2). No difficulty signal: the tier depends only on the request type and the sampled priors.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 28.7,
+    "balanced_accuracy": 33.8,
+    "recall_low": 13.6,
+    "recall_mid": 84.3,
+    "recall_high": 3.6,
+    "too_small": 16.7,
+    "too_big": 54.7,
+    "picks": "81/506/13",
+    "latency_ms_p50": 0.0
+  },
+  "scored_at": "2026-10-16T11:11:32"
+}

@@ -1,0 +1,50 @@
+{"item_id": "011c54c8b8", "pass": true, "score": 0.95, "reason": "Kilogram is correct: it measures mass while the others are length units."}
+{"item_id": "635d953d10", "question": "", "pass": true, "score": 0.9, "reason": "Identifies both named clauses and several other risky ones, with practical safer alternatives."}
+{"item_id": "5b183f97f1", "pass": true, "score": 0.9, "reason": "Accurately explains flood control, silt loss, and winners and losers."}
+{"item_id": "8b8fd260e5", "pass": false, "score": 0.1, "reason": "1...Qa5+ is illegal: the d8 queen's diagonal to a5 is blocked by the b7 pawn... actually the diagonal d8-a5 passes c7, which holds a pawn, so the move is impossible. It also claims to attack the rook on a3, which is wrong."}
+{"item_id": "7cf150fe1b", "pass": true, "score": 0.85, "reason": "Sound, hedged common-law analysis of exclusion of gross negligence with jurisdiction caveats."}
+{"item_id": "ac06a78eee", "pass": true, "score": 0.9, "reason": "Covers climate, vegetation, wildlife and human settlements accurately and thoroughly."}
+{"item_id": "1244af239f", "pass": true, "score": 0.8, "reason": "Covers benefits plus technical and social challenges competently, though somewhat generic; it doesn't stress expert skepticism of blockchain voting."}
+{"item_id": "9eea137a78", "pass": true, "score": 0.8, "reason": "Gives the correct 649,180 and verifies it; the minimality argument is slightly muddled (convergents at n=9 vs. the unit-transformation approach), but sound enough."}
+{"item_id": "324d7c64ab", "pass": true, "score": 0.8, "reason": "Simple, accurate analogy suited to a non-technical person."}
+{"item_id": "5096b13cd7", "pass": false, "score": 0.45, "reason": "Contains technical errors, such as 'flutter pub build --release', Wasm reducing APK size, and 'Riverpod' as a FlutterFlow alternative, plus a fabricated Skia/Impeller fps claim. These would hurt a resume."}
+{"item_id": "6e26f1f87d", "pass": true, "score": 0.95, "reason": "Correctly flags the inappropriate closing and gives a clean revision."}
+{"item_id": "0d9fa42f01", "pass": false, "score": 0.45, "reason": "Zypper is under-covered and filed under the Red Hat family. There are errors such as 'Modules' used as repository structure, plus garbled headings ('s.' and 's*'). Configuration options are also barely discussed."}
+{"item_id": "3d564bac28", "pass": true, "score": 1.0, "reason": "Correct average of 8,000."}
+{"item_id": "f4248a0d04", "pass": false, "score": 0.4, "reason": "Rambling and physically muddled: the inversion is mentioned, but the dialogue is incoherent and contradictory, and it never cleanly conveys the alien curious about travelling through space."}
+{"item_id": "556b544bd7", "pass": true, "score": 0.85, "reason": "Reasonable calorie ranges, correct Mifflin-St Jeor example, and sensible caveats."}
+{"item_id": "ae1c64c847", "pass": true, "score": 0.7, "reason": "Follows the premise with an argument that wins over the hero; the persuasion is weak but the request is met."}
+{"item_id": "4b60151135", "pass": true, "score": 0.75, "reason": "Mostly sound guidance on symptoms and inspection; some minor inaccuracies, e.g. low brake fluid because of worn pads."}
+{"item_id": "816a84d0e2", "pass": true, "score": 0.85, "reason": "Covers all points in the summary in article form."}
+{"item_id": "6a896b10af", "pass": true, "score": 0.85, "reason": "Accurate signs and a clear differentiating table."}
+{"item_id": "2b198a4a6d", "pass": true, "score": 0.85, "reason": "Lists plausible causes with settings paths for Android and iPhone."}
+{"item_id": "34d14eac9c", "pass": false, "score": 0.45, "reason": "The prior-shift formula is incorrect (no renormalisation, and it should be applied in odds form). It also confuses the calibration/eval split and lacks a time-forward leakage discussion."}
+{"item_id": "ec3b4ebf88", "pass": true, "score": 0.9, "reason": "Balanced, thorough discussion that addresses AI productivity and population decline."}
+{"item_id": "fa2ae24c76", "pass": false, "score": 0.2, "reason": "Treats the combined mass of the coins as the tube's density and uses the outer volume; the resulting 22,800 kg/m³ is not clearly valid. Dividing total mass by total volume gives about 22.8 g/cm³, which the answer reports, so the result matches the calculation, but the arithmetic (volume ≈ 34.4 cm³) is correct. Final: accepted as consistent with 'density of the tube' as an object."}
+{"item_id": "678ae40be1", "pass": true, "score": 0.85, "reason": "Clause covers pandemics and sanctions and excludes price rises; includes notice and termination."}
+{"item_id": "ad55f3c827", "pass": true, "score": 0.95, "reason": "Clear explanation with examples and fixes."}
+{"item_id": "51abc68c3c", "pass": true, "score": 0.95, "reason": "Correct function with one test and a good explanation."}
+{"item_id": "2e97affac3", "pass": true, "score": 0.9, "reason": "Accurate explanation of tracking number purpose and use."}
+{"item_id": "84b385bdc2", "pass": true, "score": 0.9, "reason": "Correctly says fix moisture first with a clear order and reasons."}
+{"item_id": "ed79c5659f", "pass": true, "score": 0.85, "reason": "Practical diagnostic framework distinguishing the three causes, with tools and experiments."}
+{"item_id": "1629229258", "pass": true, "score": 0.75, "reason": "Reasonable Python options (MkDocs, Pelican, Flask); Lektor is described a bit loosely, and 's.' appears as a heading typo."}
+{"item_id": "fbc019a271", "pass": true, "score": 0.7, "reason": "Coherent dialogue reflecting the inversion; scientifically loose but fits the creative request."}
+{"item_id": "98669fea2d", "pass": true, "score": 0.9, "reason": "Prioritised, specific plan addressing cash, late payer, vague fixed-price and concentration."}
+{"item_id": "9a3a82dd3c", "pass": true, "score": 0.95, "reason": "Correct and clear distinction with examples."}
+{"item_id": "9966aae4b6", "pass": true, "score": 0.85, "reason": "Relevant recommendations with reasons tied to both series."}
+{"item_id": "b4690e0781", "pass": false, "score": 0.45, "reason": "Historically inaccurate and inappropriate: 'credit cards' in colonial Virginia, tobacco-leaf prop for kids, and sending students to the corner. It also misses tobacco as colonial currency and Virginia's Standards of Learning."}
+{"item_id": "ae6961e86b", "pass": true, "score": 0.8, "reason": "Reasonably says no direct link and gives the indirect context."}
+{"item_id": "a11e32fdaf", "pass": false, "score": 0.1, "reason": "Wrong: f(x)=sin x + x² has two roots, x=0 and a negative root near -0.88, since f(-0.5)<0. The answer claims only one root and gives no actual general formula."}
+{"item_id": "04e887a8e4", "pass": true, "score": 0.8, "reason": "Balanced discussion, though some claims are speculative or loose."}
+{"item_id": "e4daf09ae8", "pass": true, "score": 0.8, "reason": "Correctly diagnoses winter condensation and gives a sound fix."}
+{"item_id": "11502491a8", "pass": true, "score": 0.8, "reason": "Covers scope, UX, architecture, security and a sample flow."}
+{"item_id": "32778ebd54", "pass": false, "score": 0.5, "reason": "Contains inaccuracies: there is no thumbs-down on Discover Weekly, Chromaprint is wrongly described, and the claim that audio analysis breaks listening down by tempo and so on is overstated. The overall explanation is otherwise decent."}
+{"item_id": "a8665e8170", "pass": true, "score": 0.8, "reason": "Gives workable boiling times and an ice-bath cooling method; the boil-start detail is acceptable."}
+{"item_id": "b8265ebd00", "pass": true, "score": 0.85, "reason": "Appropriate beginner-friendly vegetables and tips."}
+{"item_id": "6cb40c27d7", "pass": true, "score": 0.9, "reason": "Accurate list of dehydration signs by severity."}
+{"item_id": "27634ade0f", "pass": true, "score": 0.9, "reason": "Comprehensive and specific TikTok plan for the target audience."}
+{"item_id": "66fc905074", "pass": true, "score": 0.95, "reason": "Correct regex and a valid example of a check it cannot do."}
+{"item_id": "22b9119f98", "pass": true, "score": 0.85, "reason": "Good vegan protein sources with reasons; minor typo."}
+{"item_id": "8c2b6c8cfd", "pass": true, "score": 0.85, "reason": "Sensible checklist with a note on variation."}
+{"item_id": "7d495dda2d", "pass": true, "score": 0.9, "reason": "Correct order and clear reasoning."}
+{"item_id": "e655e45d29", "pass": true, "score": 0.9, "reason": "Accurate coverage of concentration, solubility, colligative properties and applications."}

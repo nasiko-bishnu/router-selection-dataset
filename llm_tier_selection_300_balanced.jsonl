@@ -1,0 +1,300 @@
+{"query": "How does public-key cryptography differ from shared-secret encryption, at a high level?", "label": "MID", "topic": "security_tech", "word_count": 12}
+{"query": "Port strikes and rising freight costs hit a global supplier. Reshape inventory and sourcing to keep delivery promises.", "label": "HIGH", "topic": "business_work", "word_count": 18}
+{"query": "I am deciding whether to lease or buy a laptop. Compare costs over three years, including resale value and maintenance.", "label": "MID", "topic": "money_finance", "word_count": 20}
+{"query": "Design a weekly chore chart that splits five household chores fairly among three roommates.", "label": "LOW", "topic": "home_family", "word_count": 14}
+{"query": "I run a small bakery with two staff. On weekdays we sell out of bread by noon but throw away pastries at closing, and on weekends it is the opposite. Suggest how to adjust what we bake each day.", "label": "MID", "topic": "business_work", "word_count": 39}
+{"query": "Compare the narrators of 'The Great Gatsby' and 'To Kill a Mockingbird' and how each shapes the story.", "label": "MID", "topic": "language_writing", "word_count": 18}
+{"query": "What is a probation period for employees starting a new job meant to achieve?", "label": "LOW", "topic": "business_work", "word_count": 14}
+{"query": "What causes the seasons on Earth, and why is distance from the Sun not the main reason?", "label": "MID", "topic": "science_environment", "word_count": 17}
+{"query": "Should we repaint a damp basement wall now or fix the moisture first? Explain the order and why.", "label": "MID", "topic": "home_family", "word_count": 18}
+{"query": "Structure a thank-you card for a teacher with an opening line, one memory, and a closing wish.", "label": "LOW", "topic": "language_writing", "word_count": 17}
+{"query": "How does a bishop move in chess, and can it jump over other pieces.", "label": "LOW", "topic": "culture_history", "word_count": 14}
+{"query": "Why does baking soda absorb fridge smells, and when would vinegar work better for cleaning?", "label": "MID", "topic": "home_family", "word_count": 15}
+{"query": "Why can a vaccine with 95% efficacy still mean most infected people in a hospital were vaccinated?", "label": "HIGH", "topic": "health_medicine", "word_count": 17}
+{"query": "What does a 70% chance of rain in a forecast actually mean, and what does it not mean?", "label": "MID", "topic": "science_environment", "word_count": 18}
+{"query": "A bus leaves every 12 minutes and a train every 20. Both left at 8:00; when do they next leave together?", "label": "MID", "topic": "travel_transport", "word_count": 21}
+{"query": "We are adopting a puppy next week. Which common foods are poisonous to dogs?", "label": "LOW", "topic": "home_family", "word_count": 14}
+{"query": "My daughter asked why the Moon looks different each night this month. What should I tell her?", "label": "LOW", "topic": "science_environment", "word_count": 17}
+{"query": "Outline what to bring to a city office when renewing a driver's license.", "label": "LOW", "topic": "law_government", "word_count": 13}
+{"query": "Should I prepay my 4% mortgage or invest instead, given taxes, inflation risk, job insecurity, and a ten-year horizon?", "label": "HIGH", "topic": "money_finance", "word_count": 19}
+{"query": "Studies disagree on whether interval training beats steady cardio for weight loss. Why, and which result holds up?", "label": "HIGH", "topic": "food_fitness", "word_count": 18}
+{"query": "Build a fair ranking for chess clubs whose players rarely meet across regions and play different numbers of games.", "label": "HIGH", "topic": "culture_history", "word_count": 19}
+{"query": "A study reports: 'Coffee drinkers lived 2 years longer (p = 0.03, n = 500, observational).' What else could explain this besides coffee?", "label": "HIGH", "topic": "data_statistics", "word_count": 23}
+{"query": "Should we buy solar panels, a battery, or both, with time-of-use prices, export limits, and a ten-year payback goal?", "label": "HIGH", "topic": "science_environment", "word_count": 19}
+{"query": "Can an unreliable narrator still be morally trustworthy? Argue it with two contrasting novels as evidence.", "label": "HIGH", "topic": "language_writing", "word_count": 16}
+{"query": "Is an air fryer or a convection oven better for a family of five that bakes every week? Explain.", "label": "MID", "topic": "food_fitness", "word_count": 19}
+{"query": "Outline test cases for a login form covering valid input, wrong passwords, and a locked account.", "label": "MID", "topic": "software_coding", "word_count": 16}
+{"query": "Name the instruments that make up a string quartet, for someone attending a first classical concert tonight.", "label": "LOW", "topic": "culture_history", "word_count": 17}
+{"query": "How would you redesign a city bus network to cut travel time while protecting riders who rely on night routes?", "label": "HIGH", "topic": "travel_transport", "word_count": 20}
+{"query": "My bank texted: 'Your card was used for $1 at QuickMart. Reply YES if this was you.' What should I do?", "label": "LOW", "topic": "security_tech", "word_count": 21}
+{"query": "A student scored 4, 7, 9, and 12 on four spelling quizzes this month. What is the mean score, with the arithmetic shown?", "label": "LOW", "topic": "math", "word_count": 23}
+{"query": "Why can a company's average salary be far above its typical salary? Show it with a small example.", "label": "MID", "topic": "data_statistics", "word_count": 18}
+{"query": "Why can an end-to-end encrypted messenger still reveal who talks to whom? Explain metadata attacks and defenses.", "label": "HIGH", "topic": "security_tech", "word_count": 17}
+{"query": "Rewrite this resume bullet to show impact: 'Responsible for handling customer complaints in the store.'", "label": "MID", "topic": "business_work", "word_count": 15}
+{"query": "Write a Python function that returns the largest number in a list, plus one test for an empty list.", "label": "LOW", "topic": "software_coding", "word_count": 19}
+{"query": "My sister is opening a small bakery that sells sourdough and coffee. Suggest three names for it.", "label": "LOW", "topic": "business_work", "word_count": 17}
+{"query": "My colleague seems withdrawn and keeps missing deadlines. How can I raise it kindly without overstepping?", "label": "MID", "topic": "health_medicine", "word_count": 16}
+{"query": "My grandfather served in the army during the war. In which year did World War II end in Europe?", "label": "LOW", "topic": "culture_history", "word_count": 19}
+{"query": "A web API returns intermittent 429 errors. What does that status mean, and how should the client respond?", "label": "MID", "topic": "software_coding", "word_count": 18}
+{"query": "How many ways can you climb 20 stairs taking 1, 2, or 3 steps at a time? Give the exact count.", "label": "HIGH", "topic": "math", "word_count": 21, "reference_answer": "121,415"}
+{"query": "A CSV contains duplicate customer IDs with different timestamps. Keep only the latest record for each, safely.", "label": "MID", "topic": "software_coding", "word_count": 17}
+{"query": "Why did the fall of Constantinople in 1453 matter for European trade routes? Give two effects.", "label": "MID", "topic": "culture_history", "word_count": 16}
+{"query": "Value an office building whose main tenant may leave in two years while remote work keeps rising.", "label": "HIGH", "topic": "money_finance", "word_count": 17}
+{"query": "In a household budget spreadsheet, which formula adds up the values in cells A1 to A10?", "label": "LOW", "topic": "software_coding", "word_count": 16}
+{"query": "Why does a lithium-ion battery lose capacity faster when kept fully charged and hot? Explain the mechanism.", "label": "MID", "topic": "science_environment", "word_count": 17}
+{"query": "My phone battery drains fast even when idle. List likely causes and how to check each in settings.", "label": "MID", "topic": "security_tech", "word_count": 18}
+{"query": "A company plans to move all its servers to the cloud. What hidden costs and risks should it check before committing?", "label": "HIGH", "topic": "software_coding", "word_count": 21}
+{"query": "Write a two-sentence email telling my team the office will be closed next Monday for repairs.", "label": "LOW", "topic": "language_writing", "word_count": 16}
+{"query": "My bank advisor keeps calling index funds diversified. What does that word mean for my savings?", "label": "LOW", "topic": "money_finance", "word_count": 16}
+{"query": "My brakes usually squeal only on mornings after rain and stop after a few minutes. What is happening?", "label": "MID", "topic": "travel_transport", "word_count": 18}
+{"query": "Why do airlines overbook flights on purpose, and how do they decide how many extra seats to sell?", "label": "HIGH", "topic": "travel_transport", "word_count": 18}
+{"query": "For a science worksheet for young children, please name the three states of matter that are commonly taught in school.", "label": "LOW", "topic": "science_environment", "word_count": 20}
+{"query": "Is it acceptable for doctors to photograph patients on personal phones, given privacy law and security controls?", "label": "HIGH", "topic": "law_government", "word_count": 17}
+{"query": "A coworker sent over a file ending in .csv, and the recipient is unsure what it is. What does that extension usually indicate?", "label": "LOW", "topic": "software_coding", "word_count": 23}
+{"query": "Our family business must choose between a second shop and selling online. Compare cash flow, risk, and timing.", "label": "HIGH", "topic": "business_work", "word_count": 18}
+{"query": "In a class poll, 12 students chose pizza, 8 chose pasta, and 5 chose salad. Which was most popular, and by how much?", "label": "LOW", "topic": "data_statistics", "word_count": 23, "reference_answer": "Pizza, by 4 votes over pasta"}
+{"query": "Sketch a three-step morning routine that helps two kids get ready for school on time.", "label": "LOW", "topic": "home_family", "word_count": 15}
+{"query": "A friend is filing taxes for the first time. Explain the difference between a deduction and a credit.", "label": "LOW", "topic": "money_finance", "word_count": 18}
+{"query": "Which design pattern would decouple a payment module from several shipping providers? Name it and explain why.", "label": "MID", "topic": "software_coding", "word_count": 17}
+{"query": "An online survey skews young and urban. Weight the responses so the estimates represent the whole country.", "label": "HIGH", "topic": "data_statistics", "word_count": 17}
+{"query": "After a job interview yesterday afternoon, write a two-line message thanking the interviewer for their time.", "label": "LOW", "topic": "business_work", "word_count": 16}
+{"query": "A café sells 200 coffees a day at $3.50, costing $1.20 each, and rent is $4,000 monthly. What is monthly profit?", "label": "MID", "topic": "business_work", "word_count": 21}
+{"query": "Give three ways to avoid mosquito bites during the rainy season when we sit outside in the evenings.", "label": "LOW", "topic": "health_medicine", "word_count": 18}
+{"query": "A taxi charges $3 to start plus $1.75 per km. How far can I ride for $24?", "label": "MID", "topic": "math", "word_count": 17, "reference_answer": "12 km"}
+{"query": "Why are so many major cities built on rivers or coasts? Give three reasons with real examples.", "label": "MID", "topic": "culture_history", "word_count": 17}
+{"query": "At the supermarket, is a 1 kg bag of rice for $3 cheaper per kilogram than 500 g for $1.60?", "label": "LOW", "topic": "math", "word_count": 20}
+{"query": "A 12-hectare farm needs 40% legumes and the rest split evenly between wheat and maize. How many hectares each?", "label": "MID", "topic": "science_environment", "word_count": 19}
+{"query": "Our ad spending rose during the busy holiday season. How can we tell how many extra sales the ads caused?", "label": "HIGH", "topic": "business_work", "word_count": 20}
+{"query": "My fitness tracker shows 6,000, 8,000, and 10,000 steps on three days. What was my average daily step count?", "label": "LOW", "topic": "data_statistics", "word_count": 19, "reference_answer": "8,000 steps"}
+{"query": "A recipe needs 200 g of flour for 10 cookies. How much flour makes 25 cookies?", "label": "LOW", "topic": "food_fitness", "word_count": 16, "reference_answer": "500 g"}
+{"query": "A check-engine light comes on during a drive and stays on. Explain what that typically means.", "label": "LOW", "topic": "travel_transport", "word_count": 16}
+{"query": "How can a browser cache make a site faster, and what problem can stale cached content cause?", "label": "MID", "topic": "software_coding", "word_count": 17}
+{"query": "How many integers from 1 to 1,000,000 are neither perfect squares nor perfect cubes?", "label": "HIGH", "topic": "math", "word_count": 14, "reference_answer": "998,910 (1,000 squares + 100 cubes - 10 sixth powers = 1,090 excluded)"}
+{"query": "An odd email asks the reader to confirm a password. List warning signs that it is phishing.", "label": "LOW", "topic": "security_tech", "word_count": 17}
+{"query": "A 'bank' caller asks me to read out a code they texted me. What is happening, and what should I do?", "label": "MID", "topic": "security_tech", "word_count": 21}
+{"query": "Should our city ban gas stoves, given indoor air, emissions, grid load, renter costs, and fairness?", "label": "HIGH", "topic": "law_government", "word_count": 16}
+{"query": "For a class presentation next week, explain the difference between renewable and non-renewable energy, giving one everyday example of each.", "label": "LOW", "topic": "science_environment", "word_count": 20}
+{"query": "Our small clinic keeps patient files on a shared laptop. Plan encryption, backups, and access rules that survive a stolen device.", "label": "HIGH", "topic": "security_tech", "word_count": 21}
+{"query": "My daughter's school is buying lab equipment and she asked me: what is the main purpose of a microscope in science?", "label": "LOW", "topic": "science_environment", "word_count": 21}
+{"query": "Design a lock-free queue that stays correct despite the ABA problem, and explain why it is safe.", "label": "HIGH", "topic": "software_coding", "word_count": 17}
+{"query": "Here is a sentence from my essay: 'Their going to the park tomorrow.' Fix the mistake and explain it.", "label": "LOW", "topic": "language_writing", "word_count": 19}
+{"query": "Prepare a town-hall briefing on a factory closure, with answers to the three hardest questions residents will ask.", "label": "HIGH", "topic": "language_writing", "word_count": 18}
+{"query": "Build a monthly budget for a $3,000 income covering rent, groceries, transport, savings, and a yearly car bill.", "label": "MID", "topic": "money_finance", "word_count": 18}
+{"query": "Compare 15-year and 30-year mortgages on $300,000 at 6%: monthly payment and total interest for each.", "label": "MID", "topic": "money_finance", "word_count": 16}
+{"query": "Our electricity bill doubled this summer because of air conditioning. Give three ways to bring it down.", "label": "LOW", "topic": "science_environment", "word_count": 17}
+{"query": "My nephew is in fourth grade and has a spelling test every Friday. He gets nervous and forgets words he knew the night before. Suggest three practice ideas his parents can try at home this week.", "label": "LOW", "topic": "language_writing", "word_count": 36}
+{"query": "To fix a leaking kitchen tap this weekend, explain how to turn off the water supply safely.", "label": "LOW", "topic": "home_family", "word_count": 17}
+{"query": "What is the difference between a cold and the flu, and when should someone see a doctor?", "label": "MID", "topic": "health_medicine", "word_count": 17}
+{"query": "Flu season is starting at my children's school. Why does regular handwashing help so much?", "label": "LOW", "topic": "health_medicine", "word_count": 15}
+{"query": "A shelter has an outbreak of a contagious dog virus. How should intake, isolation, and adoptions change?", "label": "HIGH", "topic": "home_family", "word_count": 17}
+{"query": "Before a trip to Paris next week, how would you translate 'The train leaves at six o'clock' into French?", "label": "LOW", "topic": "language_writing", "word_count": 19}
+{"query": "My doctor said to finish the antibiotics even if I feel better. Why does that matter?", "label": "LOW", "topic": "health_medicine", "word_count": 16}
+{"query": "My grandmother has a new Android phone. How does she take a screenshot of a message?", "label": "LOW", "topic": "security_tech", "word_count": 16}
+{"query": "Write a function that returns the longest palindromic substring in linear time, and explain why it is linear.", "label": "HIGH", "topic": "software_coding", "word_count": 18}
+{"query": "Rewrite this lease rule in plain English: 'Lessee shall not sublet the premises absent prior written consent.'", "label": "MID", "topic": "law_government", "word_count": 17}
+{"query": "A tank fills in 6 hours with pipe A and in 4 hours with pipe B. How long does it take with both open?", "label": "MID", "topic": "math", "word_count": 24, "reference_answer": "2.4 hours (2 hours 24 minutes)"}
+{"query": "A family has two children, and at least one is a boy born on a Tuesday. What is the chance both are boys?", "label": "HIGH", "topic": "math", "word_count": 23, "reference_answer": "13/27"}
+{"query": "Why did the 1929 stock market crash turn into a decade-long depression rather than a short recession?", "label": "HIGH", "topic": "culture_history", "word_count": 17}
+{"query": "Should I buy a $250,000 flat or keep renting at $1,200 a month over five years, counting fees and repairs?", "label": "MID", "topic": "money_finance", "word_count": 20}
+{"query": "I am learning JavaScript from an online course. Write a function that checks whether a number is even, with one test.", "label": "LOW", "topic": "software_coding", "word_count": 21}
+{"query": "Why can a portfolio with a higher average return still leave a retiree worse off over thirty years?", "label": "HIGH", "topic": "money_finance", "word_count": 18}
+{"query": "Survey results from 80 people: 'Satisfied 40%, Neutral 35%, Unsatisfied 25%'. What can and can't we conclude?", "label": "MID", "topic": "data_statistics", "word_count": 17}
+{"query": "Plan a five-year farm rotation that rebuilds soil, controls pests with no sprays, and keeps income steady.", "label": "HIGH", "topic": "science_environment", "word_count": 17}
+{"query": "Cracks in my old house widen in clay soil during droughts. Should I underpin, improve drainage, or monitor?", "label": "HIGH", "topic": "home_family", "word_count": 18}
+{"query": "In general terms, may a landlord enter a rented flat without giving the tenant any notice?", "label": "LOW", "topic": "law_government", "word_count": 16}
+{"query": "Among 39 coins, one is fake and either heavier or lighter. What is the fewest balance weighings that always finds it?", "label": "HIGH", "topic": "math", "word_count": 21, "reference_answer": "4 weighings: n weighings can find the fake and tell heavier/lighter among at most (3^n - 3)/2 coins, and (3^4 - 3)/2 = 39"}
+{"query": "Write a persuasive op-ed for parents arguing for later school start times, addressing the strongest counterargument fairly.", "label": "HIGH", "topic": "language_writing", "word_count": 17}
+{"query": "Our API logs show 'p50 40ms, p99 2.1s, error rate 0.1%, GC pauses up to 1.8s'. What is the likely culprit, and what evidence would confirm it?", "label": "HIGH", "topic": "software_coding", "word_count": 27}
+{"query": "A class of 25 students has 15 girls. What fraction of the class are boys?", "label": "LOW", "topic": "math", "word_count": 15, "reference_answer": "2/5"}
+{"query": "My credit card charges 24% APR, compounded monthly. If I carry a $2,000 balance for a year without paying, how much interest builds up?", "label": "MID", "topic": "money_finance", "word_count": 24, "reference_answer": "About $536 (2,000 x (1.02^12 - 1) = $536.48)"}
+{"query": "Compare tea and coffee for someone who wants less caffeine in the evening, and suggest one option.", "label": "LOW", "topic": "food_fitness", "word_count": 17}
+{"query": "Who were the main sides in the Cold War, and why did it never become a direct war between them?", "label": "MID", "topic": "culture_history", "word_count": 20}
+{"query": "Our dog barks at every delivery driver. What training steps reduce it over a few weeks?", "label": "MID", "topic": "home_family", "word_count": 16}
+{"query": "Paper or plastic shopping bags: which has the lower environmental impact once you count how often each is reused?", "label": "MID", "topic": "science_environment", "word_count": 19}
+{"query": "I have a startup offer with equity and a stable job with a pension. How do I compare them with unknown exit odds?", "label": "HIGH", "topic": "business_work", "word_count": 23}
+{"query": "Someone earned $8,000 freelancing and $50,000 in salary. Which records should they keep for filing, and why?", "label": "MID", "topic": "money_finance", "word_count": 17}
+{"query": "Our home Wi-Fi is fast near the router but weak upstairs. Give three practical fixes and their rough costs.", "label": "MID", "topic": "security_tech", "word_count": 19}
+{"query": "Should someone with a daily 10 km commute buy a monthly bus pass or take taxis?", "label": "LOW", "topic": "travel_transport", "word_count": 16}
+{"query": "A restaurant bill comes to 250 rupees and the diner wants to leave an 18% tip. Calculate 18% of 250 and show the arithmetic.", "label": "LOW", "topic": "math", "word_count": 24}
+{"query": "Thunderstorms are forecast for this afternoon. What should I pack for a morning day hike in the hills?", "label": "LOW", "topic": "science_environment", "word_count": 18}
+{"query": "Translate an English liability clause into Japanese while keeping both its legal force and its politeness level.", "label": "HIGH", "topic": "language_writing", "word_count": 17}
+{"query": "I run a 40-person software consultancy. Two clients bring 60% of revenue, one pays late, and a third wants a fixed price for a vague project. Our cash covers three months. What should I do this quarter, and why?", "label": "HIGH", "topic": "business_work", "word_count": 39}
+{"query": "A primary school teacher is preparing flashcards and needs a one-sentence definition of an ecosystem that a child could understand.", "label": "LOW", "topic": "science_environment", "word_count": 20}
+{"query": "Plan an overland route from Delhi to Istanbul for a solo traveler, handling visas, border closures, and seasonal mountain passes.", "label": "HIGH", "topic": "travel_transport", "word_count": 20}
+{"query": "Count the ways to place 8 non-attacking rooks on a chessboard with none on the main diagonal.", "label": "HIGH", "topic": "math", "word_count": 17, "reference_answer": "14,833 (the number of derangements of 8)"}
+{"query": "Our pages load slowly for one region only in the evenings. Trace the cause across DNS, the CDN, and peering.", "label": "HIGH", "topic": "software_coding", "word_count": 20}
+{"query": "Why can inflation lower unemployment in the short run but not in the long run? Explain the Phillips curve debate.", "label": "HIGH", "topic": "money_finance", "word_count": 20}
+{"query": "I need a low-downtime migration plan for a small Flask service moving from one virtual machine to containers.", "label": "MID", "topic": "software_coding", "word_count": 18}
+{"query": "Plan a packing list for a two-day beach trip with a toddler, grouped into clothes, food, and toys.", "label": "LOW", "topic": "home_family", "word_count": 18}
+{"query": "An async Rust server keeps its memory after traffic drops. Find where it goes and prove it.", "label": "HIGH", "topic": "software_coding", "word_count": 17}
+{"query": "Should someone with a past stomach ulcer take ibuprofen or paracetamol for a headache, and why?", "label": "MID", "topic": "health_medicine", "word_count": 16}
+{"query": "A heater uses 1.5 kW for 4 hours a day. At $0.20 per kWh, what does a month cost?", "label": "MID", "topic": "science_environment", "word_count": 19}
+{"query": "Should I book a cheaper flight with a 50-minute connection or a pricier direct one for a wedding?", "label": "MID", "topic": "travel_transport", "word_count": 18}
+{"query": "Why do lithium battery fires restart after being put out? Plan safe storage for our warehouse of e-bikes.", "label": "HIGH", "topic": "science_environment", "word_count": 18}
+{"query": "What is the difference between a survey and a census? Give one example of each.", "label": "LOW", "topic": "data_statistics", "word_count": 15}
+{"query": "Did the printing press cause the Reformation? Weigh the strongest evidence for and against that claim.", "label": "HIGH", "topic": "culture_history", "word_count": 16}
+{"query": "At bedtime tonight, summarize the story of Cinderella in three sentences for a four-year-old.", "label": "LOW", "topic": "language_writing", "word_count": 14}
+{"query": "Explain soccer's offside rule using an example where an attacker is exactly level with the last defender.", "label": "MID", "topic": "culture_history", "word_count": 17}
+{"query": "Why does difference-in-differences break under spillovers to neighboring regions, and what design fixes it?", "label": "HIGH", "topic": "data_statistics", "word_count": 14}
+{"query": "A marathon runner has celiac disease and low iron. Plan meals that fix both without nutrients blocking each other.", "label": "HIGH", "topic": "health_medicine", "word_count": 19}
+{"query": "A safety problem is so rare that a normal A/B experiment would need millions of users. Evaluate a fix anyway.", "label": "HIGH", "topic": "data_statistics", "word_count": 20}
+{"query": "On a world map at school, which ocean lies between Africa and Australia's west coast?", "label": "LOW", "topic": "culture_history", "word_count": 15}
+{"query": "Propose a name and a one-line slogan for a neighborhood book swap held every Saturday morning.", "label": "LOW", "topic": "language_writing", "word_count": 16}
+{"query": "Prices changed alongside customer mix and marketing spend. How would you credibly estimate price elasticity?", "label": "HIGH", "topic": "business_work", "word_count": 15}
+{"query": "Our 1950s house has knob-and-tube wiring, an old fuse box, and a planned EV charger. What must change, in what order?", "label": "HIGH", "topic": "home_family", "word_count": 21}
+{"query": "A medicine label says 'Take one tablet every 8 hours, no more than 3 in 24 hours.' What is the daily maximum?", "label": "LOW", "topic": "health_medicine", "word_count": 22, "reference_answer": "3 tablets"}
+{"query": "Which is safer for a small office: one shared Wi-Fi password, or separate guest and staff networks?", "label": "MID", "topic": "security_tech", "word_count": 17}
+{"query": "Why does a melody sound sadder when moved from a major key to its relative minor? Give an example.", "label": "MID", "topic": "culture_history", "word_count": 19}
+{"query": "My dog has limped on and off for a month, worse after rest. Work through likely causes and tests that separate them.", "label": "HIGH", "topic": "home_family", "word_count": 22}
+{"query": "Plan routes for three vans covering twelve delivery stops so each van works roughly the same number of hours.", "label": "MID", "topic": "business_work", "word_count": 19}
+{"query": "List common foods that are good sources of vitamin C for children getting over a cold.", "label": "LOW", "topic": "food_fitness", "word_count": 16}
+{"query": "Compare first-past-the-post and proportional voting using three parties that win 40%, 35%, and 25% of votes.", "label": "MID", "topic": "law_government", "word_count": 16}
+{"query": "Write a regex for dates shaped like YYYY-MM-DD and state one validity check it cannot perform.", "label": "MID", "topic": "software_coding", "word_count": 16}
+{"query": "How should my online clothing shop handle returns to cut fraud and waste while keeping honest customers?", "label": "HIGH", "topic": "business_work", "word_count": 17}
+{"query": "Why can SMS-based two-factor codes be stolen even without the phone, and which stronger options work for ordinary users?", "label": "HIGH", "topic": "security_tech", "word_count": 19}
+{"query": "My parents are flying abroad for the first time. List the documents they will need at the airport.", "label": "LOW", "topic": "travel_transport", "word_count": 18}
+{"query": "Write a fair screen-time agreement for siblings aged 8 and 13 who have different school schedules.", "label": "MID", "topic": "home_family", "word_count": 16}
+{"query": "What does two-factor authentication protect against, and what can it still not stop?", "label": "MID", "topic": "security_tech", "word_count": 13}
+{"query": "How does a database transaction prevent partial updates when a payment operation fails halfway?", "label": "MID", "topic": "software_coding", "word_count": 14}
+{"query": "A webpage is slow while server CPU remains low. Give two plausible causes and checks for each.", "label": "MID", "topic": "software_coding", "word_count": 17}
+{"query": "Design a three-question quiz that checks whether a student knows what a chatbot is.", "label": "LOW", "topic": "ai_ml", "word_count": 14}
+{"query": "Rewrite this so it stays firm but polite: 'Your service is useless and I want my money back now.'", "label": "MID", "topic": "language_writing", "word_count": 19}
+{"query": "This error appeared on my screen: 'File not found: report.docx'. What does it mean, and what should I check?", "label": "LOW", "topic": "software_coding", "word_count": 19}
+{"query": "My cake recipe serves eight from a 9-inch pan. What pan size and baking changes make it serve twelve?", "label": "MID", "topic": "food_fitness", "word_count": 19}
+{"query": "Write a Python function that merges overlapping time intervals, turning [1,3] and [2,6] into [1,6].", "label": "MID", "topic": "software_coding", "word_count": 15}
+{"query": "What does HTTP status code 404 usually mean, and what might a visitor try next.", "label": "LOW", "topic": "software_coding", "word_count": 15}
+{"query": "Draft a force-majeure clause for a supply deal covering pandemics and sanctions but not ordinary price rises.", "label": "HIGH", "topic": "law_government", "word_count": 17}
+{"query": "My freelance income swings 40% month to month. Set a savings rule that never misses quarterly taxes or rent.", "label": "HIGH", "topic": "money_finance", "word_count": 19}
+{"query": "Why does ice float on water while most solids sink in their own melted liquid?", "label": "MID", "topic": "science_environment", "word_count": 15}
+{"query": "How did the Aswan High Dam change the Nile's floods, and who gained or lost from that change?", "label": "HIGH", "topic": "science_environment", "word_count": 18}
+{"query": "An investment grew from $10,000 to $16,000 over five years. What was its average yearly growth rate?", "label": "MID", "topic": "money_finance", "word_count": 17}
+{"query": "Which differential-privacy parameters suit analytics on a small dataset, and how do you avoid misleading guarantees?", "label": "HIGH", "topic": "data_statistics", "word_count": 16}
+{"query": "Historians still debate why Bronze Age Mediterranean civilizations collapsed around 1200 BCE. Weigh drought, invasions, earthquakes, and trade breakdown, and say which best fits the archaeological record.", "label": "HIGH", "topic": "culture_history", "word_count": 27}
+{"query": "My cat stopped using the litter box after we moved house. What are likely reasons and fixes?", "label": "MID", "topic": "home_family", "word_count": 17}
+{"query": "Plan a family movie night for four with snacks, a start time, and a film everyone can watch.", "label": "LOW", "topic": "culture_history", "word_count": 18}
+{"query": "Our team meetings keep running late. Suggest two rules that would help them finish on time.", "label": "LOW", "topic": "business_work", "word_count": 16}
+{"query": "My elderly mother lives alone two hours away. She has mild memory loss, refuses to move, and my siblings disagree about paying for care. Lay out the options, costs, and a way to decide together.", "label": "HIGH", "topic": "home_family", "word_count": 35}
+{"query": "Turn 'students will understand photosynthesis' into a measurable lesson objective, and add one way to assess it.", "label": "MID", "topic": "language_writing", "word_count": 17}
+{"query": "Black mold keeps returning on our bathroom ceiling every winter. Find the likely cause and a lasting fix.", "label": "MID", "topic": "home_family", "word_count": 18}
+{"query": "How would you cook a vegetable stir-fry from a typical fridge? Give three ingredients commonly used in one.", "label": "LOW", "topic": "food_fitness", "word_count": 18}
+{"query": "I want a five-day rail trip from Rome to Paris under €600, with two museum days and no night trains.", "label": "MID", "topic": "travel_transport", "word_count": 20}
+{"query": "Should a school screen every student for depression, given false positives, consent, stigma, and limited follow-up?", "label": "HIGH", "topic": "health_medicine", "word_count": 16}
+{"query": "I see rising tail latency in a concurrent Rust service: is it scheduler contention, allocator pressure, or lock convoys?", "label": "HIGH", "topic": "software_coding", "word_count": 19}
+{"query": "Our calibration drifted after a policy change but ranking metrics held; diagnose it and recalibrate without leakage.", "label": "HIGH", "topic": "ai_ml", "word_count": 17}
+{"query": "Test scores rose after a new curriculum, but tutoring grew and enrollment shifted. Can the curriculum take credit?", "label": "HIGH", "topic": "data_statistics", "word_count": 18}
+{"query": "Our family of four shares one car. My partner commutes 30 km on weekdays, the kids have sports twice a week across town, and I work from home. Propose a weekly plan so everyone gets where they need to go.", "label": "MID", "topic": "home_family", "word_count": 40}
+{"query": "Write a SQL query to count the rows in a data table called orders.", "label": "LOW", "topic": "software_coding", "word_count": 14}
+{"query": "When does Spanish use 'ser' versus 'estar'? Give two sentences where switching them changes the meaning.", "label": "MID", "topic": "language_writing", "word_count": 16}
+{"query": "Should a family of four take the train or drive for a 120 km day trip with luggage?", "label": "LOW", "topic": "travel_transport", "word_count": 18}
+{"query": "Create a daily water reminder plan for an office worker who often forgets to drink during meetings.", "label": "LOW", "topic": "health_medicine", "word_count": 17}
+{"query": "My grandmother asked me this while setting up her new laptop: what is the purpose of an operating system on a computer?", "label": "LOW", "topic": "security_tech", "word_count": 22}
+{"query": "Last month my laptop died and I lost some photos. Explain why regular backups of personal data are useful.", "label": "LOW", "topic": "security_tech", "word_count": 19}
+{"query": "Price crop insurance for farmers whose drought losses hit the whole region in the same years.", "label": "HIGH", "topic": "money_finance", "word_count": 16}
+{"query": "In a school survey, 30 out of 120 parents said yes. What percentage of parents said yes?", "label": "LOW", "topic": "math", "word_count": 17}
+{"query": "What is the probability that a random 5-card poker hand contains exactly two pairs? Give an exact fraction.", "label": "HIGH", "topic": "math", "word_count": 18, "reference_answer": "123,552 / 2,598,960 = 198/4165 (about 0.0475)"}
+{"query": "My sourdough keeps collapsing at 2,500 meters altitude. Adjust hydration, yeast activity, and baking to fix it.", "label": "HIGH", "topic": "food_fitness", "word_count": 17}
+{"query": "Spot the risky clauses in a freelance contract with unlimited revisions and payment 'upon client satisfaction'.", "label": "MID", "topic": "law_government", "word_count": 16}
+{"query": "Plan two weeks in four countries for my father in a wheelchair: visas, step-free transport, and medicines.", "label": "HIGH", "topic": "travel_transport", "word_count": 17}
+{"query": "Give three tips for good eye contact with the audience during a class presentation on Friday.", "label": "LOW", "topic": "language_writing", "word_count": 16}
+{"query": "Five friends each told me how many books they read this year: 3, 8, 10, 14, and 21. What is the median?", "label": "LOW", "topic": "math", "word_count": 22}
+{"query": "Explain what a small claims court is for, using an example of a broken phone repair.", "label": "LOW", "topic": "law_government", "word_count": 16}
+{"query": "A town of 20,000 people had 400 flu cases this week. What is the attack rate per 1,000 people?", "label": "MID", "topic": "health_medicine", "word_count": 19}
+{"query": "Why might our two sales spreadsheets disagree by 3% after currency conversion, refunds, and time-zone cutoffs?", "label": "HIGH", "topic": "business_work", "word_count": 16}
+{"query": "My bread comes out dense every time. What are the three most likely causes?", "label": "MID", "topic": "food_fitness", "word_count": 14}
+{"query": "My blood test says 'LDL 165 mg/dL, HDL 38 mg/dL'. What do these numbers mean in general terms?", "label": "MID", "topic": "health_medicine", "word_count": 18}
+{"query": "Find the smallest positive integer solution of x^2 - 13y^2 = 1, and explain why no smaller one exists.", "label": "HIGH", "topic": "math", "word_count": 19, "reference_answer": "x = 649, y = 180 (fundamental solution, from the continued fraction of sqrt(13))"}
+{"query": "Is it copyright infringement when two hit songs share a four-chord progression and similar melodies?", "label": "HIGH", "topic": "law_government", "word_count": 15}
+{"query": "Why does a mutation in 21-hydroxylase raise androgen levels in congenital adrenal hyperplasia? Trace the pathway.", "label": "HIGH", "topic": "health_medicine", "word_count": 16, "reference_answer": "21-hydroxylase deficiency blocks cortisol (and aldosterone) synthesis; low cortisol removes negative feedback, ACTH rises, and the accumulated precursors (17-hydroxyprogesterone) are shunted into adrenal androgen synthesis"}
+{"query": "My new freelance client keeps saying we should work 'in good faith'. What does that phrase mean?", "label": "LOW", "topic": "law_government", "word_count": 17}
+{"query": "My landlord kept my whole deposit for 'cleaning'. What steps should I take, and what evidence helps?", "label": "MID", "topic": "law_government", "word_count": 17}
+{"query": "Ahead of a work talk next Tuesday, how can a presentation slide be made easier for the audience to read? Give two ways.", "label": "LOW", "topic": "business_work", "word_count": 23}
+{"query": "A child has a 39°C fever and a rash that doesn't fade under a pressed glass. What should a parent do?", "label": "MID", "topic": "health_medicine", "word_count": 21}
+{"query": "Why does searing meat not actually seal in juices, and what does it really change chemically?", "label": "HIGH", "topic": "food_fitness", "word_count": 16}
+{"query": "Implement a lock-free single-producer single-consumer ring buffer in C++ and justify each memory ordering you use.", "label": "HIGH", "topic": "software_coding", "word_count": 16}
+{"query": "How do you write a public apology after a customer data leak that admits fault but limits legal exposure?", "label": "HIGH", "topic": "language_writing", "word_count": 19}
+{"query": "A health plan has a $1,500 deductible and 20% coinsurance. What do I pay on a $6,000 bill?", "label": "MID", "topic": "money_finance", "word_count": 18}
+{"query": "Our train was cancelled and the next one arrives three hours late. What compensation rights usually apply in the EU?", "label": "MID", "topic": "travel_transport", "word_count": 20}
+{"query": "My cousin is moving to a new city. What is the difference between renting and leasing an apartment?", "label": "LOW", "topic": "money_finance", "word_count": 18}
+{"query": "A small shop's sales dip every January. What are likely reasons, and two ways to soften the dip?", "label": "MID", "topic": "business_work", "word_count": 18}
+{"query": "Write a catchy one-line ad for our town's weekend farmers' market that runs every Saturday morning.", "label": "LOW", "topic": "business_work", "word_count": 16}
+{"query": "Why do flight prices usually rise as the travel date gets closer? Give two reasons airlines do this.", "label": "MID", "topic": "travel_transport", "word_count": 18}
+{"query": "What is jury duty, and what usually happens if someone ignores a summons?", "label": "LOW", "topic": "law_government", "word_count": 13}
+{"query": "What legal doctrine lets a court refuse to enforce a contract that was grossly unfair when signed?", "label": "MID", "topic": "law_government", "word_count": 17}
+{"query": "Analyze conflicting clauses in a cross-border software contract: governing law, jurisdiction, liability, and privacy duties.", "label": "HIGH", "topic": "law_government", "word_count": 15}
+{"query": "An online order email included a tracking number. What is it for, and how is it used?", "label": "LOW", "topic": "business_work", "word_count": 17}
+{"query": "A remote worker lived in two US states and abroad this year. Which places can tax which income?", "label": "HIGH", "topic": "money_finance", "word_count": 18}
+{"query": "Set up three savings jars for a ten-year-old's pocket money and say what each jar is for.", "label": "LOW", "topic": "money_finance", "word_count": 17}
+{"query": "For a picnic tomorrow, give the boiling time and the cooling method for eggs with firm yolks.", "label": "LOW", "topic": "food_fitness", "word_count": 17}
+{"query": "I am new to Python. Write one line of code that prints the numbers from 1 to 10.", "label": "LOW", "topic": "software_coding", "word_count": 18}
+{"query": "Why does grapefruit juice raise blood levels of some drugs but not others? Use enzyme and transporter details.", "label": "HIGH", "topic": "health_medicine", "word_count": 18}
+{"query": "Which is better for checking today's weather, a chatbot or a weather app, and why?", "label": "LOW", "topic": "ai_ml", "word_count": 15}
+{"query": "After a 30-minute evening dog walk, which three stretches help the legs recover?", "label": "LOW", "topic": "food_fitness", "word_count": 13}
+{"query": "A dataset has several missing ages. Should you fill them with the mean or the median for a skewed distribution?", "label": "MID", "topic": "data_statistics", "word_count": 20}
+{"query": "Translate into French so the meaning, not the words, survives: 'He spilled the beans and let the cat out of the bag.'", "label": "HIGH", "topic": "language_writing", "word_count": 22}
+{"query": "A city wants congestion charging. Predict how traffic, shops, and low-income commuters would be affected, using evidence from London and Stockholm.", "label": "HIGH", "topic": "travel_transport", "word_count": 21}
+{"query": "Our p99 latency rises after every release while average latency and CPU stay flat; why?", "label": "HIGH", "topic": "software_coding", "word_count": 15}
+{"query": "What is the last nonzero digit of 100 factorial? Show a method that would also work for 1000 factorial.", "label": "HIGH", "topic": "math", "word_count": 19, "reference_answer": "4"}
+{"query": "Which vegetables grow well in large pots on a sunny balcony for a first-time gardener?", "label": "LOW", "topic": "home_family", "word_count": 15}
+{"query": "New homeowners often ask this: name two things a standard home insurance policy usually covers.", "label": "LOW", "topic": "money_finance", "word_count": 15}
+{"query": "Why does bread go stale faster in the fridge than on the counter? Explain starch retrogradation and how to slow it.", "label": "HIGH", "topic": "food_fitness", "word_count": 21}
+{"query": "Why should bleach never be mixed with ammonia-based cleaners when cleaning the bathroom at home?", "label": "LOW", "topic": "home_family", "word_count": 15}
+{"query": "Compare one advantage and one disadvantage of solar panels for a home.", "label": "LOW", "topic": "science_environment", "word_count": 12}
+{"query": "What is the capital of Australia, and which continent is it on? My son thinks it is Sydney.", "label": "LOW", "topic": "culture_history", "word_count": 18}
+{"query": "What evidence and methods would make it scientifically defensible to blame one heatwave on climate change?", "label": "HIGH", "topic": "science_environment", "word_count": 16}
+{"query": "What separates supervised from unsupervised learning? Give one realistic use case for each.", "label": "MID", "topic": "ai_ml", "word_count": 13}
+{"query": "Groundwater is falling under a farming valley. Design water rules that farmers, towns, and wildlife could all accept.", "label": "HIGH", "topic": "science_environment", "word_count": 18}
+{"query": "Judge how a new tax hits poor families, revenue, work choices, and regional gaps, and which parts rest on guesses.", "label": "HIGH", "topic": "money_finance", "word_count": 20}
+{"query": "A car uses 6 liters of fuel per 100 km. How much fuel does a 250 km trip need?", "label": "LOW", "topic": "travel_transport", "word_count": 19, "reference_answer": "15 liters"}
+{"query": "A tenant sublet on Airbnb against the lease and a guest was injured in a rent-controlled building. Who is liable?", "label": "HIGH", "topic": "law_government", "word_count": 20}
+{"query": "Why might a phone battery run out faster in very cold weather? Give one plain reason.", "label": "LOW", "topic": "science_environment", "word_count": 16}
+{"query": "Plan a day of meals around 2,000 calories for someone avoiding dairy, with at least 25 grams of fiber.", "label": "MID", "topic": "food_fitness", "word_count": 19}
+{"query": "Estimate a school program's causal effect without randomization, despite baseline differences and students switching schools.", "label": "HIGH", "topic": "data_statistics", "word_count": 15}
+{"query": "Solar or wind power for a remote site with variable weather and limited battery storage: which fits better, and why?", "label": "MID", "topic": "science_environment", "word_count": 20}
+{"query": "Outline a weekend schedule for two friends running a lemonade stand on Saturday and Sunday afternoons.", "label": "LOW", "topic": "business_work", "word_count": 16}
+{"query": "Structure a five-minute wedding toast that blends one funny story with a sincere message to the couple.", "label": "MID", "topic": "language_writing", "word_count": 17}
+{"query": "Hourly reports must absorb events arriving up to 48 hours late. Handle revisions without letting state grow forever.", "label": "HIGH", "topic": "software_coding", "word_count": 18}
+{"query": "We are divorced parents in different countries who disagree on our teen's school. Propose a process courts would accept.", "label": "HIGH", "topic": "home_family", "word_count": 19}
+{"query": "My monthly take-home pay is $3,000 and my rent is $1,050. What share of my income goes to rent?", "label": "LOW", "topic": "money_finance", "word_count": 19}
+{"query": "How could attackers abuse a smart doorbell on a home network, and which defenses matter most for a non-technical family?", "label": "HIGH", "topic": "security_tech", "word_count": 20}
+{"query": "Plan an on-call rotation for six engineers in three time zones so nobody works two weekends in a row.", "label": "MID", "topic": "business_work", "word_count": 19}
+{"query": "Write a shell command that finds .log files modified in the last day under a directory, and explain it.", "label": "MID", "topic": "software_coding", "word_count": 19}
+{"query": "Here is my cover letter opening: 'I am writing to apply for the job I saw.' Rewrite it to sound confident and specific.", "label": "MID", "topic": "language_writing", "word_count": 23}
+{"query": "When a predictor fails in a new region, separate covariate shift, label shift, concept drift, and pipeline bugs.", "label": "HIGH", "topic": "ai_ml", "word_count": 18}
+{"query": "Lab results: 'TSH 0.1, free T4 high, heart rate 115, weight loss 6 kg in two months.' Reason through the likely diagnosis and next tests.", "label": "HIGH", "topic": "health_medicine", "word_count": 25}
+{"query": "An older patient on warfarin starts a new antibiotic and gets nosebleeds. Work through the interaction and next steps.", "label": "HIGH", "topic": "health_medicine", "word_count": 19}
+{"query": "Plan a one-day city walk for a visitor who likes parks, a bakery stop, and being back by 5 pm.", "label": "LOW", "topic": "travel_transport", "word_count": 20}
+{"query": "My friend visits next week from abroad. She arrives Friday evening, leaves Sunday night, loves food markets and old buildings, and does not drive. Suggest a plan for Saturday in a typical European city.", "label": "LOW", "topic": "travel_transport", "word_count": 34}
+{"query": "How can our pay bands close a gender pay gap while nobody's salary is cut and the budget holds?", "label": "HIGH", "topic": "business_work", "word_count": 19}
+{"query": "How would you draw voting districts that resist gerrymandering and keep communities together? Name fairness tests.", "label": "HIGH", "topic": "law_government", "word_count": 16}
+{"query": "How do astronomers read an exoplanet's atmosphere from starlight, and what could fake a detection?", "label": "HIGH", "topic": "science_environment", "word_count": 15}
+{"query": "Design a four-week plan that takes me from walking to running 5 km without injury, with rest days.", "label": "MID", "topic": "food_fitness", "word_count": 18}
+{"query": "Plan a week of meals for a teenager with type 1 diabetes who plays football, balancing carbs, insulin timing, and growth.", "label": "HIGH", "topic": "food_fitness", "word_count": 21}
+{"query": "Write a 100-word museum label for a 1920s jazz record player that a teenager would enjoy reading.", "label": "MID", "topic": "culture_history", "word_count": 17}
+{"query": "Write a spreadsheet formula that finds a product's price by its code on another sheet.", "label": "MID", "topic": "software_coding", "word_count": 15}
+{"query": "It was very hot at the football match today. List common signs of dehydration in adults.", "label": "LOW", "topic": "health_medicine", "word_count": 16}
+{"query": "How should scarce vaccines be split across regions with different infection rates and trust in officials?", "label": "HIGH", "topic": "health_medicine", "word_count": 16}
+{"query": "What happens legally if someone dies without a will? Give the general rule in most countries.", "label": "MID", "topic": "law_government", "word_count": 16}
+{"query": "Tasks A takes 2 days; B and C follow A for 4 and 3 days. D takes 2 days after both. Find duration.", "label": "MID", "topic": "math", "word_count": 23}
+{"query": "I want a chatbot to help answer customer emails for my online shop. Most emails ask about delivery times, returns, and sizes. What should I check before letting it reply to customers?", "label": "MID", "topic": "ai_ml", "word_count": 32}
+{"query": "For three items at the same price, is 'buy two, get the third half price' better than 25% off everything?", "label": "MID", "topic": "money_finance", "word_count": 20}
+{"query": "Is a tomato a fruit or a vegetable? Explain the difference with one example of each.", "label": "LOW", "topic": "food_fitness", "word_count": 16}
+{"query": "My tomato leaves turn yellow from the bottom up while fruit is forming. What are likely causes and fixes?", "label": "MID", "topic": "home_family", "word_count": 19}
+{"query": "Why do astronauts on the space station feel weightless when gravity there is still about 90% of Earth's?", "label": "MID", "topic": "science_environment", "word_count": 18}
+{"query": "Why might a doctor prescribe different drugs to two patients with identical symptoms? Explain using drug interactions and genetics.", "label": "HIGH", "topic": "health_medicine", "word_count": 19}
+{"query": "Make long-running jobs that call outside APIs survive rate limits, partial failures, and side effects that cannot repeat.", "label": "HIGH", "topic": "software_coding", "word_count": 18}
+{"query": "I am visiting Madrid next month. How do I say 'Where is the nearest pharmacy?' in Spanish?", "label": "LOW", "topic": "language_writing", "word_count": 17}
+{"query": "I get paid on the first of every month and keep forgetting which bills are due when. Rent is due on the 5th, phone on the 12th, and internet on the 20th. Make me a reminder list for the month.", "label": "LOW", "topic": "money_finance", "word_count": 40}
+{"query": "A contract says: 'Supplier is not liable for any loss, howsoever arising.' Would a court likely enforce this against gross negligence?", "label": "HIGH", "topic": "law_government", "word_count": 21}
+{"query": "In two sentences that a worried parent could follow easily, summarize what a vaccine is for and how it helps.", "label": "LOW", "topic": "health_medicine", "word_count": 20}
+{"query": "What is the difference between correlation and causation, and when does confusing them lead to a false claim?", "label": "MID", "topic": "data_statistics", "word_count": 18}
+{"query": "A houseplant wilted after a week without water. What most likely caused it, and what should the owner do?", "label": "LOW", "topic": "home_family", "word_count": 19}
+{"query": "On a visit to my uncle's farm, he mentioned rotating crops. Why do farmers rotate crops between seasons?", "label": "LOW", "topic": "science_environment", "word_count": 18}
+{"query": "Three friends split a $96 dinner bill so one pays twice what each of the others pays. How much does each pay?", "label": "MID", "topic": "math", "word_count": 22, "reference_answer": "$48, $24, and $24"}
+{"query": "A neighbor asked to share a Wi-Fi network. What does setting a password protect against?", "label": "LOW", "topic": "security_tech", "word_count": 15}
+{"query": "A ceiling fan wobbles at high speed. What are the likely causes, and how do I check each?", "label": "MID", "topic": "home_family", "word_count": 18}
+{"query": "Rewrite this clearly without changing its meaning: 'Due to the fact that launch was delayed, the team changed the schedule.'", "label": "MID", "topic": "language_writing", "word_count": 20}
+{"query": "Suggest a fair way to compare two customer-support agents when they handle different numbers and types of tickets.", "label": "MID", "topic": "business_work", "word_count": 18}
+{"query": "This Python line fails on some days: total = sum(prices) / len(prices). It raises ZeroDivisionError. Why, and how do I fix it?", "label": "MID", "topic": "software_coding", "word_count": 22}
+{"query": "A compiler speed-up makes code faster but rarely gives wrong results. Find the bug systematically.", "label": "HIGH", "topic": "software_coding", "word_count": 15}
+{"query": "Someone who recently opened their first bank account is confused. Explain the difference between a debit card and a credit card.", "label": "LOW", "topic": "money_finance", "word_count": 21}
+{"query": "A classifier marks 40 messages as spam, of which 30 really are spam. It misses 10 spam messages. Calculate precision and recall.", "label": "MID", "topic": "ai_ml", "word_count": 22}

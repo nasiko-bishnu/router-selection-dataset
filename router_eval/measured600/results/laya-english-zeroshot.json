@@ -1,0 +1,19 @@
+{
+  "name": "laya-english-zeroshot",
+  "kind": "Decision model, zero-shot (local)",
+  "setup": "Laya english asked low / mid / high, top option",
+  "notes": "The base model as published, no training.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 23.3,
+    "balanced_accuracy": 33.3,
+    "recall_low": 0.0,
+    "recall_mid": 100.0,
+    "recall_high": 0.0,
+    "too_small": 14.0,
+    "too_big": 62.7,
+    "picks": "0/600/0",
+    "latency_ms_p50": 45.0
+  },
+  "scored_at": "2026-10-16T14:51:59"
+}

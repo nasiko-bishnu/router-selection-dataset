@@ -1,0 +1,50 @@
+{"item_id":"b52ae32490","pass":false,"score":0.2,"reason":"Generic outline with typos, tier level bands that don't match Adventurer's League, invented items, little Planescape detail, no concrete encounters, and it doesn't traverse all the planes."}
+{"item_id":"cb9952cb42","pass":true,"score":0.7,"reason":"Balanced overview of actuarial and equity arguments with the regulatory landscape; minor slips such as the life insurance example and the dating of the EU ruling."}
+{"item_id":"088e320b9e","pass":true,"score":0.95,"reason":"Correctly recommends the median for a skewed distribution and explains why."}
+{"item_id":"4bfa53345d","pass":true,"score":0.9,"reason":"Correctly describes intestacy and the general order of statutory heirs."}
+{"item_id":"ba3b3ce839","pass":true,"score":0.85,"reason":"Thorough, well-structured answer with caveats; only a minor misattribution (Project EYES)."}
+{"item_id":"c8f79166ec","pass":true,"score":0.9,"reason":"Practical packing list with layering, rain gear and a turn-around plan suited to afternoon storms."}
+{"item_id":"46182de03a","pass":true,"score":0.9,"reason":"Clear explanation of the exception with causes, examples and fixes."}
+{"item_id":"1da3254c4d","pass":true,"score":0.95,"reason":"Correctly explains that .csv means comma-separated values and how to open the file."}
+{"item_id":"9f2e9ca18f","pass":true,"score":0.9,"reason":"Kind, practical approach with a script and appropriate boundaries."}
+{"item_id":"45af03c795","pass":true,"score":0.85,"reason":"Accurately explains the antipyretic and analgesic roles and notes the lack of anti-inflammatory action."}
+{"item_id":"a847cf22e6","pass":false,"score":0.15,"reason":"Fabricates a Byron poem called 'The Lotos-Eaters' in Don Juan, and Tennyson's summary is only partly right."}
+{"item_id":"b95a4721d0","pass":true,"score":0.9,"reason":"Accurate comparison of CV and resume with regional nuance."}
+{"item_id":"eacee1e425","pass":true,"score":0.85,"reason":"Useful, categorized Flutter bullet points with a formula and quantification tips; a stray typo only."}
+{"item_id":"4657f96833","pass":true,"score":1.0,"reason":"Correct Spanish phrase."}
+{"item_id":"b61ae78697","pass":true,"score":0.9,"reason":"About 15°C average with quantified seasonal, annual and long-term fluctuations."}
+{"item_id":"200727cb0a","pass":false,"score":0.3,"reason":"Code won't compile as written: .nameAndFullName and .expirationDate aren't valid UITextContentType values, UTType is used without its import, and the focus fields aren't wired up."}
+{"item_id":"eb1ac746b4","pass":true,"score":0.9,"reason":"Modern, accurate password guidance covering passphrases, uniqueness, managers and MFA."}
+{"item_id":"018acd9fe0","pass":true,"score":0.6,"reason":"Gives about 14°C and the long-term changes, but is vague about magnitude of daily and seasonal fluctuation."}
+{"item_id":"3e32f378d0","pass":true,"score":0.9,"reason":"Fits the request with a name and a one-line slogan."}
+{"item_id":"89b3ad14bc","pass":true,"score":0.85,"reason":"Sensible self-care tips with appropriate red-flag warnings."}
+{"item_id":"b661d446e9","pass":true,"score":0.85,"reason":"Covers both egg contents and safe locations, with sensible tips."}
+{"item_id":"2a51e6fbfb","pass":true,"score":0.9,"reason":"Well-organized, balanced answer with solid examples and caveats."}
+{"item_id":"193c7c796d","pass":true,"score":0.85,"reason":"Reasoned recommendation of a Web API with the CLI as a client, plus an architecture."}
+{"item_id":"2f27afb55b","pass":true,"score":0.9,"reason":"Calculations check out (mortgage payment, equity, net cost) and the conclusion follows."}
+{"item_id":"dfcd557255","pass":true,"score":0.9,"reason":"Plausible reasons and two practical mitigations."}
+{"item_id":"d79c71875e","pass":true,"score":0.85,"reason":"Lists the right records (W-2, 1099-NEC, invoices, receipts) with reasons."}
+{"item_id":"0cc63e9062","pass":true,"score":0.85,"reason":"Balanced weighing of evidence with a sound conclusion that the press was an enabler, not the cause."}
+{"item_id":"2a5a57b8d0","pass":false,"score":0.45,"reason":"Treats the term as plain forward propagation and ignores Hinton's Forward-Forward algorithm; unclear which meaning was intended."}
+{"item_id":"270177352d","pass":true,"score":0.95,"reason":"Correct: nearly equal apparent size, with the 400x coincidence explained."}
+{"item_id":"06fdb47fcf","pass":true,"score":0.8,"reason":"Reasonable justification for solar with caveats and a hybrid option."}
+{"item_id":"51e5c53a19","pass":true,"score":0.95,"reason":"Names two correct coverages, the dwelling and personal belongings."}
+{"item_id":"5e17b6e7ac","pass":true,"score":0.9,"reason":"Comprehensive treatment of capabilities, accuracy, reliability and safety challenges."}
+{"item_id":"3ea6e7e915","pass":false,"score":0.3,"reason":"Generic and misses the key fix of putting numbers in separate WABAs or overriding the webhook per phone number, so the user's situation isn't resolved."}
+{"item_id":"504eb9a2fd","pass":true,"score":0.65,"reason":"Workable recipes with the listed equipment; minor slips such as a stray character and a mention of milk the user doesn't have."}
+{"item_id":"9d1ef15c73","pass":true,"score":1.0,"reason":"Correct answer: Mike."}
+{"item_id":"20f05c6494","pass":true,"score":0.9,"reason":"Accurate explanation of signing and verification with correct applications."}
+{"item_id":"7a4d0a8c54","pass":true,"score":0.95,"reason":"Correct result of 45 with arithmetic shown; the messy 'wait' in the middle is harmless."}
+{"item_id":"1eff2ecfa4","pass":true,"score":0.95,"reason":"Correctly identifies unconscionability and its procedural and substantive branches."}
+{"item_id":"b42f1260b0","pass":true,"score":0.8,"reason":"Comprehensive design covering features, security and conversation flow."}
+{"item_id":"e3c10eaf8c","pass":true,"score":0.9,"reason":"Thorough, beginner-friendly guidance on choosing network structure."}
+{"item_id":"7ade9a29d8","pass":false,"score":0.2,"reason":"Many factual errors: Wallenstein at White Mountain, Christian IV leading the Protestant Union, the Münster and Osnabrück treaties swapped, muddled phases and Swedish conquests."}
+{"item_id":"ee4ba995f1","pass":true,"score":0.9,"reason":"Polite, well-formed email with placeholders."}
+{"item_id":"a9f0bbba9e","pass":false,"score":0.4,"reason":"Cost estimate is badly wrong: $1,000 a month for about 8 million adults is roughly $96 billion a year, not $300-400 billion, which undermines the fiscal reasoning and recommendation."}
+{"item_id":"61b4137b58","pass":true,"score":0.9,"reason":"Correct BFS implementation with an example and complexity."}
+{"item_id":"1186866de6","pass":true,"score":0.8,"reason":"Covers the main findings with a clear example; a minor stray typo."}
+{"item_id":"51e35fab76","pass":true,"score":0.9,"reason":"Correctly recommends separate guest and staff networks with sound reasoning."}
+{"item_id":"b968d96fdc","pass":true,"score":0.9,"reason":"Accurate AlphaZero-style explanation of self-play, MCTS and the policy and value heads."}
+{"item_id":"80bd2b24a3","pass":true,"score":0.85,"reason":"Budget covers every requested category, sums correctly and includes a monthly set-aside for the yearly car bill."}
+{"item_id":"a30868ff29","pass":true,"score":1.0,"reason":"Correct 35%."}
+{"item_id":"f60386b227","pass":true,"score":0.9,"reason":"Correctly identifies the ocean situation as far more dangerous, with reasoning."}

@@ -1,0 +1,19 @@
+{
+  "name": "clm-zeroshot",
+  "kind": "Decision model, zero-shot (local)",
+  "setup": "CLM asked low / mid / high, top option",
+  "notes": "CLM_v0.1-8B heads; Qwen3-8B encoder in PyTorch on the Mac GPU (stand-in for vLLM, same last-token pooling); latency includes the encoder.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 51.3,
+    "balanced_accuracy": 38.9,
+    "recall_low": 68.1,
+    "recall_mid": 20.0,
+    "recall_high": 28.6,
+    "too_small": 24.3,
+    "too_big": 24.3,
+    "picks": "388/106/106",
+    "latency_ms_p50": 115.7
+  },
+  "scored_at": "2026-10-16T11:03:40"
+}

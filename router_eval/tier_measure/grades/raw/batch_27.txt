@@ -1,0 +1,50 @@
+{"item_id":"e662687e1e","pass":true,"score":0.9,"reason":"Gives the right commands (os-release, hostnamectl, uname) and explains what to look for."}
+{"item_id":"775b46a6ef","pass":true,"score":0.92,"reason":"Correctly identifies overt hyperthyroidism and gives sensible next tests (TRAb, T3, RAIU), an ECG and beta-blocker."}
+{"item_id":"686b077166","pass":true,"score":0.75,"reason":"Atomicity and rollback are explained correctly with a concrete example; the undo-log detail is a bit muddled but the substance is right."}
+{"item_id":"eb2b2817d4","pass":true,"score":1.0,"reason":"Correctly identifies D8 = 14,833 and matches the reference."}
+{"item_id":"865181c5aa","pass":true,"score":0.9,"reason":"Correctly advises against diesel in a gasoline car and offers practical alternatives."}
+{"item_id":"95a0c99b7f","pass":false,"score":0.2,"reason":"Vague on the origin of the quote, never names the Rosenblueth/Wiener 'best model of a cat is the cat' lineage or the map-territory idea, and the Bostrom and holographic-principle links are dubious."}
+{"item_id":"04eda28bad","pass":false,"score":0.2,"reason":"Misreads the carry logic, and the suggested fix c=1 would break the function, since the carry is computed as c/BASE so c=1 yields no carry."}
+{"item_id":"20c257fb4f","pass":true,"score":0.92,"reason":"Accurate and balanced explanation of Section 230's significance and controversy."}
+{"item_id":"12482f2946","pass":true,"score":0.9,"reason":"Provides sentences with clear errors in the requested practice format."}
+{"item_id":"17abb6a6b7","pass":true,"score":0.85,"reason":"Good differentiation of burnout and depression with shared symptoms and red flags; only minor typos."}
+{"item_id":"ebf40e2f88","pass":true,"score":0.95,"reason":"Comprehensive and accurate list of phishing warning signs with a safe response."}
+{"item_id":"7df58a004e","pass":true,"score":0.88,"reason":"Offers multiple impact-oriented rewrites with placeholders for metrics and useful tips."}
+{"item_id":"f14f34ff0d","pass":true,"score":0.88,"reason":"Roughly 100 words, teen-friendly tone, and suitable for a museum label."}
+{"item_id":"404dff1bca","pass":false,"score":0.1,"reason":"Code is incorrect (no dummy node, CAS on tail without linking, hazard pointers registered after the CAS), the Michael-Scott attribution is wrong, and the safety argument is confused and self-correcting mid-trace."}
+{"item_id":"8ccd12d7d2","pass":true,"score":1.0,"reason":"Correct E = 6 + 1 = 7.0 J with clear steps."}
+{"item_id":"2dd433b8a6","pass":true,"score":0.9,"reason":"Thorough, well-structured treatment of cultural differences in justice, cross-cultural disputes and global legal system challenges."}
+{"item_id":"cf580a7fd0","pass":true,"score":0.9,"reason":"Three practical fixes with reasonable cost ranges."}
+{"item_id":"1148a89810","pass":false,"score":0.2,"reason":"Wrong on the facts: MATH is by Hendrycks et al. (Berkeley), not Meta or Cobbe, and Minerva was a Google Research model, so the key details are unreliable."}
+{"item_id":"3c2f586a52","pass":true,"score":0.62,"reason":"Core idea of central action and dosing safety is right, but the COX-3 and serotonin/dopamine reuptake claims are shaky or outdated."}
+{"item_id":"4d84f435e1","pass":true,"score":0.95,"reason":"Correctly explains weightlessness as free fall despite roughly 90% gravity."}
+{"item_id":"761d92e952","pass":true,"score":0.6,"reason":"Covers state residency and sourcing plus federal citizenship-based taxation with FTC/FEIE; reasonably correct but thin on the foreign country's taxing rights and treaties."}
+{"item_id":"2cb3c9720b","pass":true,"score":0.92,"reason":"Well-organized test cases covering valid input, wrong passwords and locked accounts."}
+{"item_id":"eaeee90b1b","pass":true,"score":0.85,"reason":"Clause covers pandemics and sanctions and expressly excludes ordinary price rises, with notice and termination mechanics."}
+{"item_id":"84a70e38e9","pass":true,"score":0.6,"reason":"Reasonable overview of moisture-electric generators and challenges, though the AWH-plus-fuel-cell approach is speculative and the hygroelectricity explanation is loose."}
+{"item_id":"3a5c8b7318","pass":true,"score":0.85,"reason":"Suggests suitable Python static-site tools (Pelican, MkDocs, Jinja2) with a quick approach for a few-hour project."}
+{"item_id":"c1a24c3a6e","pass":true,"score":0.88,"reason":"Gives a relevant, actionable breakdown of math, finance, ML, C++ and interview prep for a quant researcher role."}
+{"item_id":"220efe8da7","pass":true,"score":0.6,"reason":"Provides a timed structure blending humor and sincerity, though it uses several anecdotes rather than one and the story is somewhat muddled."}
+{"item_id":"35451afd1b","pass":true,"score":0.88,"reason":"Clear three-step routine with times that suits two kids."}
+{"item_id":"a2cb2deed0","pass":true,"score":0.88,"reason":"Fair agreement tailored to both ages and differing schedules, with consequences and signatures."}
+{"item_id":"609ccb760b","pass":true,"score":0.97,"reason":"Payments ($2,531.57 and $1,798.65) and total interest (~$155.7k and ~$347.5k) are correct."}
+{"item_id":"a126acff9d","pass":true,"score":0.9,"reason":"Covers likely causes (stress, location, litter, medical) and practical fixes with vet guidance."}
+{"item_id":"1b96170233","pass":false,"score":0.4,"reason":"Only asks for more details and gives no plan, method or example for balancing the vans' workloads."}
+{"item_id":"436f3195f0","pass":true,"score":0.95,"reason":"Correctly distinguishes botanical fruit from culinary vegetable with one example of each."}
+{"item_id":"335880a8c3","pass":true,"score":0.95,"reason":"Correct Spanish phrase with pronunciation and useful Madrid tips."}
+{"item_id":"2f4b366460","pass":true,"score":0.6,"reason":"Identifies the main challenges of ML-based decompilation (lossy compilation, optimization diversity, evaluation, existing tools), though it is fairly generic."}
+{"item_id":"b21e7dff98","pass":true,"score":0.95,"reason":"Correct, simple explanation of a microscope's purpose."}
+{"item_id":"def5ef1895","pass":true,"score":0.85,"reason":"Offers feasible DIY microscope methods using household items."}
+{"item_id":"a40214b51e","pass":true,"score":0.8,"reason":"Reasonable functionalist argument that an AI could count as conscious, with appropriate caveats."}
+{"item_id":"5792b4c494","pass":true,"score":0.78,"reason":"Interprets here/now/me sensibly and honestly discusses systemic biases."}
+{"item_id":"a047cb3243","pass":true,"score":0.9,"reason":"Compares tea and coffee for evening use and suggests one option (chamomile)."}
+{"item_id":"101598ac00","pass":true,"score":0.85,"reason":"Complete, practical weekend schedule for both days with roles and tips."}
+{"item_id":"d85cf33296","pass":true,"score":0.93,"reason":"Accurate macOS Ventura screenshot shortcuts and tips."}
+{"item_id":"c098da4d66","pass":true,"score":0.9,"reason":"Several firm yet polite rewrites that keep the refund demand."}
+{"item_id":"27411e7a1b","pass":true,"score":0.85,"reason":"Working pure-JS neural network class with backprop and an XOR test; the bias updates are slightly non-standard but functional."}
+{"item_id":"46d049b108","pass":true,"score":0.97,"reason":"Correctly treats a fever with a non-blanching rash as an emergency and says to call emergency services immediately."}
+{"item_id":"82ba0f8b77","pass":true,"score":0.95,"reason":"Clear, accurate explanation of an operating system's purpose suited to a grandmother."}
+{"item_id":"f382121485","pass":true,"score":0.75,"reason":"Correctly describes the antibiotic-warfarin interaction, with INR check, vitamin K and monitoring steps; omits TMP-SMX but is otherwise sound."}
+{"item_id":"04b9ad2be8","pass":true,"score":0.9,"reason":"Gives six species with descriptions and selects one (Demon)."}
+{"item_id":"8da2469212","pass":true,"score":0.92,"reason":"Accurate explanation of elliptic curves, ECDLP and the key-size comparison with RSA."}
+{"item_id":"1db5cc2469","pass":true,"score":0.93,"reason":"Comprehensive and accurate overview of RL for robot navigation and tasks, covering sim-to-real, rewards and safety."}

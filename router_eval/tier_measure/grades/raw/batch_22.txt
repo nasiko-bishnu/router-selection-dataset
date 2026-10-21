@@ -1,0 +1,50 @@
+{"item_id":"6f505bf1ba","pass":true,"score":0.85,"reason":"Accurate RSV prevention options (Abrysvo at 32–36 weeks, nirsevimab, palivizumab) plus sound hygiene and exposure advice."}
+{"item_id":"198864627d","pass":true,"score":0.8,"reason":"Direct-address script of about 20 seconds with a strong, attention-grabbing hook."}
+{"item_id":"9543d48170","pass":true,"score":0.9,"reason":"Clear definition, appropriate uses and contraindications, with good examples and modern caveats."}
+{"item_id":"2f9cb9e695","pass":true,"score":0.9,"reason":"The tar-over-ssh pipe through the laptop is correct and lands in ~/training_results; the scp and rsync fallbacks are valid."}
+{"item_id":"97f65739a7","pass":true,"score":0.85,"reason":"Correct interpretation of LDL 165 (high range) and HDL 38 (low), with a sensible disclaimer."}
+{"item_id":"078b24b577","pass":true,"score":0.7,"reason":"Addresses all four constraints and gives a balanced recommendation, though the false-positive arithmetic is wrong (20% of flagged are not healthy)."}
+{"item_id":"c64c9f27b6","pass":true,"score":0.7,"reason":"Delivers a Lovecraftian retelling that follows the story arc and ends on the 'Let there be' beat, with minor typos."}
+{"item_id":"40d0a235a5","pass":true,"score":0.7,"reason":"Covers companions, varieties and Italian herbs adequately, though the guilding is somewhat generic."}
+{"item_id":"393446eac9","pass":true,"score":1.0,"reason":"Gives exactly the requested confirmation phrase."}
+{"item_id":"55ff7abd43","pass":true,"score":0.95,"reason":"Correctly picks the ocean scenario as more dangerous, with reasoning."}
+{"item_id":"653440a771","pass":true,"score":0.95,"reason":"Correct distinction with one example each."}
+{"item_id":"730af85a6b","pass":true,"score":1.0,"reason":"1945 is correct."}
+{"item_id":"d50ba74d6c","pass":true,"score":0.85,"reason":"Complete, practical Saturday and Sunday afternoon schedule for two people."}
+{"item_id":"b4982ffa10","pass":true,"score":0.7,"reason":"Sound phased plan with DNS TTL and reverse-proxy cutover options, though it has typos and thin database-sync detail."}
+{"item_id":"7819620bea","pass":true,"score":0.85,"reason":"Varied, healthy meal suggestions across the day with useful rules."}
+{"item_id":"609ac770be","pass":true,"score":0.75,"reason":"Structured ideas following the user's notes, though the origin of crypto is only lightly covered."}
+{"item_id":"8522113153","pass":false,"score":0.5,"reason":"The user wanted an apology that admits fault, but the answer avoids admitting fault and only expresses regret; borderline, and the advice to avoid the word 'breach' is questionable."}
+{"item_id":"40d717139d","pass":true,"score":0.65,"reason":"Covers each clause type with conflicts, risks and best practices, though fairly generic."}
+{"item_id":"457ae72248","pass":true,"score":0.95,"reason":"Two clear, parent-friendly sentences."}
+{"item_id":"45f75e755b","pass":false,"score":0.1,"reason":"The code uses nonexistent APIs (GetExecutor().RegisterExtender, FMenulet, StartupDestroyed) and an invalid ModuleType, so it will not compile or work."}
+{"item_id":"299dfe2769","pass":false,"score":0.2,"reason":"Misidentifies the language as Scala (it looks like Kotlin) and hallucinates the library's origins; it also wrongly claims the snippet handles padding, and its worked example is incorrect."}
+{"item_id":"4bbd89c62b","pass":false,"score":0.1,"reason":"The haiku does not rhyme as requested, and its last line has 6 syllables instead of 5."}
+{"item_id":"12b3ac2032","pass":true,"score":1.0,"reason":"LCM of 12 and 20 is 60, so 9:00 is correct."}
+{"item_id":"0caea7d6ab","pass":true,"score":0.7,"reason":"2574/54145 equals 198/4165 in value, but the answer wrongly calls it fully reduced."}
+{"item_id":"7ba54d27e1","pass":true,"score":0.65,"reason":"Core explanation is solid, but the summary table reverses the unemployment effects of contractionary and expansionary policy."}
+{"item_id":"df67a37362","pass":true,"score":0.85,"reason":"Accurate explanation of Section 230's protections and the controversy around it."}
+{"item_id":"8c39a71b90","pass":true,"score":0.9,"reason":"Correct reminder list with the right due dates and helpful tips."}
+{"item_id":"7ad902559a","pass":true,"score":0.85,"reason":"Gives two valid effects, Ottoman trade disruption and the push toward Atlantic exploration."}
+{"item_id":"97cc9a1f8a","pass":true,"score":0.8,"reason":"Correct mechanisms (SEI growth, electrolyte decomposition, metal dissolution), with a minor imprecision about lithium plating at high temperature."}
+{"item_id":"f09e7b609a","pass":true,"score":0.75,"reason":"Gives the standard answer, that she kicked it straight up, and mentions the wall alternative."}
+{"item_id":"6ffe9d7027","pass":true,"score":0.85,"reason":"Comprehensive and accurate document checklist with sensible caveats."}
+{"item_id":"91c40377e1","pass":true,"score":0.8,"reason":"Relevant checklist covering accuracy, escalation, testing, privacy and monitoring."}
+{"item_id":"35ae25b7c1","pass":true,"score":0.9,"reason":"Correct PoP = C × A explanation of what 70% means and does not mean."}
+{"item_id":"4288934719","pass":true,"score":0.9,"reason":"Accurate account of causes, phases, players and the Peace of Westphalia."}
+{"item_id":"198503b8a8","pass":true,"score":0.8,"reason":"Correct acid–base explanation and sensible use cases for vinegar."}
+{"item_id":"390cd9e8d9","pass":true,"score":0.85,"reason":"Extends the text with relevant content and stays under 200 words."}
+{"item_id":"b9a643e333","pass":true,"score":0.65,"reason":"Usable email draft with honest caveats about which policies apply, though the claimed violations are somewhat stretched."}
+{"item_id":"c3cea75d2a","pass":false,"score":0.25,"reason":"Does not actually price the cover or address the correlated, systemic nature of regional drought risk; it only lists product types."}
+{"item_id":"937fa63839","pass":true,"score":0.9,"reason":"Simple, accurate explanation of the 'limited Times' language."}
+{"item_id":"865363e935","pass":false,"score":0.3,"reason":"Does not implement the core requirements: it applies no rating filter to the union of shows, treats smb:// paths as single non-playable items, and has no episode sequencing or editing UI."}
+{"item_id":"a71c1cf691","pass":true,"score":0.85,"reason":"Clear explanation with one everyday example of each, suited to a presentation."}
+{"item_id":"07691dfe62","pass":true,"score":0.85,"reason":"Well-argued thesis using two contrasting novels, Remains of the Day and Lolita."}
+{"item_id":"b2c34abe51","pass":true,"score":0.85,"reason":"Accurate overview of collaborative filtering, content analysis and behavioural signals, with useful tips."}
+{"item_id":"7135409257","pass":true,"score":0.75,"reason":"Core definition and verification method are correct, with some sloppy examples such as SQL and assembly appearing on both sides."}
+{"item_id":"110aac60fb","pass":false,"score":0.2,"reason":"Contains serious errors: claims wa/ha and o/wo are interchangeable spellings, invents stroke 'visual tips', calls kana kanji, and gives wrong vocabulary such as 'sho' and 'bun'."}
+{"item_id":"d1b82c6a6c","pass":false,"score":0.45,"reason":"Omits the most common causes (nitrogen deficiency and early blight/septoria) and wrongly blames excess nitrogen for bottom-up yellowing."}
+{"item_id":"49689b50d4","pass":false,"score":0.05,"reason":"Gets the logic backwards: it recommends only pastries on weekdays and only bread on weekends, which reproduces the user's waste problem."}
+{"item_id":"d4002a64e2","pass":true,"score":0.9,"reason":"Accurate equation, stages and ecological roles of photosynthesis."}
+{"item_id":"d0aba9319e","pass":true,"score":0.65,"reason":"Reasonable breakdown of tenant, landlord and guest liability with a disclaimer, though some legal terms are loosely used."}
+{"item_id":"bfcbdfe975","pass":true,"score":0.6,"reason":"Sensible decision framework, though it lacks specifics like dilution, strike price and vesting."}

@@ -1,0 +1,20 @@
+{
+  "name": "clm-finetuned",
+  "kind": "Decision model, fine-tuned (local)",
+  "setup": "CLM (Qwen3-8B frozen), projection heads fine-tuned on eval_600 for the 3 tier options",
+  "notes": "ClmTierHead from ../clm/run_clm.py, warm start from CLM_v0.1-8B; latency includes the encoder call.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 32.5,
+    "balanced_accuracy": 41.6,
+    "recall_low": 26.1,
+    "recall_mid": 25.0,
+    "recall_high": 73.8,
+    "too_small": 5.5,
+    "too_big": 62.0,
+    "picks": "117/173/310",
+    "latency_ms_p50": 114.3,
+    "train_seconds": 65.5
+  },
+  "scored_at": "2026-10-16T15:30:49"
+}

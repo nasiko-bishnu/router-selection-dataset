@@ -1,0 +1,20 @@
+{
+  "name": "pr-292",
+  "kind": "PR, retrained",
+  "setup": "all-MiniLM-L6-v2 fine-tuned (last 2 layers + tier head), 3-class",
+  "notes": "Model and recipe as in ../retrain3/pr_292.py (16 epochs, best epoch on a 20% hold-out of eval_600).",
+  "metrics": {
+    "n": 600,
+    "accuracy": 29.0,
+    "balanced_accuracy": 37.9,
+    "recall_low": 20.7,
+    "recall_mid": 32.1,
+    "recall_high": 60.7,
+    "too_small": 8.3,
+    "too_big": 62.7,
+    "picks": "107/230/263",
+    "latency_ms_p50": 2.8,
+    "train_seconds": 32.1
+  },
+  "scored_at": "2026-10-16T14:52:10"
+}

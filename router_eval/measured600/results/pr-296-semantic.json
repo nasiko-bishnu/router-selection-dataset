@@ -1,0 +1,20 @@
+{
+  "name": "pr-296-semantic",
+  "kind": "PR, retrained",
+  "setup": "bge-small-en-v1.5 (fastembed) + shape features + LR (C=4), 3-class",
+  "notes": "Model as in ../retrain3/pr_296_semantic.py, trained on eval_600.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 28.5,
+    "balanced_accuracy": 37.0,
+    "recall_low": 19.9,
+    "recall_mid": 35.0,
+    "recall_high": 56.0,
+    "too_small": 9.2,
+    "too_big": 62.3,
+    "picks": "101/235/264",
+    "latency_ms_p50": 4.1,
+    "train_seconds": 1.8
+  },
+  "scored_at": "2026-10-16T14:51:32"
+}

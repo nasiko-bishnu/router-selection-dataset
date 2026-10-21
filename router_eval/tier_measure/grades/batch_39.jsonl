@@ -1,0 +1,50 @@
+{"item_id": "8d97c7afec", "pass": false, "score": 0.4, "reason": "Its conclusion to favour high-trust regions and penalise low-trust ones is ethically and logically shaky. It also says a high-trust region's vaccination 'protects' a high-infection region, which doesn't follow, and it contradicts its own 'Low Infection + High Trust: de-prioritize' rule."}
+{"item_id": "c3622f37b0", "pass": true, "score": 0.85, "reason": "Accurately covers what 2FA protects against and its main limits: social engineering, SIM swap, malware and weak recovery."}
+{"item_id": "55824ed504", "pass": true, "score": 0.85, "reason": "Covers the standard budgeting techniques accurately and with practical application."}
+{"item_id": "3a4b51ccf5", "pass": true, "score": 0.9, "reason": "Clear and accurate account of what a probation period is meant to achieve."}
+{"item_id": "cab7470454", "pass": false, "score": 0.45, "reason": "It redefines FHelloWorldPluginModule in the .cpp while including a header that the editor's Blank template already uses to declare that class, so it would likely fail to compile with a redefinition error; the steps are also muddled."}
+{"item_id": "2d78dfc545", "pass": true, "score": 0.9, "reason": "Gives practical filler ideas and sensible venue and safety guidance."}
+{"item_id": "0980ad8740", "pass": true, "score": 1.0, "reason": "121415 is correct and matches the reference, with the recurrence computed correctly."}
+{"item_id": "400013fe60", "pass": true, "score": 0.9, "reason": "Correctly explains both the speed benefit of caching and the stale-content problem, with mitigations."}
+{"item_id": "0034c10edd", "pass": true, "score": 0.85, "reason": "Accurate, concise orbital summary covering quantum numbers, orbital shapes and filling rules."}
+{"item_id": "5c7f9b1335", "pass": true, "score": 1.0, "reason": "=SUM(A1:A10) is correct."}
+{"item_id": "3e66caaa46", "pass": true, "score": 1.0, "reason": "30/120 = 25% is correct."}
+{"item_id": "7b5afadec6", "pass": true, "score": 0.85, "reason": "Sound first-aid steps (pressure, elevation, when to call emergency services)."}
+{"item_id": "eb471c8f3b", "pass": true, "score": 0.8, "reason": "A thorough and realistic blueprint, covering multimodal fusion, safety guardrails, human-in-the-loop use and regulatory approval."}
+{"item_id": "d1a542673f", "pass": true, "score": 0.95, "reason": "Correct macOS screenshot shortcuts and extras."}
+{"item_id": "cd5c5f38dc", "pass": false, "score": 0.45, "reason": "The overall framing is right (perfect secrecy for the one-time pad, pseudorandomness for AES). However, it ties AES indistinguishability to the Discrete Logarithm Problem, and it overstates that indistinguishability is 'proven' when it rests on an assumption about the cipher."}
+{"item_id": "5846835dbe", "pass": true, "score": 0.95, "reason": "Correctly explains contextlib.closing, notes ZipFile is a context manager since Python 3.2, and gives the rule for when to use each."}
+{"item_id": "2b4fa8b1f0", "pass": false, "score": 0.4, "reason": "Generic and partly inaccurate: it calls S3 single-threaded and misses Storj's actual mechanism of downloading more erasure-coded pieces than needed and cancelling the slowest."}
+{"item_id": "b6c5509e03", "pass": true, "score": 0.95, "reason": "The find command is correct and clearly explained, with a -mmin alternative."}
+{"item_id": "dc648d0f66", "pass": true, "score": 0.85, "reason": "Accurate and clear explanation of neural pathways and where they are located."}
+{"item_id": "854c64cc62", "pass": false, "score": 0.3, "reason": "The code is likely to fail: input_ids is never moved to the model's device, 'device_map' is the wrong attribute to check, and fp16 is risky on CPU. It also wrongly claims trust_remote_code is required and that a GPT-Neo GGUF works with llama.cpp."}
+{"item_id": "d298e75f51", "pass": true, "score": 0.9, "reason": "Correct, kid-friendly explanation of what a microscope is for."}
+{"item_id": "900d4ae95d", "pass": true, "score": 0.75, "reason": "Mostly sound chemistry and practical guidance; minor typo and an adsorption claim that is a bit loose."}
+{"item_id": "9bbca65dcb", "pass": true, "score": 0.95, "reason": "Correct: the Sun and Moon have nearly the same angular size, with the right numbers and eclipse context."}
+{"item_id": "cbda3adabb", "pass": true, "score": 0.7, "reason": "A reasonable, balanced answer to an opinion question, with sensible factors for ending slavery."}
+{"item_id": "d1a548c9eb", "pass": true, "score": 0.9, "reason": "Appropriately formal email built from the given message."}
+{"item_id": "e02644e6ed", "pass": true, "score": 0.9, "reason": "Accurate comparison of cold and flu, and the right warning signs for seeing a doctor."}
+{"item_id": "4defdc0cfa", "pass": true, "score": 0.85, "reason": "Gives three fitting names with rationale; the claim that 'Rise & Roast' rhymes is a minor slip."}
+{"item_id": "f2af430727", "pass": true, "score": 0.7, "reason": "Reasonable and well-supported answer, though somewhat absolute given that guidance often permits it with safeguards."}
+{"item_id": "80c8eaae6f", "pass": true, "score": 0.9, "reason": "Accurate description of backpropagation and its common challenges."}
+{"item_id": "a2cc426a02", "pass": true, "score": 0.6, "reason": "Covers the relevant skill areas, but is fairly generic and not prioritised for the user's existing background."}
+{"item_id": "2978e3395b", "pass": true, "score": 0.7, "reason": "A rhyming haiku about flying saucers with roughly correct syllable counts."}
+{"item_id": "e1f0b5296f", "pass": true, "score": 0.7, "reason": "Solid framework for how governing law, jurisdiction, liability and privacy clauses conflict, though with some typos."}
+{"item_id": "1df6c71a5b", "pass": true, "score": 0.9, "reason": "Sound positive-reinforcement plan with a week-by-week timeline."}
+{"item_id": "bb0751dbbe", "pass": false, "score": 0.35, "reason": "It misstates the ending: in the poem the mariners choose to stay in indolence, not to recognise the value of effort."}
+{"item_id": "3389382dce", "pass": true, "score": 0.95, "reason": "Correct quadratic formula and discriminant cases in LaTeX."}
+{"item_id": "8d6d82d024", "pass": true, "score": 0.85, "reason": "Three practical fixes with realistic cost ranges."}
+{"item_id": "afc3be6638", "pass": false, "score": 0.2, "reason": "It misreads the code: a and b hold base-BASE digits written in decimal, so %10 is intended. Its 'broken' verdict and rewritten function change the representation instead of explaining how the code works."}
+{"item_id": "efd72ab02c", "pass": true, "score": 0.9, "reason": "Clear and accurate explanation of CNNs with a good example."}
+{"item_id": "fb5356fa1d", "pass": true, "score": 0.85, "reason": "Provides the authors, title, introduction and a detailed table of contents, all fitting the alternate-history setting."}
+{"item_id": "22dc8f802f", "pass": true, "score": 0.9, "reason": "Balanced, well-reasoned weighing of the four candidate causes with a defensible conclusion."}
+{"item_id": "73c4dbc707", "pass": true, "score": 0.65, "reason": "Helpful guidance on describing characters, though it adds little real translation and renders the phrase loosely."}
+{"item_id": "b11941e1f5", "pass": true, "score": 0.75, "reason": "Working factorial page; the decimal check is ineffective because parseInt truncates, and there is no big-number handling."}
+{"item_id": "b3c4a9b6fd", "pass": true, "score": 0.9, "reason": "Clear and accurate explanation of threat intelligence and its uses."}
+{"item_id": "b50f77fed6", "pass": false, "score": 0.4, "reason": "Several clinical inaccuracies: it treats INR 3–4.5 as needing intervention, gives an odd IV vitamin K dose and rate, suggests routine bridging, and stops the antibiotic without weighing the infection."}
+{"item_id": "fec7451d8e", "pass": true, "score": 0.9, "reason": "Complete plan with a suitable film, start time and snacks."}
+{"item_id": "466c990aaf", "pass": true, "score": 0.9, "reason": "Accurate list of toxic foods plus symptoms and what to do."}
+{"item_id": "ab40bf5886", "pass": true, "score": 0.6, "reason": "Reasonable econometric approach (controls, IV, DiD, diagnostics); it omits price experiments and has some questionable instrument choices."}
+{"item_id": "cff9d0f272", "pass": true, "score": 1.0, "reason": "print(*range(1, 11)) is correct and clearly explained."}
+{"item_id": "b368843a9a", "pass": true, "score": 0.9, "reason": "Accurate and balanced explanation of Section 230."}
+{"item_id": "cf70a14279", "pass": false, "score": 0.35, "reason": "The progression is unsafe and unrealistic: it jumps from 3-minute run intervals in week 3 to 3 km continuous running in week 4, and reaches 5 km by the end of that week."}

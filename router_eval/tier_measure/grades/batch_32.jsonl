@@ -1,0 +1,50 @@
+{"item_id": "9397cc08e8", "pass": true, "score": 0.85, "reason": "Practical, well-organized survival and signalling plan that asks sensible follow-up questions."}
+{"item_id": "b0b69aaf31", "pass": true, "score": 0.7, "reason": "Sound inventory, sourcing and logistics strategy with delivery-promise handling, but a few garbled fragments of text."}
+{"item_id": "cb96845545", "pass": true, "score": 0.88, "reason": "Accurate and balanced comparison of Nick and Scout and how each shapes their story."}
+{"item_id": "ec160fb422", "pass": true, "score": 0.95, "reason": "Correct distinction with realistic use cases for both supervised and unsupervised learning."}
+{"item_id": "60208cf43e", "pass": true, "score": 0.88, "reason": "Identifies both risky clauses, explains the risks and offers safer alternatives."}
+{"item_id": "425285dd83", "pass": false, "score": 0.45, "reason": "Covers the plot elements, but the ornate, lyrical voice and the beautiful mutant child are not Judith Merril's plain, domestic, ironic style; generic."}
+{"item_id": "2be2ed4f61", "pass": true, "score": 0.88, "reason": "Meets the constraints: flower metaphor, cheek on cool glass, time slowing, avoids the banned words, mostly unrhymed and not bleak."}
+{"item_id": "9134a74a73", "pass": true, "score": 0.97, "reason": "145°F≈63°C, 160°F≈71°C and 170°F≈77°C are all correct and the rest of the text is unchanged."}
+{"item_id": "47e6796f52", "pass": true, "score": 0.9, "reason": "Three appropriate leg stretches with clear instructions."}
+{"item_id": "bca7f88859", "pass": true, "score": 0.88, "reason": "Correct MIME validation before compression, a sensible SVG skip and a backend-validation warning."}
+{"item_id": "d6daea33bf", "pass": false, "score": 0.2, "reason": "Misses the usual cause (allocator retention and fragmentation) and makes false claims such as the OS reclaiming memory immediately; the proof steps rely on invented tools and metrics."}
+{"item_id": "32e09e6537", "pass": true, "score": 0.92, "reason": "Accurate causes, effects and ecosystem impacts."}
+{"item_id": "9509730de4", "pass": true, "score": 0.85, "reason": "Balanced, accurate overview of perm health risks with precautions."}
+{"item_id": "fe94a6a5a8", "pass": false, "score": 0.25, "reason": "Simplistic one-engineer-per-weekend list that barely uses the time zones and gives no real follow-the-sun or coverage design."}
+{"item_id": "ab53a5316c", "pass": true, "score": 0.9, "reason": "Correctly explains intestate succession hierarchy, administrator and escheat."}
+{"item_id": "5080fbae95", "pass": true, "score": 0.62, "reason": "Covers strategies and names main tests (compactness, efficiency gap, population equality), but includes a fabricated 'Bipartisan-Partisan Test' and some inaccuracies."}
+{"item_id": "acb18fe3e5", "pass": true, "score": 0.62, "reason": "Works for the basic case, but the claim that adding 24h is DST-safe is wrong and UTC-parsed dates with local getters can cause off-by-one keys."}
+{"item_id": "992f5ccf92", "pass": true, "score": 0.65, "reason": "Gives valid indexOf with splice or filter solutions, but the worked example [10,30,30,40] is stated wrongly as [10,40,30]."}
+{"item_id": "56da28f86a", "pass": true, "score": 0.7, "reason": "Reasonable explanation of when to use and avoid confrontation, though the link to MI and CBT is shaky."}
+{"item_id": "d80bbb7164", "pass": true, "score": 0.9, "reason": "One clear advantage and one clear disadvantage, as asked."}
+{"item_id": "717e4e8792", "pass": true, "score": 0.62, "reason": "Honestly states that it lacks context for here, now and me and may rely on assumptions or training biases, though it doesn't say what defaults it uses."}
+{"item_id": "e8263a3eea", "pass": true, "score": 0.8, "reason": "Plausible tail-latency causes and a sensible diagnostic approach."}
+{"item_id": "b31581000a", "pass": true, "score": 0.98, "reason": "Correct roots (-1±√5)/2 with clear steps."}
+{"item_id": "88bdd308b1", "pass": true, "score": 0.8, "reason": "Feasible recipe from the listed ingredients and appliances, only mentioning black pepper as optional."}
+{"item_id": "6086322aac", "pass": true, "score": 0.6, "reason": "Addresses the dilemma and reaches a decision, though some reasoning is muddled (e.g. erasing people who are already dead)."}
+{"item_id": "e4ecfb3154", "pass": true, "score": 0.85, "reason": "Reasonable calorie ranges and the correct Mifflin-St Jeor method, with a tiny arithmetic slip (1740 vs 1745)."}
+{"item_id": "101be957c2", "pass": true, "score": 0.92, "reason": "Clear, correct explanation of generators with a working example."}
+{"item_id": "0d9bc67d80", "pass": true, "score": 0.95, "reason": "Correctly names unconscionability with its procedural and substantive aspects."}
+{"item_id": "d06b04ce4d", "pass": true, "score": 0.82, "reason": "Covers the genuinely hard parts of SfM: matching, outliers, pose, scale ambiguity, bundle adjustment."}
+{"item_id": "fbe1266e36", "pass": true, "score": 0.9, "reason": "Accurate, intuitive explanation of CNN layers and learning."}
+{"item_id": "07ffaa27aa", "pass": true, "score": 0.93, "reason": "Correctly identifies chloramine (and hydrazine) hazards and the health effects."}
+{"item_id": "01b39db2b8", "pass": true, "score": 0.7, "reason": "Identifies and fixes the main errors; the first corrected version still has 'transfering' but the final polished version is correct."}
+{"item_id": "43db5f89fe", "pass": true, "score": 0.88, "reason": "Thorough comparison of cash flow, risk and timing with a practical recommendation."}
+{"item_id": "ab4351855f", "pass": true, "score": 0.85, "reason": "Gives three plausible common causes with fixes."}
+{"item_id": "234a60067b", "pass": false, "score": 0.45, "reason": "The prompt has no clear request; the analysis misreads the notation (the set equals all nights) and wrongly invokes Russell's paradox, so it is unsure and partly incorrect."}
+{"item_id": "f3fb0122f4", "pass": true, "score": 0.72, "reason": "Gives a sensible practical interpretation and caution, though it omits the legal meaning of good faith."}
+{"item_id": "82250e6e72", "pass": true, "score": 0.85, "reason": "Clear allegory summary with a thoughtful tie to mathematical abstraction."}
+{"item_id": "70ba07f85d", "pass": true, "score": 0.9, "reason": "About 100 words, engaging for teenagers, accurate details."}
+{"item_id": "c61fa85bf0", "pass": true, "score": 0.98, "reason": "Critical path A→B→D gives 8 days, correct."}
+{"item_id": "808b3f496f", "pass": false, "score": 0.3, "reason": "Generic advice that never explains how to close the gap with no salary cuts and a fixed budget (e.g. targeted adjustments or phasing)."}
+{"item_id": "53b2f665f3", "pass": true, "score": 0.85, "reason": "Valid Latin renderings of 'My heart is like a flower'."}
+{"item_id": "9873292dcf", "pass": false, "score": 0.45, "reason": "Gives plausible reasons for disagreement but is generic and never commits on which result holds up; it omits the key finding from meta-analyses that fat loss is similar when energy expenditure and diet are matched, and it hedges with 'both can work'."}
+{"item_id": "80ec085ccc", "pass": true, "score": 0.88, "reason": "Accurate summary and five relevant key takeaways."}
+{"item_id": "637c70b69c", "pass": false, "score": 0.3, "reason": "Code contains a syntax error in the Python headers and a 'stylestyle' typo that would break the front end, so it won't run as given."}
+{"item_id": "68ad977cfb", "pass": true, "score": 0.9, "reason": "Practical, accurate melody-writing tips and an exercise."}
+{"item_id": "1ac9721282", "pass": true, "score": 0.68, "reason": "Covers full-disk encryption, 3-2-1 backups, MFA and a stolen-device response, with a few odd details."}
+{"item_id": "7c2e0b05e8", "pass": true, "score": 0.9, "reason": "Accurate explanation of elliptic curves, ECDLP and key-size equivalence with RSA."}
+{"item_id": "13994b4d47", "pass": true, "score": 0.75, "reason": "Covers benefits, technical and social challenges, and privacy techniques comprehensively, if somewhat optimistic."}
+{"item_id": "b53011bcc3", "pass": true, "score": 0.85, "reason": "Offers a correct, natural Latin translation with a variant."}
+{"item_id": "80a726187d", "pass": false, "score": 0.4, "reason": "The user explicitly asked for time for a shower, but the routine has none; the meditation timings are also inconsistent."}

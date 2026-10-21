@@ -1,0 +1,50 @@
+{"item_id": "54cc185819", "pass": true, "score": 0.9, "reason": "Accurate account of lattice enthalpy versus hydration enthalpy, melting point, and 'like dissolves like'."}
+{"item_id": "62dab82b94", "pass": true, "score": 0.85, "reason": "Sensible: a typo rarely invalidates a contract, but a full read-through or legal review is wise."}
+{"item_id": "9cd562201c", "pass": true, "score": 0.9, "reason": "Good packing list with storm-safety advice and an early-start recommendation."}
+{"item_id": "fe1bce175c", "pass": true, "score": 0.95, "reason": "Gives two valid readability tips."}
+{"item_id": "6dc2ebb5d3", "pass": true, "score": 0.9, "reason": "Complete and accurate document checklist."}
+{"item_id": "b310486df7", "pass": true, "score": 0.85, "reason": "Evocative paragraph in a GRRM feast style about the BigMac meal."}
+{"item_id": "3c1952eda0", "pass": true, "score": 0.75, "reason": "Correctly explains that YAML serializes API objects and notes Podman's subset support, though it is somewhat vague on which kinds Podman honors."}
+{"item_id": "32b15b0346", "pass": false, "score": 0.4, "reason": "A simple weekly round-robin that trivially avoids back-to-back weekends but ignores the three-time-zone constraint, such as follow-the-sun or night coverage."}
+{"item_id": "9c44c0b180", "pass": true, "score": 0.9, "reason": "Accurate comparison of tea and coffee."}
+{"item_id": "9d2d5c6ef1", "pass": false, "score": 0.45, "reason": "The plot elements are present, but the prose is generic and melodramatic rather than Merril's spare domestic style, and the 'technical lieutenant' is barely used."}
+{"item_id": "0014940710", "pass": true, "score": 1.0, "reason": "Correct on diagonal movement and no jumping."}
+{"item_id": "e8ac306b47", "pass": true, "score": 0.9, "reason": "Gives an opening line, memory, and closing wish in several tones."}
+{"item_id": "cf05fe6e67", "pass": false, "score": 0.05, "reason": "Fails to deliver ten titles; the answer is a rambling self-correction with invalid examples."}
+{"item_id": "f39b8fe556", "pass": true, "score": 0.9, "reason": "Clear and insightful explanation of creativity in marketing."}
+{"item_id": "e27645753b", "pass": true, "score": 0.85, "reason": "Correct shut-off and verification steps, with minor imprecision in the valve-type descriptions."}
+{"item_id": "431481d7af", "pass": true, "score": 0.9, "reason": "Identifies GC pauses and gives appropriate confirming evidence."}
+{"item_id": "d949161edf", "pass": true, "score": 0.95, "reason": "Correct ser/estar rules and valid contrast examples (listo, aburrido)."}
+{"item_id": "2740cc9990", "pass": true, "score": 0.8, "reason": "Five reasonable, mostly low-effort passive income ideas suited to a 60-hour work week."}
+{"item_id": "cc23ac7565", "pass": true, "score": 1.0, "reason": "Solid, liquid, gas."}
+{"item_id": "7f2b8610cc", "pass": true, "score": 0.9, "reason": "Accurate account of the short-run and long-run Phillips curve and the Friedman–Phelps critique."}
+{"item_id": "dbf37a05da", "pass": true, "score": 0.75, "reason": "Relevant bullet points, though not quantified."}
+{"item_id": "13b4a2913b", "pass": true, "score": 0.9, "reason": "Well-reasoned recommendation of a web API with an optional CLI wrapper."}
+{"item_id": "953a967aaf", "pass": true, "score": 0.95, "reason": "Correct find command with a clear explanation."}
+{"item_id": "72a80638b9", "pass": true, "score": 0.9, "reason": "Thorough, honest, and practical starting steps with a realistic reality check."}
+{"item_id": "a98c563980", "pass": true, "score": 0.95, "reason": "Gives one correct reason: slowed chemical reactions in the cold."}
+{"item_id": "1b69f4c4d6", "pass": true, "score": 0.7, "reason": "Delivers a good Lovecraftian retelling, though the preface wrongly claims it can't imitate his style."}
+{"item_id": "294b32aa80", "pass": true, "score": 1.0, "reason": "Correct: 998,910."}
+{"item_id": "258b0ea91f", "pass": true, "score": 0.85, "reason": "Complete, plausible plugin walkthrough with accurate structure and code."}
+{"item_id": "97b5707f55", "pass": true, "score": 0.8, "reason": "Structured and substantively sound analysis of all four clause areas with mitigations."}
+{"item_id": "f00b9a668e", "pass": false, "score": 0.1, "reason": "Major factual errors: Electron's payload is about 300 kg, not 1,100 or 3,400 kg; it has no solid-fuel 'Raptor' stage; there is no Electron XL variant as described; and 'Starbase' is not a Rocket Lab site."}
+{"item_id": "ce68512621", "pass": true, "score": 0.6, "reason": "Usable catchy slogans, though the science claims are fluffy and there is a stray typo."}
+{"item_id": "7007137e3e", "pass": true, "score": 0.9, "reason": "Clear explanation and a good checklist."}
+{"item_id": "380cf29dc3", "pass": true, "score": 1.0, "reason": "Correct: 45 rupees, with the arithmetic shown."}
+{"item_id": "08e9bffe5b", "pass": true, "score": 0.6, "reason": "Gives a generally correct location (Orion Arm, about 27,000 ly out), though it is somewhat generic and imprecise."}
+{"item_id": "e5fb54167b", "pass": true, "score": 0.9, "reason": "Gives two valid reasons for rising prices."}
+{"item_id": "b2ade2cd74", "pass": true, "score": 1.0, "reason": "Two correct coverages named."}
+{"item_id": "ed9a750d3d", "pass": true, "score": 1.0, "reason": "Correct mean and median with a clear explanation."}
+{"item_id": "8475cbb060", "pass": true, "score": 1.0, "reason": "Correct: 998,910."}
+{"item_id": "05b31551d0", "pass": true, "score": 0.85, "reason": "Covers transmission and emission methods and plausible confounders such as stellar activity and systematics."}
+{"item_id": "3bb29e5aa6", "pass": true, "score": 1.0, "reason": "Correctly resolves the riddle: a man with a widow is dead."}
+{"item_id": "2ee45a5faf", "pass": false, "score": 0.05, "reason": "Accepts the illegal move 1. Nf3 (the knights are on a1 and d1) and supplies a garbled, incorrect FEN."}
+{"item_id": "f970c5cd5b", "pass": true, "score": 0.85, "reason": "Covers full-disk encryption, off-site backups, MFA, remote wipe, and access rules appropriately."}
+{"item_id": "3224e146f8", "pass": false, "score": 0.4, "reason": "Budget is not reliably under €600 (the estimate runs to €660), the Turin–Lyon leg is dubious, and museums appear on every day rather than two."}
+{"item_id": "e26f232150", "pass": true, "score": 1.0, "reason": "Correct: 25% off (2.25P) beats the 2.5P deal."}
+{"item_id": "860c6e0c0b", "pass": true, "score": 0.75, "reason": "Plausible range of defense arguments for a hypothetical legal system."}
+{"item_id": "fb7e5d581a", "pass": true, "score": 0.95, "reason": "Correct: don't put diesel in a gasoline car; gives alternatives."}
+{"item_id": "77d410a1e1", "pass": true, "score": 0.65, "reason": "Offers a reasonable approach, though it is generic."}
+{"item_id": "3df1b9a76c", "pass": false, "score": 0.5, "reason": "The code is correct, but the answer falsely claims it outputs 2 for '9990' vs 'A991', which actually differ by 3 bits, and it does not flag the discrepancy."}
+{"item_id": "51efaada57", "pass": true, "score": 0.85, "reason": "Relevant game recommendations with reasons."}
+{"item_id": "7f065df809", "pass": true, "score": 0.9, "reason": "Child-friendly and correct explanation of moon phases."}

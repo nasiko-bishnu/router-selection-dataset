@@ -1,0 +1,19 @@
+{
+  "name": "d3-flash-zeroshot",
+  "kind": "Decision model, zero-shot (local)",
+  "setup": "d3-flash asked low / mid / high, top option",
+  "notes": "vllm-sr/d3-flash on the Mac GPU (PyTorch path, no ROCm kernels), Jev's LEVEL_QUESTION; latency includes the 9B backbone.",
+  "metrics": {
+    "n": 600,
+    "accuracy": 50.5,
+    "balanced_accuracy": 48.3,
+    "recall_low": 45.7,
+    "recall_mid": 85.0,
+    "recall_high": 14.3,
+    "too_small": 15.2,
+    "too_big": 34.3,
+    "picks": "198/386/16",
+    "latency_ms_p50": 681.9
+  },
+  "scored_at": "2026-10-16T11:56:09"
+}

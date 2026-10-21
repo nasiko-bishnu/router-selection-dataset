@@ -1,0 +1,50 @@
+{"item_id":"e7bbecf4f5","pass":false,"score":0.3,"reason":"Concept is right, but the code is broken: an abandoned stub, a syntax error (`curr == nextNode.tag + 1`), and `return error`."}
+{"item_id":"3b3811f9b2","pass":true,"score":0.9,"reason":"Gives a structured, child-focused process covering jurisdiction, mediation, neutral experts, the teen's views and a concrete protocol."}
+{"item_id":"b23e036d84","pass":false,"score":0.2,"reason":"No English clause was supplied. The answer invents a clause and translates it instead of asking for the text or giving a method."}
+{"item_id":"206692f2b8","pass":false,"score":0.4,"reason":"Generic and partly anachronistic (subconscious, vibration, polarity). It misses Levi's core elements such as astral light, the Tarot and the Baphomet imagery."}
+{"item_id":"6c627c39d0","pass":false,"score":0.1,"reason":"The neural network code is buggy: `layerOutputs.push` mixes arrays and numbers, and the backward pass and error calculations are wrong, so it will not train."}
+{"item_id":"5e20e00ee9","pass":true,"score":0.85,"reason":"Covers principles, Gantt charts, agile and risk management, and how they keep a project on time and on budget."}
+{"item_id":"3aa809e4bb","pass":false,"score":0.45,"reason":"Omits the main modern protections (nirsevimab, maternal RSV vaccine) and mentions only palivizumab, so the answer is outdated and incomplete."}
+{"item_id":"94d546c8cd","pass":true,"score":0.85,"reason":"Clear, accurate explanation of creativity in marketing."}
+{"item_id":"5a16e54305","pass":true,"score":0.9,"reason":"Sound self-care advice with appropriate red-flag warnings."}
+{"item_id":"c7e1974d8f","pass":true,"score":0.85,"reason":"Catchy song that conveys carbon's importance accurately."}
+{"item_id":"1156d36df8","pass":true,"score":0.95,"reason":"Correctly explains weightlessness as free fall, with gravity at about 90%."}
+{"item_id":"ed24f9433c","pass":true,"score":0.75,"reason":"Michael-Scott queue with counted head and tail pointers, a reasonable ABA argument, and a note that safe reclamation is still needed."}
+{"item_id":"a4c0c0ed3a","pass":true,"score":0.9,"reason":"Accurate, thorough account of self-play, MCTS and the policy/value network pipeline."}
+{"item_id":"54bc213d23","pass":true,"score":0.95,"reason":"Correct BFS with deque, complexity analysis and useful tips."}
+{"item_id":"7cc567b9f8","pass":true,"score":0.95,"reason":"Accurate distinction between survey and excavation."}
+{"item_id":"16b2039275","pass":true,"score":0.9,"reason":"Correctly identifies confounding and says the curriculum cannot take clear credit, with ways to strengthen the claim."}
+{"item_id":"ad1b5cb7b6","pass":true,"score":0.9,"reason":"Gives a correct one-liner and notes JS has no list comprehensions."}
+{"item_id":"470bf0d450","pass":true,"score":0.85,"reason":"Sincere, well-formed apology letter."}
+{"item_id":"75f3cf29be","pass":true,"score":0.75,"reason":"Reasonable explanation of the term difference, with the caveat that usage varies."}
+{"item_id":"4295e6a762","pass":true,"score":0.9,"reason":"Practical, varied healthy meal suggestions."}
+{"item_id":"4c3f778dd5","pass":true,"score":0.95,"reason":"Correctly states that a player level with the second-last defender is onside, with an example."}
+{"item_id":"84d87d4448","pass":true,"score":0.9,"reason":"Balanced, sensible decision path among monitoring, drainage and underpinning."}
+{"item_id":"a60186f677","pass":false,"score":0.4,"reason":"Falsely claims alcohol sanitizers are less effective against flu because it is an enveloped virus; enveloped viruses are in fact susceptible to alcohol."}
+{"item_id":"cb89657011","pass":true,"score":0.95,"reason":"Correct bishop movement and no jumping."}
+{"item_id":"b76faac69f","pass":true,"score":0.9,"reason":"Comprehensive encryption, backup and access plan with a stolen-device response."}
+{"item_id":"150f9a934c","pass":true,"score":0.85,"reason":"Correct contrast under the stated assumption of a uniform vote split across districts."}
+{"item_id":"678f55715a","pass":true,"score":0.85,"reason":"Two sensible rules, a hard stop and a parking lot."}
+{"item_id":"b82b9e13fc","pass":true,"score":0.9,"reason":"Accurate explanation of diversification, with pros and cons."}
+{"item_id":"b53763129a","pass":true,"score":0.9,"reason":"Persuasive op-ed that treats the logistics counterargument fairly."}
+{"item_id":"66937d54b3","pass":true,"score":0.8,"reason":"Thorough defense framework: vagueness, overbreadth, due process and intent."}
+{"item_id":"01b53837d4","pass":true,"score":0.95,"reason":"Correct macOS screenshot shortcuts."}
+{"item_id":"f5c8d46524","pass":true,"score":0.8,"reason":"Method and result are right (about 22,800 kg/m³), with a small arithmetic slip that does not change the rounded value."}
+{"item_id":"97ac860055","pass":true,"score":0.85,"reason":"Balanced coverage of UBI benefits and challenges."}
+{"item_id":"d2c70773c6","pass":true,"score":0.7,"reason":"Three valid questions with an answer key. The distractors are weak but it meets the request."}
+{"item_id":"0651bcbddd","pass":true,"score":0.9,"reason":"Rich, fitting character description reflecting survival in the wild."}
+{"item_id":"49a44a9c09","pass":true,"score":0.75,"reason":"Sound approach using complexity weighting and normalised metrics."}
+{"item_id":"3a1c036c05","pass":true,"score":1.0,"reason":"Correct mean of 8 with the arithmetic shown."}
+{"item_id":"b73956d542","pass":true,"score":0.75,"reason":"States its assumptions and computes the buy and lease totals correctly."}
+{"item_id":"c009c30206","pass":false,"score":0.45,"reason":"Gives only a feature checklist and misses the real method of simulating a Turing machine or reducing to a known Turing-complete system. The verdict that computing pi or playing chess proves completeness is wrong."}
+{"item_id":"80926fe5b6","pass":true,"score":0.9,"reason":"Michael-Scott queue with tagged pointers, linearization points, invariants and the need for safe memory reclamation."}
+{"item_id":"8dc38cb2de","pass":true,"score":0.75,"reason":"All three equations are handled correctly, and the third gives a numerical root of about 0.558, though the working there is messy."}
+{"item_id":"9840828a3d","pass":false,"score":0.3,"reason":"The user asked for specific violated policies, but the email only gestures vaguely at 'privacy and communication policies' and names none."}
+{"item_id":"aee1a7c6d3","pass":true,"score":0.9,"reason":"Clear, accurate explanation of the limited-times balance."}
+{"item_id":"2156f8417c","pass":true,"score":0.85,"reason":"Appropriate checklist of documents to bring."}
+{"item_id":"90379d95e2","pass":true,"score":0.95,"reason":"Correctly recommends the median for skewed data, with a valid example."}
+{"item_id":"087e812e5a","pass":true,"score":0.65,"reason":"Provides a usable mnemonic from the clock and heart primitives."}
+{"item_id":"d3b80179f2","pass":true,"score":0.65,"reason":"Acknowledges the naming is misleading and that 1:1 is better for aiming, though it explains the rationale only thinly."}
+{"item_id":"cf5fa87e18","pass":true,"score":0.95,"reason":"Correct isEven function with a test."}
+{"item_id":"c03aabc85a","pass":false,"score":0.45,"reason":"Formulas are muddled and inconsistent, draws are ignored, and it lacks a connected rating approach (Elo/Bradley-Terry) for regions that rarely meet."}
+{"item_id":"e44a622da5","pass":true,"score":0.9,"reason":"Accurate debunking of the myth and explanation of Maillard browning."}

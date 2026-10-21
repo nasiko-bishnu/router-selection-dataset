@@ -1,0 +1,50 @@
+{"item_id": "08312ff722", "pass": true, "score": 0.8, "reason": "Covers guilds, varieties and Italian herbs accurately with sensible suggestions."}
+{"item_id": "efc52fc2e9", "pass": true, "score": 0.85, "reason": "A valid, workable basic cake recipe with clear steps."}
+{"item_id": "09135014fd", "pass": true, "score": 1.0, "reason": "Correct: 12 km, matching the reference."}
+{"item_id": "17f6f4a673", "pass": false, "score": 0.15, "reason": "Falsely claims ZipFile lacks context-manager support before Python 3.10; it has supported `with` since 2.7/3.2."}
+{"item_id": "37756ca5b9", "pass": true, "score": 1.0, "reason": "Correct distinction with one example of each."}
+{"item_id": "ce8c1ff294", "pass": true, "score": 0.95, "reason": "f''=12x-10 gives concave up on (5/6,∞), so E is correct."}
+{"item_id": "dfb30bbb0b", "pass": true, "score": 0.95, "reason": "Clear plain-language rewrite with good examples."}
+{"item_id": "52245a7896", "pass": false, "score": 0.1, "reason": "Fabricates sources (Bennett 1989 paper, Horgan book) and misattributes Deutsch; the real origin (Rosenblueth/Wiener cat quote) is missing."}
+{"item_id": "8b6fd14f06", "pass": true, "score": 0.95, "reason": "Two sensible, practical rules."}
+{"item_id": "e51e290370", "pass": true, "score": 0.85, "reason": "Balanced, accurate use of London and Stockholm evidence for traffic, shops and low-income commuters."}
+{"item_id": "dae080ebe4", "pass": true, "score": 0.7, "reason": "Five reasonable passive income ideas, though some need upfront capital or ongoing work."}
+{"item_id": "fc1c45f77f", "pass": true, "score": 0.65, "reason": "Covers itinerary, visas, step-free transport and medicines sensibly, though it assumes nationality and omits Paris Metro accessibility problems."}
+{"item_id": "40bdf39bc2", "pass": true, "score": 0.95, "reason": "Thorough, accurate treatment of the cryptographic design and the technical and social challenges."}
+{"item_id": "ae5f301593", "pass": false, "score": 0.2, "reason": "Doesn't say what is sung, and the claims about Old Norse and unpublished lyrics are unsupported speculation."}
+{"item_id": "48551f743b", "pass": true, "score": 0.65, "reason": "Main mechanisms (SEI growth, electrolyte decomposition, cathode degradation) are right, but the lithium-plating-at-rest claim is dubious."}
+{"item_id": "97574238fd", "pass": true, "score": 1.0, "reason": "13/27 is correct and the derivation is sound."}
+{"item_id": "34a8aff4cd", "pass": true, "score": 0.95, "reason": "Correct strategy and complete case logic; only a trivial typo."}
+{"item_id": "c5dd734c8d", "pass": false, "score": 0.45, "reason": "Barely addresses the differing school schedules, sets no limits for school days, and relies on placeholders and odd chore-credit logic."}
+{"item_id": "cbf1e91e27", "pass": true, "score": 0.85, "reason": "Rigorous, practical diagnostic methodology with proof criteria for allocator retention versus live memory."}
+{"item_id": "ca69e5d485", "pass": true, "score": 0.9, "reason": "Catchy, accurate song covering carbon's importance."}
+{"item_id": "41bde5e0b7", "pass": true, "score": 0.6, "reason": "Covers the Arrhenius effect and the SEI and cathode mechanisms, but misattributes electrolyte oxidation to the anode and overstates dendrites."}
+{"item_id": "7da8d8938f", "pass": true, "score": 0.9, "reason": "Correct definitions with good examples of false claims."}
+{"item_id": "41968a2f48", "pass": true, "score": 0.8, "reason": "Plenty of practical no-fire meal ideas."}
+{"item_id": "b90cb4af53", "pass": false, "score": 0.0, "reason": "Rambles and repeats itself, then cuts off with no final answer."}
+{"item_id": "e5e78787e9", "pass": false, "score": 0.5, "reason": "The XOR/popcount code is correct, but it claims '9990','A991' gives 2 when it actually returns 3, and never flags the discrepancy."}
+{"item_id": "96bb23fc1c", "pass": true, "score": 0.95, "reason": "A rhyming haiku with correct 5-7-5 syllables."}
+{"item_id": "3be53ce030", "pass": true, "score": 0.65, "reason": "Reasoned choice of solar with caveats and a hybrid option, though the wind-versus-solar reasoning is somewhat muddled."}
+{"item_id": "1f6c08e6dc", "pass": true, "score": 0.9, "reason": "Three fitting bakery names."}
+{"item_id": "5b3ae1adb8", "pass": true, "score": 0.85, "reason": "Accurate comparison of dish soap and hand soap."}
+{"item_id": "e40bca9372", "pass": true, "score": 0.85, "reason": "Sound definition, with appropriate and inappropriate uses clearly set out."}
+{"item_id": "a5067230fc", "pass": true, "score": 0.9, "reason": "Complete lesson plan with engaging barter, credit and currency simulation games."}
+{"item_id": "efe220aba4", "pass": true, "score": 0.95, "reason": "Clear, correct, beginner-friendly explanation."}
+{"item_id": "17237d9ae1", "pass": true, "score": 0.6, "reason": "A good framework, but omits equity specifics (strike price, dilution, preferences) and misattributes regret minimization to Cal Newport (it is Bezos's)."}
+{"item_id": "0276ddd196", "pass": true, "score": 1.0, "reason": "Correct query."}
+{"item_id": "f83a70efa2", "pass": true, "score": 0.9, "reason": "Fixes the genuine errors (rub, wished to, return back, agreement)."}
+{"item_id": "6dc39aa042", "pass": true, "score": 0.65, "reason": "Relevant art sites, but the Medici Chapels' walking time is overstated and there is a stray character."}
+{"item_id": "1d8b92b4c6", "pass": true, "score": 0.8, "reason": "Sensible, context-dependent analysis of whether the line is funny or offensive."}
+{"item_id": "a4b9fa89cd", "pass": true, "score": 1.0, "reason": "LCM is 60 minutes, so 9:00 is correct."}
+{"item_id": "5c1d316b29", "pass": true, "score": 0.9, "reason": "Accurate and clear."}
+{"item_id": "0428121b1c", "pass": true, "score": 0.9, "reason": "Three practical, well-justified practice ideas."}
+{"item_id": "ebbae0143b", "pass": true, "score": 0.8, "reason": "Reasonable recommendation with conditions."}
+{"item_id": "ee2363511b", "pass": false, "score": 0.45, "reason": "Gives no carb counts or calories and little on insulin timing for meals, despite the request."}
+{"item_id": "0ed80f4f09", "pass": true, "score": 0.7, "reason": "Plausible causes and fixes, though it omits fungal diseases such as early blight and septoria."}
+{"item_id": "6835195039", "pass": true, "score": 1.0, "reason": "Correct French translation."}
+{"item_id": "b9690b6574", "pass": true, "score": 0.9, "reason": "Correct: level with the last defender is onside, with a clear example."}
+{"item_id": "ee9e9a1391", "pass": true, "score": 0.7, "reason": "Reasonable coverage of accuracy, diversity and health implications, though fairly generic."}
+{"item_id": "4fff7dca0c", "pass": true, "score": 0.95, "reason": "Correct botanical versus culinary distinction with examples."}
+{"item_id": "8439653a98", "pass": true, "score": 0.6, "reason": "Decent overview, but wrongly calls the anonymity-verifiability tension unsolved, implies a public tally while preserving secrecy, and misstates Estonia's system."}
+{"item_id": "ccbad65440", "pass": true, "score": 1.0, "reason": "Correct: '+' denotes check."}
+{"item_id": "43f5f7296f", "pass": true, "score": 1.0, "reason": "121,415 is correct and matches the reference."}
