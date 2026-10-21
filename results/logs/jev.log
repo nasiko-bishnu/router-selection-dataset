@@ -1,0 +1,8 @@
+  jev: 100/600 new answers
+  jev: 200/600 new answers
+  jev: 300/600 new answers
+  jev: 400/600 new answers
+  jev: 500/600 new answers
+  jev: 600/600 new answers
+jev: 600 answers, models ['jev-1.13.0'], cost $0.0131
+jev-direct: accuracy 59.5% | balanced 45.6% | recall low/mid/high 70.5/65.0/1.2% | picks 336/263/1

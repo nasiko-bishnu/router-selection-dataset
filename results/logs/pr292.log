@@ -1,0 +1,9 @@
+W1016 14:51:36.258000 64182 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+  selected epoch 16 (val acc 0.700)
+  pr-292: 0/600
+  pr-292: 100/600
+  pr-292: 200/600
+  pr-292: 300/600
+  pr-292: 400/600
+  pr-292: 500/600
+pr-292: accuracy 29.0% | balanced 37.8% | recall low/mid/high 20.7/32.1/60.7% | picks 107/230/263

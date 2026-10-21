@@ -1,0 +1,58 @@
+loaded in 6 s on mps
+  d3 train 0/600
+  d3 train 25/600
+  d3 train 50/600
+  d3 train 75/600
+  d3 train 100/600
+  d3 train 125/600
+  d3 train 150/600
+  d3 train 175/600
+  d3 train 200/600
+  d3 train 225/600
+  d3 train 250/600
+  d3 train 275/600
+  d3 train 300/600
+  d3 train 325/600
+  d3 train 350/600
+  d3 train 375/600
+  d3 train 400/600
+  d3 train 425/600
+  d3 train 450/600
+  d3 train 475/600
+  d3 train 500/600
+  d3 train 525/600
+  d3 train 550/600
+  d3 train 575/600
+  d3 test 0/600
+  d3 test 25/600
+  d3 test 50/600
+  d3 test 75/600
+  d3 test 100/600
+  d3 test 125/600
+  d3 test 150/600
+  d3 test 175/600
+  d3 test 200/600
+  d3 test 225/600
+  d3 test 250/600
+  d3 test 275/600
+  d3 test 300/600
+  d3 test 325/600
+  d3 test 350/600
+  d3 test 375/600
+  d3 test 400/600
+  d3 test 425/600
+  d3 test 450/600
+  d3 test 475/600
+  d3 test 500/600
+  d3 test 525/600
+  d3 test 550/600
+  d3 test 575/600
+saved features to /Users/bishnuagarwal/.cache/xroutebench/d3_m600_features.npz
+d3-flash-zeroshot: accuracy 50.5% | balanced 48.3% | recall low/mid/high 45.7/85.0/14.3% | picks 198/386/16
+  d3-flash-finetuned: 0/600
+  d3-flash-finetuned: 100/600
+  d3-flash-finetuned: 200/600
+  d3-flash-finetuned: 300/600
+  d3-flash-finetuned: 400/600
+  d3-flash-finetuned: 500/600
+d3-flash-finetuned: accuracy 35.8% | balanced 43.6% | recall low/mid/high 29.0/36.4/65.5% | picks 127/251/222

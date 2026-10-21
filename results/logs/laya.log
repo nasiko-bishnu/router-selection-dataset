@@ -1,0 +1,107 @@
+W1016 14:51:30.041000 64146 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+  return Agent(model_id_or_path, device=device, token=token, subfolder=subfolder, fast=fast,
+  laya-english-zeroshot: 0/600
+  laya-english-zeroshot: 100/600
+  laya-english-zeroshot: 200/600
+  laya-english-zeroshot: 300/600
+  laya-english-zeroshot: 400/600
+  laya-english-zeroshot: 500/600
+laya-english-zeroshot: accuracy 23.3% | balanced 33.3% | recall low/mid/high 0.0/100.0/0.0% | picks 0/600/0
+  english epoch 1: train 1.1397 | validation 1.0139 | 42s
+  english epoch 2: train 0.9978 | validation 0.9374 | 42s
+  english epoch 3: train 0.9132 | validation 0.8443 | 42s
+  english epoch 4: train 0.8026 | validation 0.9970 | 42s
+  english epoch 5: train 0.7142 | validation 0.8388 | 42s
+  english epoch 6: train 0.6087 | validation 0.7638 | 42s
+  english epoch 7: train 0.5074 | validation 0.9348 | 42s
+  english epoch 8: train 0.4710 | validation 1.3825 | 42s
+  english epoch 9: train 0.3683 | validation 1.2077 | 42s
+  english epoch 10: train 0.2211 | validation 1.4673 | 42s
+  english epoch 11: train 0.1557 | validation 2.0646 | 42s
+  english epoch 12: train 0.1186 | validation 1.9034 | 42s
+  english epoch 13: train 0.0440 | validation 2.4393 | 42s
+  english epoch 14: train 0.0330 | validation 2.6920 | 42s
+  english epoch 15: train 0.0115 | validation 2.6138 | 42s
+  english epoch 16: train 0.0063 | validation 3.1187 | 42s
+  english epoch 17: train 0.0025 | validation 3.0418 | 42s
+  english epoch 18: train 0.0011 | validation 3.0201 | 42s
+  english epoch 19: train 0.0012 | validation 3.0189 | 42s
+  english epoch 20: train 0.0015 | validation 3.0298 | 42s
+  laya-english-finetuned: 0/600
+  laya-english-finetuned: 100/600
+  laya-english-finetuned: 200/600
+  laya-english-finetuned: 300/600
+  laya-english-finetuned: 400/600
+  laya-english-finetuned: 500/600
+laya-english-finetuned: accuracy 28.7% | balanced 37.7% | recall low/mid/high 19.9/33.6/59.5% | picks 101/262/237
+laya-english-finetuned: best epoch 6
+  laya-multilingual-zeroshot: 0/600
+  laya-multilingual-zeroshot: 100/600
+  laya-multilingual-zeroshot: 200/600
+  laya-multilingual-zeroshot: 300/600
+  laya-multilingual-zeroshot: 400/600
+  laya-multilingual-zeroshot: 500/600
+laya-multilingual-zeroshot: accuracy 23.0% | balanced 31.4% | recall low/mid/high 3.5/87.1/3.6% | picks 25/536/39
+  multilingual epoch 1: train 1.2535 | validation 1.0012 | 18s
+  multilingual epoch 2: train 0.9478 | validation 0.8818 | 18s
+  multilingual epoch 3: train 0.7182 | validation 1.0336 | 18s
+  multilingual epoch 4: train 0.5109 | validation 1.0491 | 18s
+  multilingual epoch 5: train 0.3625 | validation 1.4341 | 18s
+  multilingual epoch 6: train 0.2004 | validation 2.0813 | 18s
+  multilingual epoch 7: train 0.1213 | validation 3.6438 | 18s
+  multilingual epoch 8: train 0.1577 | validation 2.8736 | 18s
+  multilingual epoch 9: train 0.0490 | validation 3.8539 | 18s
+  multilingual epoch 10: train 0.0892 | validation 3.9521 | 18s
+  multilingual epoch 11: train 0.0083 | validation 4.5528 | 18s
+  multilingual epoch 12: train 0.0058 | validation 5.1241 | 18s
+  multilingual epoch 13: train 0.0023 | validation 5.9505 | 18s
+  multilingual epoch 14: train 0.0021 | validation 5.6313 | 18s
+  multilingual epoch 15: train 0.0013 | validation 5.2012 | 18s
+  multilingual epoch 16: train 0.0001 | validation 5.6217 | 18s
+  multilingual epoch 17: train 0.0000 | validation 5.9042 | 18s
+  multilingual epoch 18: train 0.0000 | validation 5.9338 | 18s
+  multilingual epoch 19: train 0.0000 | validation 5.9447 | 18s
+  multilingual epoch 20: train 0.0000 | validation 5.9493 | 18s
+  laya-multilingual-finetuned: 0/600
+  laya-multilingual-finetuned: 100/600
+  laya-multilingual-finetuned: 200/600
+  laya-multilingual-finetuned: 300/600
+  laya-multilingual-finetuned: 400/600
+  laya-multilingual-finetuned: 500/600
+laya-multilingual-finetuned: accuracy 25.3% | balanced 33.1% | recall low/mid/high 15.7/40.7/42.9% | picks 95/280/225
+laya-multilingual-finetuned: best epoch 2
+  laya-typed-decisions-zeroshot: 0/600
+  laya-typed-decisions-zeroshot: 100/600
+  laya-typed-decisions-zeroshot: 200/600
+  laya-typed-decisions-zeroshot: 300/600
+  laya-typed-decisions-zeroshot: 400/600
+  laya-typed-decisions-zeroshot: 500/600
+laya-typed-decisions-zeroshot: accuracy 23.0% | balanced 32.9% | recall low/mid/high 0.0/98.6/0.0% | picks 0/597/3
+  typed-decisions epoch 1: train 1.0795 | validation 0.9733 | 42s
+  typed-decisions epoch 2: train 0.9658 | validation 0.8803 | 42s
+  typed-decisions epoch 3: train 0.8672 | validation 0.8914 | 42s
+  typed-decisions epoch 4: train 0.8009 | validation 0.9714 | 42s
+  typed-decisions epoch 5: train 0.7145 | validation 0.7811 | 42s
+  typed-decisions epoch 6: train 0.5892 | validation 0.7688 | 42s
+  typed-decisions epoch 7: train 0.4190 | validation 0.9517 | 42s
+  typed-decisions epoch 8: train 0.2455 | validation 1.0245 | 42s
+  typed-decisions epoch 9: train 0.2936 | validation 1.9928 | 42s
+  typed-decisions epoch 10: train 0.1683 | validation 2.0730 | 42s
+  typed-decisions epoch 11: train 0.0656 | validation 2.6370 | 42s
+  typed-decisions epoch 12: train 0.0319 | validation 2.0190 | 42s
+  typed-decisions epoch 13: train 0.0189 | validation 2.8581 | 42s
+  typed-decisions epoch 14: train 0.0065 | validation 3.0231 | 42s
+  typed-decisions epoch 15: train 0.0053 | validation 2.6682 | 42s
+  typed-decisions epoch 16: train 0.0047 | validation 2.8133 | 42s
+  typed-decisions epoch 17: train 0.0045 | validation 2.8481 | 42s
+  typed-decisions epoch 18: train 0.0043 | validation 2.8878 | 42s
+  typed-decisions epoch 19: train 0.0039 | validation 2.9034 | 42s
+  typed-decisions epoch 20: train 0.0039 | validation 2.9089 | 43s
+  laya-typed-decisions-finetuned: 0/600
+  laya-typed-decisions-finetuned: 100/600
+  laya-typed-decisions-finetuned: 200/600
+  laya-typed-decisions-finetuned: 300/600
+  laya-typed-decisions-finetuned: 400/600
+  laya-typed-decisions-finetuned: 500/600
+laya-typed-decisions-finetuned: accuracy 29.5% | balanced 38.5% | recall low/mid/high 15.4/62.1/38.1% | picks 73/395/132
+laya-typed-decisions-finetuned: best epoch 6

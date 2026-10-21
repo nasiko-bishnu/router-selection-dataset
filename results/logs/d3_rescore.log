@@ -1,0 +1,2 @@
+d3-flash-zeroshot: accuracy 50.5% | balanced 48.3% | recall low/mid/high 45.7/85.0/14.3% | picks 198/386/16
+d3-flash-finetuned: accuracy 35.8% | balanced 43.6% | recall low/mid/high 29.0/36.4/65.5% | picks 127/251/222

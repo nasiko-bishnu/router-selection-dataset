@@ -1,0 +1,14 @@
+  pr-296-semantic: 0/600
+  pr-296-semantic: 100/600
+  pr-296-semantic: 200/600
+  pr-296-semantic: 300/600
+  pr-296-semantic: 400/600
+  pr-296-semantic: 500/600
+pr-296-semantic: accuracy 28.5% | balanced 37.0% | recall low/mid/high 19.9/35.0/56.0% | picks 101/235/264
+  pr-296-lexical: 0/600
+  pr-296-lexical: 100/600
+  pr-296-lexical: 200/600
+  pr-296-lexical: 300/600
+  pr-296-lexical: 400/600
+  pr-296-lexical: 500/600
+pr-296-lexical: accuracy 25.3% | balanced 35.0% | recall low/mid/high 16.5/27.9/60.7% | picks 81/202/317
